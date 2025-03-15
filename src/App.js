@@ -17,7 +17,7 @@ function App() {
 
     return (
         <div style={{ textAlign: "center", marginTop: "50px" }}>
-            <h1>Meine React-PWA</h1>
+            <h1>Paper Mario 2 Guide</h1>
             <label>
                 <input type="checkbox" checked={isChecked} onChange={handleCheckboxChange} />
                 Merke mich!
