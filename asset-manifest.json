@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/paper-mario-2-guide-new/static/css/main.e6c13ad2.css",
+    "main.js": "/paper-mario-2-guide-new/static/js/main.c953db2b.js",
+    "service-worker.js": "/paper-mario-2-guide-new/service-worker.js",
+    "index.html": "/paper-mario-2-guide-new/index.html",
+    "main.e6c13ad2.css.map": "/paper-mario-2-guide-new/static/css/main.e6c13ad2.css.map",
+    "main.c953db2b.js.map": "/paper-mario-2-guide-new/static/js/main.c953db2b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c953db2b.js"
+  ]
+}
