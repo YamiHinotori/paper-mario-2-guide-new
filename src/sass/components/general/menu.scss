@@ -37,6 +37,7 @@
             height: 40px;
             color: white;
             font-family: 'FOT-PopJoy Std B';
+            text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
     
             &.active {
                 scale: 1.1;

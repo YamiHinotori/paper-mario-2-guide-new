@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import { Menu } from "./js/components/general/Menu";
 import { Home } from "./js/components/pages/Home";
 import { Collectables } from "./js/components/pages/Collectables";
@@ -30,6 +30,17 @@ const pages = {
 function App() {
     const [selectedPage, setSelectedPage] = useState("Home");
     const PageComponent = pages[selectedPage] || Home; // Falls unbekannte Seite, Standard auf Home
+
+    useEffect(() => {
+        const savedState = JSON.parse(localStorage.getItem("lastPage"));
+        
+        if (savedState == null) {
+            setSelectedPage("Home");
+            localStorage.setItem("lastPage", JSON.stringify("Home"));
+        } else {
+            setSelectedPage(savedState);
+        }
+    }, []);
 
     return (
         <div className="background">

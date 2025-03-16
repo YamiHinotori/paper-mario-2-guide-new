@@ -1,7 +1,21 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, use } from "react";
 import "../../../sass/components/general/menu.scss"
 
 export const Menu = ({ onSelect }) => {
+    const [isOpen, setIsOpen] = useState(false);
+    const [activeItem, setActiveItem] = useState("Home");
+
+    useEffect(() => {
+        const savedState = JSON.parse(localStorage.getItem("lastPage"));
+        
+        if (savedState != null) {
+            setActiveItem(savedState);
+            const newBackgroundColor = menuItems.find((item) => item.name == savedState).backgroundColor;
+            document.getElementsByClassName("holder")[0].style.backgroundColor = newBackgroundColor;
+        }
+    }, []);
+
+
     const menuItems = [
         {
             name: "Home",
@@ -60,9 +74,6 @@ export const Menu = ({ onSelect }) => {
         }
     ];
 
-    const [isOpen, setIsOpen] = useState(false);
-    const [activeItem, setActiveItem] = useState("Home");
-
     return (
         <nav className="menu">
             {/* Burger Button */}
@@ -76,11 +87,12 @@ export const Menu = ({ onSelect }) => {
             <div className={`${isOpen ? "open" : ""} itemMenu`}>
                 {menuItems.map((item) => (
                     <button
-                        key={item}
+                        key={item.name}
                         onClick={() => {
                             setActiveItem(item.name);
                             onSelect(item.name);
                             setIsOpen(false);
+                            localStorage.setItem("lastPage", JSON.stringify(item.name));
 
                             document.getElementsByClassName("holder")[0].style.backgroundColor = item.backgroundColor;
                         }}
