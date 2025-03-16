@@ -1,0 +1,72 @@
+
+.menu {
+    display: flex;
+    justify-content: flex-start;
+    gap: 10px;
+    flex-wrap: wrap;
+    padding: 0 10px 0 10px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 40px;
+
+    .burgerMenu {
+        background: white;
+        padding: 10px;
+        border: 3px solid black;
+        border-radius: 5px;
+        font-weight: bold;
+        cursor: pointer;
+        box-shadow: 2px 2px 0px black;
+        display: none;
+    }
+
+    .itemMenu {
+        display: flex;
+        gap: 10px;
+        
+        .item {
+            background-color: white;
+            padding: 8px 12px;
+            border-radius: 0 0 10px 10px;
+            border: 3px solid black;
+            font-weight: bold;
+            cursor: pointer;
+            box-shadow: 2px 2px 0px black;
+            transition: "0.2s";
+            height: 40px;
+            color: white;
+            font-family: 'FOT-PopJoy Std B';
+    
+            &.active {
+                scale: 1.1;
+                font-weight: 900;
+                height: 50px;
+                justify-content: end;
+            }
+        }
+    }
+
+    @media (max-width: 1079px) {
+
+        .burgerMenu {
+            display: block;
+        }
+    
+        .itemMenu {
+            display: none;
+            
+            &.open {
+                display: flex;
+                flex-direction: row;
+                flex-wrap: wrap;
+                height: fit-content;
+                width: 88%;
+                gap: 5px;
+                background-color: white;
+                padding: 10px;
+                box-shadow: 4px 4px 0px black;
+            }
+        }
+    };
+}

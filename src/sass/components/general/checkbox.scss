@@ -1,0 +1,33 @@
+.checkboxLabel {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 10px;
+    cursor: pointer;
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 0px black;
+    border: 3px solid black;
+    font-weight: bold;
+
+    input {
+        display: none;
+    }
+
+    .checkboxInput {
+        width: 24px;
+        height: 24px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: white;
+        border: 3px solid black;
+        border-radius: 5px;
+
+        .checkboxCheckmark {
+            font-size: 18px;
+            font-weight: bold;
+        }
+    }
+}

@@ -1,0 +1,27 @@
+.home {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 10px;
+
+    .button {
+        background-color: rgba(255, 255, 255, .9);
+        padding: 8px 12px;
+        border-radius: 5px;
+        border: 3px solid black;
+        font-weight: bold;
+        cursor: pointer;
+        box-shadow: 2px 2px 0px black;
+        width: max-content;
+        margin-bottom: 20px;
+        font-family: "FOT-PopJoy Std B";
+    }
+    
+    .mainContent {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        width: 100%;
+        gap: 15px;
+    }
+}
