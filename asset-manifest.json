@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/paper-mario-2-guide-new/static/css/main.2d15f841.css",
-    "main.js": "/paper-mario-2-guide-new/static/js/main.33b647c5.js",
+    "main.css": "/paper-mario-2-guide-new/static/css/main.a5f049d6.css",
+    "main.js": "/paper-mario-2-guide-new/static/js/main.23402e8c.js",
     "static/media/background.jpeg": "/paper-mario-2-guide-new/static/media/background.49282a636edf98a27587.jpeg",
     "service-worker.js": "/paper-mario-2-guide-new/service-worker.js",
+    "static/media/backgroundIcons.png": "/paper-mario-2-guide-new/static/media/backgroundIcons.60abd2d046a9e1faf407.png",
     "index.html": "/paper-mario-2-guide-new/index.html",
-    "main.2d15f841.css.map": "/paper-mario-2-guide-new/static/css/main.2d15f841.css.map",
-    "main.33b647c5.js.map": "/paper-mario-2-guide-new/static/js/main.33b647c5.js.map"
+    "main.a5f049d6.css.map": "/paper-mario-2-guide-new/static/css/main.a5f049d6.css.map",
+    "main.23402e8c.js.map": "/paper-mario-2-guide-new/static/js/main.23402e8c.js.map"
   },
   "entrypoints": [
-    "static/css/main.2d15f841.css",
-    "static/js/main.33b647c5.js"
+    "static/css/main.a5f049d6.css",
+    "static/js/main.23402e8c.js"
   ]
 }
