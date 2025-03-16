@@ -10,6 +10,7 @@ export const Home = () => {
 
         if (response) {
             localStorage.removeItem("checkboxStateCollectables");
+            localStorage.removeItem("checkboxStateMissionen");
             localStorage.removeItem("lastPage");
             window.alert('Ein Neues Spiel wurde gestartet! Die Seite wird nun neu geladen.');
             window.location.reload();

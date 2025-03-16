@@ -58,7 +58,7 @@ export const Menu = ({ onSelect }) => {
             backgroundColor: "rgba(227, 184, 80, .9)"
         },
         {
-            name: "Missionen",
+            name: "Aufträge",
             color: "#47c151",
             backgroundColor: "rgba(71, 193, 81, .9)"
         },

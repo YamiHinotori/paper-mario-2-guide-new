@@ -21,7 +21,7 @@ const pages = {
     Einkaufsliste: Einkaufsliste,
     Items: Items,
     Lexikon: Lexikon,
-    Missionen: Missionen,
+    Aufträge: Missionen,
     Orden: Orden,
     Rezepte: Rezepte,
     Shops: Shops

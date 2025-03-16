@@ -1,0 +1,35 @@
+.auftraege {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 20px;
+
+    .auftraegeNav {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 20px;
+
+        .item {
+            background-color: rgba(255, 255, 255, .9);
+            padding: 8px 12px;
+            border-radius: 10px;
+            border: 3px solid black;
+            font-weight: bold;
+            cursor: pointer;
+            box-shadow: 2px 2px 0px black;
+            width: max-content;
+            margin-bottom: 20px;
+            font-family: "FOT-PopJoy Std B";
+            font-size: 16px;
+            width: 250px;
+        }
+    }
+
+    .auftraegeContainer {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+}
