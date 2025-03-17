@@ -38,5 +38,402 @@
                 "anzahl": 1
             }
         ]
-    }
+    },
+    {
+        "id": 3,
+        "name": "Das Pokey-Trio",
+        "rang": 17,
+        "information": null,
+        "gegner": [
+          {
+            "name": "Pokey",
+            "kp": 4,
+            "angriff": 3,
+            "verteidigung": 0,
+            "bild": "images/enemies/pokey.webp",
+            "beschreibung": "Fieser Kaktus mit Stacheln. Pokeys werfen mit Teilen ihres Körpers. Manchmal rufen sie auch Verstärkung.",
+            "anzahl": 3
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Die Knochenwerfer",
+        "rang": 16,
+        "information": null,
+        "gegner": [
+          {
+            "name": "Knochen-Koopa",
+            "kp": 1,
+            "angriff": 2,
+            "verteidigung": 1,
+            "bild": "images/enemies/knochen-koopa.webp",
+            "beschreibung": "Verknöcherte Koopas, die mit Knochen werfen und sich auf rätselhafte Art selbst reproduzieren können.",
+            "anzahl": 3
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Stachi + Partner",
+        "rang": 15,
+        "information": "Der Hot-Dog Stand hat das Yoshi-Ei",
+        "gegner": [
+          {
+            "name": "Lakitu",
+            "kp": 5,
+            "angriff": 2,
+            "verteidigung": 0,
+            "bild": "images/enemies/lakitu.webp",
+            "beschreibung": "Auf Wolken reitende Koopas, werfen mit Stachi-Eiern. Aus den Stachi-Eiern können auch Stachis schlüpfen.",
+            "anzahl": 1
+          },
+          {
+            "name": "Stachi",
+            "kp": 3,
+            "angriff": 3,
+            "verteidigung": 3,
+            "bild": "images/enemies/stachi.webp",
+            "beschreibung": "Stacheliges Panzertier mit hohem Verteidigungswert. Wenn sie sich einrollen, ist Angriff zwecklos.",
+            "anzahl": 2
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Die  Banditenbande",
+        "rang": 14,
+        "information": null,
+        "gegner": [
+          {
+            "name": "Bandit",
+            "kp": 5,
+            "angriff": 2,
+            "verteidigung": 0,
+            "bild": "images/enemies/bandit.webp",
+            "beschreibung": "Banditen stehlen Münzen. Eine gute Verteidigung verhindert den Diebstahl.",
+            "anzahl": 2
+          },
+          {
+            "name": "Großer Bandit",
+            "kp": 8,
+            "angriff": 3,
+            "verteidigung": 0,
+            "bild": "images/enemies/grosse_bandit.webp",
+            "beschreibung": "Die großen Brüder der Banditen. Sie stehlen Münzen und Items. Eine gute Verteidigung verhindert den Diebstahl.",
+            "anzahl": 2
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Piranhas & Co",
+        "rang": 13,
+        "information": null,
+        "gegner": [
+          {
+            "name": "Piranha-Pflanze",
+            "kp": 4,
+            "angriff": 2,
+            "verteidigung": 0,
+            "bild": "images/enemies/piranha-pflanze.webp",
+            "beschreibung": "Eine monochrome Piranha-Pflanze, deren Bisse dem Gegner großen Schaden zufügen.",
+            "anzahl": 1
+          },
+          {
+            "name": "Fadula",
+            "kp": 5,
+            "angriff": 2,
+            "verteidigung": 0,
+            "bild": "images/enemies/fadula.webp",
+            "beschreibung": "Bewegen sich an Fäden auf und ab. Zielen und schießen bis zu drei Mal.",
+            "anzahl": 1
+          },
+          {
+            "name": "Stratox",
+            "kp": 3,
+            "angriff": 2,
+            "verteidigung": 0,
+            "bild": "images/enemies/stratox.webp",
+            "beschreibung": "Gewitterwolken, die mit Blitzen angreifen können. Verursachen Schaden beim Angreifer, solange sie elektrisch geladen sind.",
+            "anzahl": 1
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Die Hyper-Steine",
+        "rang": 12,
+        "information": null,
+        "gegner": [
+          {
+            "name": "Hyper-Kahl",
+            "kp": 3,
+            "angriff": 2,
+            "verteidigung": 2,
+            "bild": "images/enemies/hyper-kahl.webp",
+            "beschreibung": "Hyperstarke Kahl-Kirks, die sich aufladen können. Nach dem Aufladen beträgt die Angriffskraft 8 Punkte.",
+            "anzahl": 3
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Die Bommb-er",
+        "rang": 11,
+        "information": null,
+        "gegner": [
+          {
+            "name": "Bob-omb",
+            "kp": 4,
+            "angriff": 2,
+            "verteidigung": 1,
+            "bild": "images/enemies/bob-omb.webp",
+            "beschreibung": "Bombige Kämpfer, die leicht in die Luft gehen. Nehmen sie Schaden, explodieren sie in nächsten Zug.",
+            "anzahl": 4
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Die Stahl-Brüder",
+        "rang": 10,
+        "information": "Kann ohne Yoshi nicht gewonnen werden",
+        "gegner": [
+          {
+            "name": "Stahl-Kirk",
+            "kp": 6,
+            "angriff": 4,
+            "verteidigung": 1000,
+            "bild": "images/enemies/roter_stahl-kirk.webp",
+            "beschreibung": "Riesige, harte Kirks. Immun gegen viele Attacken. Wie soll man die denn bitte besiegen?",
+            "anzahl": 1
+          },
+          {
+            "name": "Stahl-Kirk",
+            "kp": 6,
+            "angriff": 4,
+            "verteidigung": 1000,
+            "bild": "images/enemies/gruener_stahl-kirk.webp",
+            "beschreibung": "Riesige, harte Kirks. Immung gegen viele Attacken. Er hat grüne Schuhe... Vermutlich der kleine Bruder.",
+            "anzahl": 1
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "Die Pickelkäfer",
+        "rang": 9,
+        "information": null,
+        "gegner": [
+          {
+            "name": "Roter Pickelkäfer",
+            "kp": 5,
+            "angriff": 3,
+            "verteidigung": 4,
+            "bild": "images/enemies/roter_pickelkaefer.webp",
+            "beschreibung": "Ein Käfer mit extrastarker Verteidigung, immun gegen Feuer und Explosionen. Gegen Sprungattacken schützt ihn sein Stachel.",
+            "anzahl": 2
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "name": "Die Stachel-Steine",
+        "rang": 8,
+        "information": "Super-Hammer ist verfügbar",
+        "gegner": [
+          {
+            "name": "Dornhart",
+            "kp": 2,
+            "angriff": 1,
+            "verteidigung": 4,
+            "bild": "images/enemies/dornhart.webp",
+            "beschreibung": "Steinmonster mit Dornen, immun gegen Feuer-Attacken. Zur Verteidigung fahren sie ihre Dornen aus.",
+            "anzahl": 2
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "name": "Die Schattengang",
+        "rang": 7,
+        "information": "Die Stahl-Brüder fordern einen Rückkampf",
+        "gegner": [
+          {
+            "name": "Schattenkoopa",
+            "kp": 8,
+            "angriff": 3,
+            "verteidigung": 1,
+            "bild": "images/enemies/schattenkoopa.webp",
+            "beschreibung": "Nach dem Umkippen erhöht sich seine Angriffskraft. Der Schattenkoopa ist ein besonders fieser Koopa.",
+            "anzahl": 2
+          },
+          {
+            "name": "Schattenpara",
+            "kp": 8,
+            "angriff": 3,
+            "verteidigung": 1,
+            "bild": "images/enemies/schattenpara.webp",
+            "beschreibung": "Geflügelter Schattenkoopa. Zwinge ihn zur Landung. Nach dem Umkippen steigt die Angriffskraft.",
+            "anzahl": 1
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "name": "Das Fuzzy-Trio",
+        "rang": 6,
+        "information": null,
+        "gegner": [
+          {
+            "name": "Fuzzy",
+            "kp": 3,
+            "angriff": 1,
+            "verteidigung": 0,
+            "bild": "images/enemies/fuzzy.webp",
+            "beschreibung": "Fuzzys saugen KP des Gegners ab und absorbieren sie. Das Action-Kommando erfordert präzises Timing.",
+            "anzahl": 1
+          },
+          {
+            "name": "Wald-Fuzzy",
+            "kp": 5,
+            "angriff": 3,
+            "verteidigung": 0,
+            "bild": "images/enemies/wald-fuzzy.webp",
+            "beschreibung": "Fuzzys aus dem Wald, die deine KP aufsaugen. Besiege sie, bevor sie sich teilen können",
+            "anzahl": 1
+          },
+          {
+            "name": "Wiesen-Fuzzy",
+            "kp": 6,
+            "angriff": 3,
+            "verteidigung": 0,
+            "bild": "images/enemies/wiesen-fuzzy.webp",
+            "beschreibung": "Hübsch gefärbte Fuzzys, die BP absaugen. Haben sie genug BP, verwenden sie magische Attacken.",
+            "anzahl": 1
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Die Kamek-Dämonen",
+        "rang": 5,
+        "information": "Bowser Kampf",
+        "gegner": [
+          {
+            "name": "Roter Kamek",
+            "kp": 7,
+            "angriff": 4,
+            "verteidigung": 0,
+            "bild": "images/enemies/roter_kamek.webp",
+            "beschreibung": "Roter Kamek-Magier mit erstaunlicher Kraft. Erhöht Angriff und Verteidigung deiner Gegner.",
+            "anzahl": 1
+          },
+          {
+            "name": "Weißer Kamek",
+            "kp": 7,
+            "angriff": 4,
+            "verteidigung": 0,
+            "bild": "images/enemies/weisser_kamek.webp",
+            "beschreibung": "Weißer Kamek-Magier mit erstaunlicher Kraft. Seine Magie macht deine Gegner wieder fit.",
+            "anzahl": 1
+          },
+          {
+            "name": "Grüner Kamek",
+            "kp": 7,
+            "angriff": 4,
+            "verteidigung": 0,
+            "bild": "images/enemies/gruener_kamek.webp",
+            "beschreibung": "Grüner Kamek-Magier mit erstaunlicher Kraft. Lädt Gegner auf oder macht sie durchsichtig.",
+            "anzahl": 1
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "name": "Lanzissimo",
+        "rang": 4,
+        "information": "Telefonzelle + 1. Lagerraum",
+        "gegner": [
+          {
+            "name": "Lanzhäher",
+            "kp": 20,
+            "angriff": 6,
+            "verteidigung": 0,
+            "bild": "images/enemies/lanzhaeher.webp",
+            "beschreibung": "Seine Lanze schützt ihn vor Sprungattacken. Er wirft die Lanze oder greift mit ihr frontal an.",
+            "anzahl": 1
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "name": "Das Brüder-Trio",
+        "rang": 3,
+        "information": null,
+        "gegner": [
+          {
+            "name": "Hammer-Bruder",
+            "kp": 7,
+            "angriff": 4,
+            "verteidigung": 1,
+            "bild": "images/enemies/hammer-bruder.webp",
+            "beschreibung": "Altbekannter Gegner, die mit Hämmern um sich werfen. Aber sind sie Mario wirklich gewachsen?",
+            "anzahl": 1
+          },
+          {
+            "name": "Bumerang-Bruder",
+            "kp": 7,
+            "angriff": 2,
+            "verteidigung": 1,
+            "bild": "images/enemies/bumerang-bruder.webp",
+            "beschreibung": "Verwendet für den Angriff Bumerangs statt Hämmern. Achtung! Bumerangs können zwei Mal treffen!",
+            "anzahl": 1
+          },
+          {
+            "name": "Feuer-Bruder",
+            "kp": 7,
+            "angriff": 3,
+            "verteidigung": 1,
+            "bild": "images/enemies/feuer-bruder.webp",
+            "beschreibung": "Ein Feuer speiender Hammer-Bruder? Treffen seine Attacken, kannst du Feuer fangen.",
+            "anzahl": 1
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "name": "Die Feuer-Chomps",
+        "rang": 2,
+        "information": null,
+        "gegner": [
+          {
+            "name": "Roter Chomp",
+            "kp": 6,
+            "angriff": 5,
+            "verteidigung": 3,
+            "bild": "images/enemies/roter_chomp.webp",
+            "beschreibung": "Brutale Chomps, stark in Angriff und Verteidigung. Die rote Farbe stammt angeblich von Clubbone...",
+            "anzahl": 2
+          }
+        ]
+      },
+      {
+        "id": 19,
+        "name": "Die Ass-Koopatrouille",
+        "rang": 1,
+        "information": "Poster + 2. Lagerraum",
+        "gegner": [
+          {
+            "name": "Ass-Koopatrouille",
+            "kp": 25,
+            "angriff": 5,
+            "verteidigung": 2,
+            "bild": "images/enemies/ass-koopatrouille.webp",
+            "beschreibung": "Unter den Koopatrouillen ist er ein Ass. Wenn er Kraft sammelt, sind seine Attacken extra stark.",
+            "anzahl": 1
+          }
+        ]
+      }
 ]

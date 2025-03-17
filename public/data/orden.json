@@ -1,28 +1,1140 @@
 [
     {
-        "id": 1,
-        "name": "Power-Sprung",
-        "op": 1,
-        "beschreibung": "Mario lernt den Power-Sprung, der ihn 2 BP kostet. Mit diesem Sprung zeigt er Gegnern, was eine Harke ist. Mehrere Orden verbrauchen mehr BP, wirken aber stärker.",
-        "bild": "/images/badges/power-sprung.png",
-        "orte": [
-            {
-                "name": "Rohlingen",
-                "beschreibung": "Orden-Shop"
-            }
-        ]
+      "id": 1,
+      "name": "Power-Sprung",
+      "op": 1,
+      "beschreibung": "Mario lernt den Power-Sprung, der ihn 2 BP kostet. Mit diesem Sprung zeigt er Gegnern, was eine Harke ist. Mehrere Orden verbrauchen mehr BP, wirken aber stärker.",
+      "bild": "images/badges/power-sprung.png",
+      "orte": [
+        {
+          "name": "Rohlingen",
+          "beschreibung": "Orden-Shop"
+        }
+      ]
     },
     {
-        "id": 2,
-        "name": "Multisprung",
-        "op": 1,
-        "beschreibung": "Mario lernt den Multisprung, der ihn 2 BP kostet. Mit dem richtigen Action-Kommando trifft er alle Gegner in Reihe. Mehrere Orden verbrauchen mehr BP, wirken aber stärker.",
-        "bild": "/images/badges/multisprung.png",
-        "orte": [
-            {
-                "name": "Geröllburg",
-                "beschreibung": null
-            }
-        ]
+      "id": 2,
+      "name": "Multisprung",
+      "op": 1,
+      "beschreibung": "Mario lernt den Multisprung, der ihn 2 BP kostet. Mit dem richtigen Action-Kommando trifft er alle Gegner in Reihe. Mehrere Orden verbrauchen mehr BP, wirken aber stärker.",
+      "bild": "images/badges/multisprung.png",
+      "orte": [
+        {
+          "name": "Geröllburg",
+          "beschreibung": null
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Schrumpfer",
+      "op": 1,
+      "beschreibung": "Mario lernt den Schrumpfer. Dieser kostet ihn 2 BP. Hierdurch schrumpfen Gegner: Sie werden schwächer. Mehrere Orden verbrauchen mehr BP, wirken aber stärker.",
+      "bild": "images/badges/schrumpfer.png",
+      "orte": [
+        {
+          "name": "Großer Baum",
+          "beschreibung": "Kurz nach Erhalt der Super-Stiefel"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Schnarcher",
+      "op": 1,
+      "beschreibung": "Mario lernt den Schnarcher. Ein Hit für nur 2 BP. Hiermit schläfert er Gegner ein: Sie greifen nicht an. Mehrere Orden verbrauchen mehr BP, wirken aber stärker.",
+      "bild": "images/badges/schnarcher.png",
+      "orte": [
+        {
+          "name": "Duellkerker",
+          "beschreibung": "10. Geschoss"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Erweicher",
+      "op": 1,
+      "beschreibung": "Mario lernt den Erweicher. Er verbraucht 2 BP. Hiermit erweicht er Gegner und senkt ihre Verteidigung. Mehrere Orden verbrauchen mehr BP, wirken aber stärker.",
+      "bild": "images/badges/erweicher.png",
+      "orte": [
+        {
+          "name": "Katakomben",
+          "beschreibung": "Stadt"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Orkansprung",
+      "op": 2,
+      "beschreibung": "Mario lernt den Orkansprung, der ihn 3 BP kostet. Bei richtiger Anwendung trifft er auch seine Luftgegner. Mehrere Orden verbrauchen mehr BP, wirken aber stärker.",
+      "bild": "images/badges/orkansprung.png",
+      "orte": [
+        {
+          "name": "Spukabtei",
+          "beschreibung": "Brunnen"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Power-Dauz",
+      "op": 3,
+      "beschreibung": "Mario lernt den Power-Dauz, der ihn 3 BP kostet. Er trifft Gegner, solange das Action-Kommando stimmt.",
+      "bild": "images/badges/power-dauz.png",
+      "orte": [
+        {
+          "name": "Lohgards Burg",
+          "beschreibung": "1. Raum"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Power-Hauer",
+      "op": 1,
+      "beschreibung": "Mario lernt den Power-Schlag. Dieser verbraucht 2 BP. Mit diesem Schlag zeigt er Gegnern, was eine Harke ist. Mehrere Orden verbrauchen mehr BP, wirken aber stärker.",
+      "bild": "images/badges/power-hauer.png",
+      "orte": [
+        {
+          "name": "Rohlingen",
+          "beschreibung": "Prof. Gumbarth"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Anti-V-Hieb",
+      "op": 1,
+      "beschreibung": "Mario lernt den Anti-V-Hieb, der 2 BP verbraucht. Dieser Hieb umgeht die gegnerische Verteidigung.",
+      "bild": "images/badges/anti-v-hieb.png",
+      "orte": [
+        {
+          "name": "Rohlingen",
+          "beschreibung": "Orden-Shop"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Hammerwurf",
+      "op": 1,
+      "beschreibung": "Mario lernt den Hammerwurf, für den er 2 BP braucht. Marios Hammer wirkt gegen Gegner auf allen Positionen. Mehrere Orden verbrauchen mehr BP, wirken aber stärker.",
+      "bild": "images/badges/hammerwurf.png",
+      "orte": [
+        {
+          "name": "Düsterweg",
+          "beschreibung": null
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Wirrschlag",
+      "op": 1,
+      "beschreibung": "Mario erlernt den Wirrschlag für nur 2 BP pro Hieb. Dieser verwirrt die Gegner und führt zu Kontrollverlust. Mehrere Orden verbrauchen mehr BP, wirken aber länger.",
+      "bild": "images/badges/wirrschlag.png",
+      "orte": [
+        {
+          "name": "Isla Corsaria",
+          "beschreibung": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Eisschlag",
+      "op": 1,
+      "beschreibung": "Mario erlernt den Eisschlag. Dieser verbraucht 3 BP. Dieser Schlag verwandelt Gegner in eisige Skulpturen. Mehrere Orden verbrauchen mehr BP, wirken aber länger.",
+      "bild": "images/badges/eisschlag.png",
+      "orte": [
+        {
+          "name": "Piratenhöhle",
+          "beschreibung": "Geheimraum"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Erdbeben",
+      "op": 2,
+      "beschreibung": "Mario lernt Erdbeben. Diese Attacke kostet ihn 3 BP. Das Erdbeben schadet allen Boden und Deckengegnern. Mehrere Orden verbrauchen mehr BP, wirken aber stärker.",
+      "bild": "images/badges/erdbeben.png",
+      "orte": [
+        {
+          "name": "Wunderwald",
+          "beschreibung": null
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Feuerschlag",
+      "op": 3,
+      "beschreibung": "Für 5 BP führt Mario den mächtigen Feuerschlag aus. Er attackiert alle Bodengegner und setzt sie in Brand. Mehrere Orden verbrauchen mehr BP, wirken aber stärker.",
+      "bild": "images/badges/feuerschlag.png",
+      "orte": [
+        {
+          "name": "Duellkerker",
+          "beschreibung": "20. Geschoss"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Charge",
+      "op": 1,
+      "beschreibung": "Mario kann \"Charge\" im Menü \"Taktik\" auswählen. Der Einsatz kostet 1 BP. Der Einsatz von zwei Orden kostet mehr BP, gibt aber noch mehr Kraft.",
+      "bild": "images/badges/charge.png",
+      "orte": [
+        {
+          "name": "Großer Baum",
+          "beschreibung": null
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Charge P",
+      "op": 1,
+      "beschreibung": "Dein Partner kann \"Charge\" im Menü \"Taktik\" auswählen. Der Einsatz kostet 1 BP. Der Einsatz von zwei Orden kostet mehr BP, gibt aber noch mehr Kraft.",
+      "bild": "images/badges/charge_p.png",
+      "orte": [
+        {
+          "name": "Falkenheim",
+          "beschreibung": "Lagerhalle"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Doppelgriff",
+      "op": 3,
+      "beschreibung": "Lässt Mario zwei Items pro Runde einsetzen. Der Einsatz kostet 4 BP. Der Einsatz von zwei Orden kostet mehr BP, ermöglicht aber den Einsatz von drei Items.",
+      "bild": "images/badges/doppelgriff.png",
+      "orte": [
+        {
+          "name": "Duellkerker",
+          "beschreibung": "60. Geschoss"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Doppelgriff P",
+      "op": 3,
+      "beschreibung": "Ist der Partner am Zug, kann er zwei Items einsetzen. Der Einsatz kostet 4 BP. Der Einsatz von zwei Orden kostet mehr BP, ermöglicht aber den Einsatz von drei Items.",
+      "bild": "images/badges/doppelgriff_p.png",
+      "orte": [
+        {
+          "name": "Duellkerker",
+          "beschreibung": "70. Geschoss"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "KP-Plus",
+      "op": 3,
+      "beschreibung": "Erhöht Marios Gesamt-KP um 5.",
+      "bild": "images/badges/kp-plus.png",
+      "orte": [
+        {
+          "name": "Lohgards Burg",
+          "beschreibung": "Innenhof, erreichbar mit Koopio"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "KP-Plus P",
+      "op": 6,
+      "beschreibung": "Erhöht die Gesamt-KP deines Mitstreiters um 5.",
+      "bild": "images/badges/kp-plus_p.png",
+      "orte": [
+        {
+          "name": "Falkenheim",
+          "beschreibung": "Oben im Lager"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "BP-Plus",
+      "op": 3,
+      "beschreibung": "Erhöht die Gesamt-BP um 5.",
+      "bild": "images/badges/bp-plus.png",
+      "orte": [
+        {
+          "name": "Katakomben",
+          "beschreibung": "2. Röhrenraum"
+        },
+        {
+          "name": "Großer Baum",
+          "beschreibung": "Im kleinen Wasserfall vor dem Eingang"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Kraft-Plus",
+      "op": 6,
+      "beschreibung": "Angriffswert für Sprung und Hammerattacken steigt um 1.",
+      "bild": "images/badges/kraft-plus.png",
+      "orte": [
+        {
+          "name": "Spukabtei",
+          "beschreibung": "Im Raum mit dem Papagei"
+        },
+        {
+          "name": "Katakomben",
+          "beschreibung": "Funkelbart für 15 Sternsplitter"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Kraft-Plus P",
+      "op": 6,
+      "beschreibung": "Angriffswert deines Mitstreiters steigt um 1.",
+      "bild": "images/badges/kraft-plus_p.png",
+      "orte": [
+        {
+          "name": "Katakomben",
+          "beschreibung": "Funkelbart für 15 Sternsplitter"
+        },
+        {
+          "name": "Falkenheim",
+          "beschreibung": "Auf dem Dach der Bar"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Alles oder...",
+      "op": 4,
+      "beschreibung": "Höherer Schaden bei erfolgreichem Action-Kommando. Bei einem Fehlschlag beträgt der Schaden 0.",
+      "bild": "images/badges/alles_oder.png",
+      "orte": [
+        {
+          "name": "Äonenpalast",
+          "beschreibung": null
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Meistersprung",
+      "op": 2,
+      "beschreibung": "Der Effekt von Sprüngen steigt um 1. Dafür kann Mario den Hammer nicht mehr verwenden.",
+      "bild": "images/badges/meistersprung.png",
+      "orte": [
+        {
+          "name": "Rohlingen",
+          "beschreibung": "Ramschnik"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Dampfhammer",
+      "op": 2,
+      "beschreibung": "Der Effekt von Marios Hammer steigt um 1. Dafür kann Mario keine Sprünge mehr verwenden.",
+      "bild": "images/badges/dampfhammer.png",
+      "orte": [
+        {
+          "name": "Rohlingen",
+          "beschreibung": "Ramschnik"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "A+ V-",
+      "op": 2,
+      "beschreibung": "Erhöht die Angriffskraft um 1. Senkt die Verteidigung um 1.",
+      "bild": "images/badges/p_plus_v_minus.png",
+      "orte": [
+        {
+          "name": "Tulpenbach",
+          "beschreibung": null
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "A+ V- P",
+      "op": 2,
+      "beschreibung": "Erhöht die Angriffskraft deines Partners um 1 und senkt seine Verteidigung um 1.",
+      "bild": "images/badges/p_plus_v_minus_p.png",
+      "orte": [
+        {
+          "name": "Äonenpalast",
+          "beschreibung": null
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "A- V+",
+      "op": 2,
+      "beschreibung": "Senkt die Angriffskraft um 1. Erhöht die Verteidigung um 1.",
+      "bild": "images/badges/p_minus_v_plus.png",
+      "orte": [
+        {
+          "name": "Piratenhöhle",
+          "beschreibung": null
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "A- V+ P",
+      "op": 2,
+      "beschreibung": "Senkt die Angriffskraft deines Partners um 1 und erhöht seine Verteidigung um 1.",
+      "bild": "images/badges/p_minus_v_plus_p.png",
+      "orte": [
+        {
+          "name": "Wunderwald",
+          "beschreibung": "Im Raum mit der großen Röhre auf den Baumstämmen im Hintergrund"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Ausweicher",
+      "op": 2,
+      "beschreibung": "Bei erfolgreichem Einsatz des Action-Kommandos für Marios Verteidigung sinkt erlittener Schaden um 1.",
+      "bild": "images/badges/ausweicher.png",
+      "orte": [
+        {
+          "name": "Katakomben",
+          "beschreibung": "In der Nähe zur Wunderwald Röhre"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Ausweicher P",
+      "op": 2,
+      "beschreibung": "Bei erfolgreichem Einsatz des Action-Kommandos für Partner-Verteidigung sinkt erlittener Schaden um 1.",
+      "bild": "images/badges/ausweicher_p.png",
+      "orte": [
+        {
+          "name": "Großer Baum",
+          "beschreibung": "Im Raum zwischen den beiden Festungen der Piekatos"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Verteidiger",
+      "op": 5,
+      "beschreibung": "Marios Verteidigung steigt um 1.",
+      "bild": "images/badges/verteidiger.png",
+      "orte": [
+        {
+          "name": "Düsterdorf",
+          "beschreibung": "Lagerraum des Shops"
+        },
+        {
+          "name": "Katakomben",
+          "beschreibung": "Bei den 3 Insignien"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Verteidiger P",
+      "op": 5,
+      "beschreibung": "Die Verteidigung deines Partners steigt um 1.",
+      "bild": "images/badges/verteidiger_p.png",
+      "orte": [
+        {
+          "name": "Piratenhöhle",
+          "beschreibung": null
+        },
+        {
+          "name": "Katakomben",
+          "beschreibung": "Mit dem Ultra-Sprung beim Blooper"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Autsch!",
+      "op": 0,
+      "beschreibung": "Verdoppelt den Schaden, den Mario erleidet.",
+      "bild": "images/badges/autsch.png",
+      "orte": [
+        {
+          "name": "Rohlingen",
+          "beschreibung": "Ramschnik"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Kampfwut",
+      "op": 1,
+      "beschreibung": "Ist Vorsicht geboten, erhöht sich Marios Angriffskraft um 2.",
+      "bild": "images/badges/kampfwut.png",
+      "orte": [
+        {
+          "name": "Rohlingen",
+          "beschreibung": "Casino"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Kampfwut P",
+      "op": 1,
+      "beschreibung": "Ist Vorsicht geboten, erhöht sich die Angriffskraft deines Partners um 2.",
+      "bild": "images/badges/kampfwut_p.png",
+      "orte": [
+        {
+          "name": "Rohlingen",
+          "beschreibung": "Orden-Shop"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Fortuna",
+      "op": 1,
+      "beschreibung": "Wenn Vorsicht geboten ist, wird jeglicher Schaden, den Mario erleidet, halbiert.",
+      "bild": "images/badges/fortuna.png",
+      "orte": [
+        {
+          "name": "Falkenheim",
+          "beschreibung": "In der Kiste im Flur"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Fortuna P",
+      "op": 1,
+      "beschreibung": "Wenn Vorsicht geboten ist, wird jeglicher Schaden, den dein Partner erleidet, halbiert.",
+      "bild": "images/badges/fortuna_p.png",
+      "orte": [
+        {
+          "name": "Lohgards Burg",
+          "beschreibung": null
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Kampfrausch",
+      "op": 1,
+      "beschreibung": "Ist Mario in Gefahr, erhöht sich seine Angriffskraft um 5.",
+      "bild": "images/badges/kampfrausch.png",
+      "orte": [
+        {
+          "name": "Rohlingen",
+          "beschreibung": "Ramschnik"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Kampfrausch P",
+      "op": 1,
+      "beschreibung": "Ist dein Partner in Gefahr, erhöht sich seine Angriffskraft um 5.",
+      "bild": "images/badges/kampfrausch_p.png",
+      "orte": [
+        {
+          "name": "Blütenweiler",
+          "beschreibung": null
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Tu mir nichts",
+      "op": 1,
+      "beschreibung": "Wenn Vorsicht geboten ist, gehen gegnerische Angriffe gegen Mario eher daneben.",
+      "bild": "images/badges/tu_mir_nichts.png",
+      "orte": [
+        {
+          "name": "Feuertal",
+          "beschreibung": null
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Tu mir nichts P",
+      "op": 1,
+      "beschreibung": "Wenn Vorsicht geboten ist, gehen gegnerische Angriffe gegen deinen Partner eher daneben.",
+      "bild": "images/badges/tu_mir_nichts_p.png",
+      "orte": [
+        {
+          "name": "Tulpenbach",
+          "beschreibung": null
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Glück gehabt!",
+      "op": 2,
+      "beschreibung": "Gegnerische Angriffe auf Mario gehen manchmal daneben.",
+      "bild": "images/badges/glueck_gehabt.png",
+      "orte": [
+        {
+          "name": "Katakomben",
+          "beschreibung": "Funkelbart für 3 Sternsplitter"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Glück gehabt! P",
+      "op": 2,
+      "beschreibung": "Gegnerische Angriffe auf deinen Partner gehen manchmal daneben.",
+      "bild": "images/badges/glueck_gehabt_p.png",
+      "orte": [
+        {
+          "name": "Rohlingen",
+          "beschreibung": "Orden-Shop"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Glückstag",
+      "op": 7,
+      "beschreibung": "Gegnerische Angriffe auf Mario gehen öfter mal daneben.",
+      "bild": "images/badges/glueckstag.png",
+      "orte": [
+        {
+          "name": "Duellkerker",
+          "beschreibung": "90. Geschoss"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Elektriker",
+      "op": 4,
+      "beschreibung": "Ein kleines Stück Glück zu Beginn eines Kampfes.",
+      "bild": "images/badges/elektriker.png",
+      "orte": [
+        {
+          "name": "Spukabtei",
+          "beschreibung": "Nach dem Sieg über Atom-Buu"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Herzilein",
+      "op": 2,
+      "beschreibung": "Marios KP regenerieren sich langsam während des Kampfes.",
+      "bild": "images/badges/herzilein.png",
+      "orte": [
+        {
+          "name": "Feuertal",
+          "beschreibung": null
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Herzilein P",
+      "op": 2,
+      "beschreibung": "Die KP deines Partners regenerieren sich langsam während des Kampfes.",
+      "bild": "images/badges/herzilein_p.png",
+      "orte": [
+        {
+          "name": "Katakomben",
+          "beschreibung": "Funkelbart für 4 Sternsplitter"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "name": "Blumensegen",
+      "op": 2,
+      "beschreibung": "Die BP regenerieren sich langsam während des Kampfes.",
+      "bild": "images/badges/blumensegen.png",
+      "orte": [
+        {
+          "name": "Katakomben",
+          "beschreibung": "Funkelbart für 4 Sternsplitter"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Sparblüte",
+      "op": 4,
+      "beschreibung": "Jede Attacke, die Mario BP kostet, wird um 1 günstiger.",
+      "bild": "images/badges/sparbluete.png",
+      "orte": [
+        {
+          "name": "Spukabtei",
+          "beschreibung": null
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Sparblüte P",
+      "op": 4,
+      "beschreibung": "Jede Attacke, die deinen Partner BP kostet, wird um 1 günstiger.",
+      "bild": "images/badges/sparbluete_p.png",
+      "orte": [
+        {
+          "name": "Katakomben",
+          "beschreibung": "Funkelbart für 10 Sternsplitter"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Blütenplus",
+      "op": 3,
+      "beschreibung": "Erleidet Mario im Kampf Schaden, erholt er sich manchmal um 1 BP.",
+      "bild": "images/badges/bluetenplus.png",
+      "orte": [
+        {
+          "name": "Duellkerker",
+          "beschreibung": "40. Geschoss"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "name": "KP-Segen",
+      "op": 1,
+      "beschreibung": "Marios Angriffskraft sinkt um 1, aber bei jeder Attacke erholen sich seine KP um 1.",
+      "bild": "images/badges/kp-segen.png",
+      "orte": [
+        {
+          "name": "Rohlingen",
+          "beschreibung": "Schiffplattform am Hafen"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "name": "KP-Segen P",
+      "op": 1,
+      "beschreibung": "Die Angriffskraft deines Partners sinkt um 1, aber bei jeder Attacke erholen sich seine KP um 1.",
+      "bild": "images/badges/kp-segen_p.png",
+      "orte": [
+        {
+          "name": "Bad Glimmerich",
+          "beschreibung": "Versteckter Raum im Haus von Goldfried"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "name": "BP-Segen",
+      "op": 1,
+      "beschreibung": "Marios Angriffskraft sinkt um 1, aber bei jeder Attacke erholen sich seine BP um 1.",
+      "bild": "images/badges/bp-segen.png",
+      "orte": [
+        {
+          "name": "Rohlingen",
+          "beschreibung": "Orden-Shop"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "name": "Herzfinder",
+      "op": 3,
+      "beschreibung": "Nach einem gewonnenen Kampf findest du mehr Herzen.",
+      "bild": "images/badges/herzfinder.png",
+      "orte": [
+        {
+          "name": "Katakomben",
+          "beschreibung": "Funkelbart für 6 Sternsplitter"
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "name": "Blumenregen",
+      "op": 3,
+      "beschreibung": "Nach einem gewonnenen Kampf findest du mehr Blüten.",
+      "bild": "images/badges/blumenregen.png",
+      "orte": [
+        {
+          "name": "Katakomben",
+          "beschreibung": "Funkelbart für 6 Sternsplitter"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "name": "Sammlerglück",
+      "op": 3,
+      "beschreibung": "Nach einem gewonnenen Kampf findest du öfter Items.",
+      "bild": "images/badges/sammlerglueck.png",
+      "orte": [
+        {
+          "name": "Katakomben",
+          "beschreibung": "Funkelbart für 5 Sternsplitter"
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "name": "Eis-Power",
+      "op": 1,
+      "beschreibung": "Mario nimmt keinen Schaden beim Sprung auf brennende Gegner. Erhöht Angriffskraft gegen feurige Gegner um 1 und senkt den durch diese Gegner zugefügten Schaden um 1.",
+      "bild": "images/badges/eis-power.png",
+      "orte": [
+        {
+          "name": "Isla Corsaria",
+          "beschreibung": null
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "name": "Stachelschild",
+      "op": 3,
+      "beschreibung": "Verhindert Schaden bei Sprung auf stachelige Gegner.",
+      "bild": "images/badges/stachelschild.png",
+      "orte": [
+        {
+          "name": "Katakomben",
+          "beschreibung": "Im Raum mit den Stacheln"
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "name": "Zapper",
+      "op": 3,
+      "beschreibung": "Während eines Kampfes nehmen alle Gegner, die Mario berühren, Schaden durch Stromschlag!",
+      "bild": "images/badges/zapper.png",
+      "orte": [
+        {
+          "name": "Duellkerker",
+          "beschreibung": "40. Geschoss"
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "name": "Konterschlag",
+      "op": 7,
+      "beschreibung": "Gegner, die Mario angreifen, erleiden ebenfalls Schaden.",
+      "bild": "images/badges/konterschlag.png",
+      "orte": [
+        {
+          "name": "Duellkerker",
+          "beschreibung": "100. Geschoss"
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "name": "Protektor",
+      "op": 4,
+      "beschreibung": "Schützt Mario vor Vergiftung und Schwindelanfällen.",
+      "bild": "images/badges/protektor.png",
+      "orte": [
+        {
+          "name": "Crucionen-HQ",
+          "beschreibung": null
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "name": "Protektor P",
+      "op": 4,
+      "beschreibung": "Schützt deinen Partner vor Vergiftung und Schwindel.",
+      "bild": "images/badges/protektor_p.png",
+      "orte": [
+        {
+          "name": "Crucionen-HQ",
+          "beschreibung": null
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "name": "Rabatt",
+      "op": 1,
+      "beschreibung": "Nach Item-Einsatz im Kampf wird ein Teil des Kaufpreises für dieses Item erstattet.",
+      "bild": "images/badges/rabatt.png",
+      "orte": [
+        {
+          "name": "Rohlingen",
+          "beschreibung": "Casino"
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "name": "Geld! Geld!",
+      "op": 5,
+      "beschreibung": "Nach einem gewonnenen Kampf findest du mehr Münzen.",
+      "bild": "images/badges/geld_geld.png",
+      "orte": [
+        {
+          "name": "Rohlingen",
+          "beschreibung": "Casino"
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "name": "Superstar",
+      "op": 1,
+      "beschreibung": "Mehr Sternen-Energie nach Marios Showeinlage.",
+      "bild": "images/badges/superstar.png",
+      "orte": [
+        {
+          "name": "Rohlingen",
+          "beschreibung": "Orden-Shop"
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "name": "Superstar P",
+      "op": 1,
+      "beschreibung": "Mehr Sternen-Energie nach Showeinlage eines Partners.",
+      "bild": "images/badges/superstar_p.png",
+      "orte": [
+        {
+          "name": "Aeronas Haus",
+          "beschreibung": null
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "name": "Kuckuck!",
+      "op": 2,
+      "beschreibung": "Zeigt die KP deiner Gegner.",
+      "bild": "images/badges/kuckuck.png",
+      "orte": [
+        {
+          "name": "Katakomben",
+          "beschreibung": "Funkelbart für 7 Sternsplitter"
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "name": "Schnellwechsel",
+      "op": 7,
+      "beschreibung": "Im Kampf kannst du direkt im Anschluss an \"Auswahl\" eine Aktion ausführen.",
+      "bild": "images/badges/schnellwechsel.png",
+      "orte": [
+        {
+          "name": "Katakomben",
+          "beschreibung": "Funkelbart für 8 Sternsplitter"
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "name": "Cool bleiben!",
+      "op": 1,
+      "beschreibung": "Zeigt das Timing für das Trick-Kommando an.",
+      "bild": "images/badges/cool_bleiben.png",
+      "orte": [
+        {
+          "name": "Rohlingen",
+          "beschreibung": "Ramschnik"
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "name": "Novizenmünze",
+      "op": 1,
+      "beschreibung": "Das Action-Kommando wird einfacher auszuführen. Dafür erhält Mario weniger Sternen-Energie.",
+      "bild": "images/badges/novizenmuenze.png",
+      "orte": [
+        {
+          "name": "Rohlingen",
+          "beschreibung": "Orden-Shop"
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "name": "Champbrosche",
+      "op": 1,
+      "beschreibung": "Das Action-Kommando wird schwerer auszuführen. Dafür erhält Mario mehr Sternen-Energie.",
+      "bild": "images/badges/champbrosche.png",
+      "orte": [
+        {
+          "name": "Rohlingen",
+          "beschreibung": "Orden-Shop"
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "name": "Daneben!",
+      "op": 1,
+      "beschreibung": "Verhindert gegnerischen Erstangriff.",
+      "bild": "images/badges/daneben.png",
+      "orte": [
+        {
+          "name": "Katakomben",
+          "beschreibung": "Funkelbart für 2 Sternsplitter"
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "name": "Erstangriff",
+      "op": 1,
+      "beschreibung": "Ein schwächerer Gegner wird durch Erstangriff besiegt.",
+      "bild": "images/badges/erstangriff.png",
+      "orte": [
+        {
+          "name": "Rohlingen",
+          "beschreibung": "Orden-Shop"
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "name": "Straßenfeger",
+      "op": 5,
+      "beschreibung": "Ein schwächerer Gegner wird bei Berührung besiegt.",
+      "bild": "images/badges/strassenfeger.png",
+      "orte": [
+        {
+          "name": "Duellkerker",
+          "beschreibung": "80. Geschoss"
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "name": "Sound-FX A",
+      "op": 0,
+      "beschreibung": "Beim Angriff gibt Mario Froschlaute von sich.",
+      "bild": "images/badges/sound_fx_a.png",
+      "orte": [
+        {
+          "name": "Lohgards Burg",
+          "beschreibung": null
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "name": "Sound-FX B",
+      "op": 0,
+      "beschreibung": "Beim Angriff erzeugt Mario einen seltsamen Ton.",
+      "bild": "images/badges/sound_fx_b.png",
+      "orte": [
+        {
+          "name": "Katakomben",
+          "beschreibung": "Funkelbart für 1 Sternsplitter"
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "name": "Sound-FX C",
+      "op": 0,
+      "beschreibung": "Beim Angriff piepst Mario wie eine Maus.",
+      "bild": "images/badges/sound_fx_c.png",
+      "orte": [
+        {
+          "name": "Rohlingen",
+          "beschreibung": "Job-Agentur in der ??? Mission"
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "name": "Sound-FX D",
+      "op": 0,
+      "beschreibung": "Beim Angriff imitiert Mario Peachs Stimme.",
+      "bild": "images/badges/sound_fx_d.png",
+      "orte": [
+        {
+          "name": "Rohlingen",
+          "beschreibung": "Ramschnik"
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "name": "Sound-FX E",
+      "op": 0,
+      "beschreibung": "Beim Angriff brüllt Mario wie Bowser.",
+      "bild": "images/badges/sound_fx_e.png",
+      "orte": [
+        {
+          "name": "Rohlingen",
+          "beschreibung": "Orden-Shop"
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "name": "Dressman L",
+      "op": 0,
+      "beschreibung": "Mario bekommt ein Outfit in Luigis Farben.",
+      "bild": "images/badges/dressman_l.png",
+      "orte": [
+        {
+          "name": "Glimmer-Tempel",
+          "beschreibung": null
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "name": "Dressman W",
+      "op": 0,
+      "beschreibung": "Mario bekommt ein Outfit in Warios Farben.",
+      "bild": "images/badges/dressman_w.png",
+      "orte": [
+        {
+          "name": "Rohlingen",
+          "beschreibung": "Ramschnik"
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "name": "Kriechspur",
+      "op": 0,
+      "beschreibung": "Verhindert, dass Mario läuft. Seine Schritte werden sehr langsam.",
+      "bild": "images/badges/kriechspur.png",
+      "orte": [
+        {
+          "name": "Rohlingen",
+          "beschreibung": "Ramschnik"
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "name": "Nostalgische Töne",
+      "op": 0,
+      "beschreibung": "Ändert die Hintergrundmusik auf die GameCube Version.",
+      "bild": "images/badges/nostalgische_toene.png",
+      "orte": [
+        {
+          "name": "Rohlingen",
+          "beschreibung": "Im Orden Shop"
+        }
+      ]
     }
-]
+  ]

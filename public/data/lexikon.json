@@ -1,34 +1,1569 @@
 [
     {
-        "id": 1,
-        "name": "Gumba",
-        "kp": 2,
-        "angriff": 1,
-        "verteidigung": 0,
-        "bild": "/images/enemies/gumba.webp",
-        "beschreibung": "Ganz kleine Fische... Wie sie im Lehrbuch stehen. Gegner ohne Besonderheiten.",
-        "orte": [
-            "Katakomben",
-            "Feuertal",
-            "Pfad zur Geröllburg",
-            "Lohgards Burg",
-            "Falkenheim",
-            "Tulpenbach"
-        ]
+      "id": 1,
+      "name": "Gumba",
+      "kp": 2,
+      "angriff": 1,
+      "verteidigung": 0,
+      "bild": "images/enemies/gumba.webp",
+      "beschreibung": "Ganz kleine Fische... Wie sie im Lehrbuch stehen. Gegner ohne Besonderheiten.",
+      "orte": [
+        "Katakomben",
+        "Feuertal",
+        "Pfad zur Geröllburg",
+        "Lohgards Burg",
+        "Falkenheim",
+        "Tulpenbach"
+      ]
     },
     {
-        "id": 2,
-        "name": "Para-Gumba",
-        "kp": 2,
-        "angriff": 1,
-        "verteidigung": 0,
-        "bild": "/images/enemies/paragumba.webp",
-        "beschreibung": "Gumbas mit Flügeln, die in der Luft sicher vor Hammerattacken sind. Erleiden sie Schaden, werden sie zu normalen Gumbas.",
-        "orte": [
-            "Katakomben",
-            "Feuertal",
-            "Pfad zur Geröllburg",
-            "Lohgards Burg"
-        ]
+      "id": 2,
+      "name": "Para-Gumba",
+      "kp": 2,
+      "angriff": 1,
+      "verteidigung": 0,
+      "bild": "images/enemies/paragumba.webp",
+      "beschreibung": "Gumbas mit Flügeln, die in der Luft sicher vor Hammerattacken sind. Erleiden sie Schaden, werden sie zu normalen Gumbas.",
+      "orte": [
+        "Katakomben",
+        "Feuertal",
+        "Pfad zur Geröllburg",
+        "Lohgards Burg"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Pieks-Gumba",
+      "kp": 2,
+      "angriff": 2,
+      "verteidigung": 0,
+      "bild": "images/enemies/pieks-gumba.webp",
+      "beschreibung": "Ein Gumba mit Pickelhaube. Seine Angriffskraft ist etwas höher als bei einem normalen Gumba.",
+      "orte": [
+        "Katakomben",
+        "Feuertal",
+        "Pfad zur Geröllburg",
+        "Lohgards Burg"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Hyper-Gumba",
+      "kp": 8,
+      "angriff": 2,
+      "verteidigung": 0,
+      "bild": "images/enemies/hyper-gumba.webp",
+      "beschreibung": "Hyperstarke Gumbas, die sich aufladen können. Nach dem Aufladen steigt ihre Angriffskraft auf 8.",
+      "orte": [
+        "Düsterweg"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Hypra-Gumba",
+      "kp": 8,
+      "angriff": 2,
+      "verteidigung": 0,
+      "bild": "images/enemies/hypra-gumba.webp",
+      "beschreibung": "Hyper-Gumbas mit Flügeln, die sich aufladen können. Nach dem Aufladen steigt ihre Angriffskraft auf 8.",
+      "orte": [
+        "Düsterweg"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Hysteri-Gumba",
+      "kp": 8,
+      "angriff": 3,
+      "verteidigung": 0,
+      "bild": "images/enemies/hysteri-gumba.webp",
+      "beschreibung": "Stachelige Hyper-Gumbas, die sich aufladen können. Nach dem Aufladen steigt ihre Angriffskraft auf 9.",
+      "orte": [
+        "Düsterweg"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Glumba",
+      "kp": 7,
+      "angriff": 3,
+      "verteidigung": 0,
+      "bild": "images/enemies/glumba.webp",
+      "beschreibung": "Fiese Gumbas, die düstere Tunnel lieben. Vielleicht kommt daher die ungesunde Gesichtsfarbe?",
+      "orte": [
+        "Duellkerker"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Paraglumba",
+      "kp": 7,
+      "angriff": 3,
+      "verteidigung": 0,
+      "bild": "images/enemies/paraglumba.webp",
+      "beschreibung": "Geflügelte Glumbas mit ungesunder Gesichtsfarbe. Sie sehen irgendwie ein wenig verschimmelt aus.",
+      "orte": [
+        "Duellkerker"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Pieks-Glumba",
+      "kp": 7,
+      "angriff": 4,
+      "verteidigung": 0,
+      "bild": "images/enemies/pieks-glumba.webp",
+      "beschreibung": "Stachelige Glumbas, die an finsteren Orten leben. Besser nicht draufspringen, das könnte weh tun.",
+      "orte": [
+        "Duellkerker"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Koopa",
+      "kp": 4,
+      "angriff": 2,
+      "verteidigung": 1,
+      "bild": "images/enemies/koopa.webp",
+      "beschreibung": "Alte Bekannte aus früheren Abenteuern. Liegen sie auf dem Rücken, sinkt die Verteidigung auf 0.",
+      "orte": [
+        "Lohgards Burg",
+        "Pfad zur Geröllburg"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Parakoopa",
+      "kp": 4,
+      "angriff": 2,
+      "verteidigung": 1,
+      "bild": "images/enemies/parakoopa.webp",
+      "beschreibung": "Koopas mit Flügeln, die aus der Luft angreifen. Sprungattacken bringen sie zum Absturz.",
+      "orte": [
+        "Lohgards Burg"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Panzerkoopa",
+      "kp": 4,
+      "angriff": 2,
+      "verteidigung": 1,
+      "bild": "images/enemies/panzerkoopa.webp",
+      "beschreibung": "Koopa, der in der Arena von Falkenheim kämpft. Etwas andere Farbe, aber sonst ein normaler Koopa.",
+      "orte": [
+        "Falkenheim"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Panzerpara",
+      "kp": 4,
+      "angriff": 2,
+      "verteidigung": 1,
+      "bild": "images/enemies/panzerpara.webp",
+      "beschreibung": "Ein verfärbter Parakoopa. Ansonsten genauso wie ein normaler Parakoopa. Wenn er nicht mehr fliegt, wird er zum normalen Koopa.",
+      "orte": [
+        "Falkenheim"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Schattenkoopa",
+      "kp": 8,
+      "angriff": 3,
+      "verteidigung": 1,
+      "bild": "images/enemies/schattenkoopa.webp",
+      "beschreibung": "Nach dem Umkippen erhöht sich seine Angriffskraft. Der Schattenkoopa ist ein besonders fieser Koopa.",
+      "orte": [
+        "Falkenheim",
+        "Duellkerker"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Schattenpara",
+      "kp": 8,
+      "angriff": 3,
+      "verteidigung": 1,
+      "bild": "images/enemies/schattenpara.webp",
+      "beschreibung": "Geflügelter Schattenkoopa. Zwinge ihn zur Landung. Nach dem Umkippen steigt die Angriffskraft.",
+      "orte": [
+        "Falkenheim",
+        "Duellkerker"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Fies-Koopa",
+      "kp": 8,
+      "angriff": 4,
+      "verteidigung": 2,
+      "bild": "images/enemies/fies-koopa.webp",
+      "beschreibung": "Koopas, die in der Dunkelheit leben: Hart und stark. Durch Sprünge kannst du sie leicht umkippen.",
+      "orte": [
+        "Duellkerker"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Fies-Parakoopa",
+      "kp": 8,
+      "angriff": 4,
+      "verteidigung": 2,
+      "bild": "images/enemies/fies-parakoopa.webp",
+      "beschreibung": "Parakoopas, die in der Dunkelheit leben. Nach einer Sprungattacke werden sie zu Fies-Koopas.",
+      "orte": [
+        "Duellkerker"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Koopatrouille",
+      "kp": 6,
+      "angriff": 4,
+      "verteidigung": 2,
+      "bild": "images/enemies/koopatrouille.webp",
+      "beschreibung": "Manchmal laden sie sich auch auf. Besiege sie schnell, sonst rufen sie ihre Freunde.",
+      "orte": [
+        "Katakomben"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Ass-Koopatrouille",
+      "kp": 25,
+      "angriff": 5,
+      "verteidigung": 2,
+      "bild": "images/enemies/ass-koopatrouille.webp",
+      "beschreibung": "Unter den Koopatrouillen ist er ein Ass. Wenn er Kraft sammelt, sind seine Attacken extra stark.",
+      "orte": [
+        "Falkenheim",
+        "Duellkerker"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Knochen-Koopa",
+      "kp": 1,
+      "angriff": 2,
+      "verteidigung": 1,
+      "bild": "images/enemies/knochen-koopa.webp",
+      "beschreibung": "Verknöcherte Koopas, die mit Knochen werfen und sich auf rätselhafte Art selbst reproduzieren können.",
+      "orte": [
+        "Lohgards Burg",
+        "Falkenheim",
+        "Äonenpalast",
+        "Duellkerker"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Roter Knochen-Koopa",
+      "kp": 5,
+      "angriff": 3,
+      "verteidigung": 1,
+      "bild": "images/enemies/roter_knochen-koopa.webp",
+      "beschreibung": "Ein gruseliger roter Knochen-Koopa. Angriffskraft hoch, und kann auch auferstehen, wenn KP auf 0 gefallen sind.",
+      "orte": [
+        "Lohgards Burg",
+        "Äonenpalast"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Knochentrocken",
+      "kp": 8,
+      "angriff": 5,
+      "verteidigung": 2,
+      "bild": "images/enemies/knochentrocken.webp",
+      "beschreibung": "Skelettierte Koopas, die Verstärkung rufen können. Nach ihrer Niederlage können sie wieder auferstehen.",
+      "orte": [
+        "Äonenpalast",
+        "Duellkerker"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Geistertrocken",
+      "kp": 20,
+      "angriff": 5,
+      "verteidigung": 2,
+      "bild": "images/enemies/geistertrocken.webp",
+      "beschreibung": "Das Oberhaupt der Knochentrocken mit viel KP. Erreichen seine KP 0, kann er wieder auferstehen.",
+      "orte": [
+        "Äonenpalast"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Hammer-Bruder",
+      "kp": 7,
+      "angriff": 4,
+      "verteidigung": 1,
+      "bild": "images/enemies/hammer-bruder.webp",
+      "beschreibung": "Altbekannter Gegner, die mit Hämmern um sich werfen. Aber sind sie Mario wirklich gewachsen?",
+      "orte": [
+        "Falkenheim",
+        "Katakomben"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Bumerang-Bruder",
+      "kp": 7,
+      "angriff": 2,
+      "verteidigung": 1,
+      "bild": "images/enemies/bumerang-bruder.webp",
+      "beschreibung": "Verwendet für den Angriff Bumerangs statt Hämmern. Achtung! Bumerangs können zwei Mal treffen!",
+      "orte": [
+        "Falkenheim"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Feuer-Bruder",
+      "kp": 7,
+      "angriff": 3,
+      "verteidigung": 1,
+      "bild": "images/enemies/feuer-bruder.webp",
+      "beschreibung": "Ein Feuer speiender Hammer-Bruder? Treffen seine Attacken, kannst du Feuer fangen.",
+      "orte": [
+        "Falkenheim"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Lakitu",
+      "kp": 5,
+      "angriff": 2,
+      "verteidigung": 0,
+      "bild": "images/enemies/lakitu.webp",
+      "beschreibung": "Auf Wolken reitende Koopas, werfen mit Stachi-Eiern. Aus den Stachi-Eiern können auch Stachis schlüpfen.",
+      "orte": [
+        "Falkenheim",
+        "Duellkerker"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Hyper-Lakitu",
+      "kp": 13,
+      "angriff": 5,
+      "verteidigung": 0,
+      "bild": "images/enemies/hyper-lakitu.webp",
+      "beschreibung": "Lakitus auf düsteren Wolken, die mit Stachi-Eiern werfen. Aus Stachi-Eiern können Käfer-Stachis schlüpfen.",
+      "orte": [
+        "Duellkerker"
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Stachi",
+      "kp": 3,
+      "angriff": 3,
+      "verteidigung": 3,
+      "bild": "images/enemies/stachi.webp",
+      "beschreibung": "Stacheliges Panzertier mit hohem Verteidigungswert. Wenn sie sich einrollen, ist Angriff zwecklos.",
+      "orte": [
+        "Falkenheim",
+        "Duellkerker"
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Käfer-Stachi",
+      "kp": 6,
+      "angriff": 6,
+      "verteidigung": 4,
+      "bild": "images/enemies/kaefer-stachi.webp",
+      "beschreibung": "Schlüpfen aus Stachi-Eiern von Hyper-Lakitus. Rollen sie sich zusammen, ist jede Attacke wirkungslos.",
+      "orte": [
+        "Duellkerker"
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Käfer",
+      "kp": 5,
+      "angriff": 3,
+      "verteidigung": 4,
+      "bild": "images/enemies/kaefer.webp",
+      "beschreibung": "Hohe Verteidigungswerte, immun gegen Feuer-Attacken. Kipp sie mit Sprüngen um, und die Verteidigung sinkt auf 0.",
+      "orte": [
+        "Spukabtei",
+        "Piratenhöhle",
+        "Duellkerker"
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Pickelkäfer",
+      "kp": 5,
+      "angriff": 3,
+      "verteidigung": 4,
+      "bild": "images/enemies/pickelkaefer.webp",
+      "beschreibung": "Käfer mit Stacheln und hohem Verteidigungswert. Ihre Stacheln können Sprungattacken verhindern.",
+      "orte": [
+        "Spukabtei",
+        "Tulpenbach",
+        "Duellkerker"
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Parakäfer",
+      "kp": 5,
+      "angriff": 3,
+      "verteidigung": 4,
+      "bild": "images/enemies/parakaefer.webp",
+      "beschreibung": "Geflügelter Käfer mit hoher Verteidigung. Sie verlieren ihre Flügel, wenn du auf sie springst.",
+      "orte": [
+        "Piratenhöhle",
+        "Duellkerker"
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Para-Pickelkäfer",
+      "kp": 5,
+      "angriff": 3,
+      "verteidigung": 4,
+      "bild": "images/enemies/para-pickelkaefer.webp",
+      "beschreibung": "Käfer mit Stacheln und Flügeln. Hammer zwecklos. Die Wahl des richtigen Angriffs dürfte schwer sein.",
+      "orte": [
+        "Tulpenbach",
+        "Duellkerker"
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Roter Pickelkäfer",
+      "kp": 5,
+      "angriff": 3,
+      "verteidigung": 4,
+      "bild": "images/enemies/roter_pickelkaefer.webp",
+      "beschreibung": "Ein Käfer mit extrastarker Verteidigung, immun gegen Feuer und Explosionen. Gegen Sprungattacken schützt ihn sein Stachel.",
+      "orte": [
+        "Falkenheim"
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Kamek",
+      "kp": 7,
+      "angriff": 4,
+      "verteidigung": 0,
+      "bild": "images/enemies/kamek.webp",
+      "beschreibung": "Elite-Magier des Koopa-Clans. Wenden Magie an. Sollten in Kämpfen als Erste besiegt werden!",
+      "orte": [
+        "Katakomben"
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Roter Kamek",
+      "kp": 7,
+      "angriff": 4,
+      "verteidigung": 0,
+      "bild": "images/enemies/roter_kamek.webp",
+      "beschreibung": "Roter Kamek-Magier mit erstaunlicher Kraft. Erhöht Angriff und Verteidigung deiner Gegner.",
+      "orte": [
+        "Falkenheim"
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Weißer Kamek",
+      "kp": 7,
+      "angriff": 4,
+      "verteidigung": 0,
+      "bild": "images/enemies/weisser_kamek.webp",
+      "beschreibung": "Weißer Kamek-Magier mit erstaunlicher Kraft. Seine Magie macht deine Gegner wieder fit.",
+      "orte": [
+        "Falkenheim"
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Grüner Kamek",
+      "kp": 7,
+      "angriff": 4,
+      "verteidigung": 0,
+      "bild": "images/enemies/gruener_kamek.webp",
+      "beschreibung": "Grüner Kamek-Magier mit erstaunlicher Kraft. Lädt Gegner auf oder macht sie durchsichtig.",
+      "orte": [
+        "Falkenheim"
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Kammy Koopa",
+      "kp": 50,
+      "angriff": 5,
+      "verteidigung": 0,
+      "bild": "images/enemies/kammy_koopa.webp",
+      "beschreibung": "Alte Hexe, die sich stets mit Bowser herumtreibt. Verwendet verschiedene Arten von Magie.",
+      "orte": [
+        "Äonenpalast"
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Bowser",
+      "kp": 70,
+      "angriff": 7,
+      "verteidigung": 2,
+      "bild": "images/enemies/bowser.webp",
+      "beschreibung": "König Bowser, bekannt als Marios ewiger Rivale. Ist hier auf der Suche nach Peach und Sternjuwelen.",
+      "orte": [
+        "Falkenheim",
+        "Äonenpalast"
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Lanzo",
+      "kp": 20,
+      "angriff": 3,
+      "verteidigung": 0,
+      "bild": "images/enemies/lanzo.webp",
+      "beschreibung": "Ein fieser Typ mit einer scharfen Lanze, die er im Kampf wirft. Der ist wirklich stark, nicht nur mit dem Mund.",
+      "orte": [
+        "Rohlingen"
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Lanzhäher",
+      "kp": 20,
+      "angriff": 6,
+      "verteidigung": 0,
+      "bild": "images/enemies/lanzhaeher.webp",
+      "beschreibung": "Seine Lanze schützt ihn vor Sprungattacken. Er wirft die Lanze oder greift mit ihr frontal an.",
+      "orte": [
+        "Falkenheim",
+        "Duellkerker"
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Bandit",
+      "kp": 5,
+      "angriff": 2,
+      "verteidigung": 0,
+      "bild": "images/enemies/bandit.webp",
+      "beschreibung": "Banditen stehlen Münzen. Eine gute Verteidigung verhindert den Diebstahl.",
+      "orte": [
+        "Falkenheim",
+        "Duellkerker"
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Großer Bandit",
+      "kp": 8,
+      "angriff": 3,
+      "verteidigung": 0,
+      "bild": "images/enemies/grosse_bandit.webp",
+      "beschreibung": "Die großen Brüder der Banditen. Sie stehlen Münzen und Items. Eine gute Verteidigung verhindert den Diebstahl.",
+      "orte": [
+        "Falkenheim"
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Orden-Bandit",
+      "kp": 12,
+      "angriff": 5,
+      "verteidigung": 0,
+      "bild": "images/enemies/orden-bandit.webp",
+      "beschreibung": "Starke Banditen, die gerne Orden stehlen. Achte auf deine Verteidigung, sonst schlagen sie zu.",
+      "orte": [
+        "Duellkerker"
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Sproing",
+      "kp": 3,
+      "angriff": 1,
+      "verteidigung": 0,
+      "bild": "images/enemies/sproing.webp",
+      "beschreibung": "Rätselhafte Lebewesen, offensichtlich eine Kreuzung aus Sperrholz und Sprungfedern.",
+      "orte": [
+        "Katakomben",
+        "Falkenheim",
+        "Duellkerker"
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Megasproing",
+      "kp": 3,
+      "angriff": 1,
+      "verteidigung": 0,
+      "bild": "images/enemies/megasproing.webp",
+      "beschreibung": "Ein Sproing mit Stacheln auf dem Kopf. Bei Angriff mit Sprung erleidet der Angreifer Schaden. Bekannt für seinen aggressiven Gesichtsaudruck.",
+      "orte": [
+        "Katakomben",
+        "Falkenheim",
+        "Duellkerker"
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Gigasproing",
+      "kp": 12,
+      "angriff": 7,
+      "verteidigung": 2,
+      "bild": "images/enemies/gigasproing.webp",
+      "beschreibung": "Diese seltsamen Kreaturen bestehen aus Scheiben. Sehen schwach aus, sind aber ehr starke Gegner.",
+      "orte": [
+        "Katakomben",
+        "Duellkerker"
+      ]
+    },
+    {
+      "id": 50,
+      "name": "Fuzzy",
+      "kp": 3,
+      "angriff": 1,
+      "verteidigung": 0,
+      "bild": "images/enemies/fuzzy.webp",
+      "beschreibung": "Fuzzys saugen KP des Gegners ab und absorbieren sie. Das Action-Kommando erfordert präzises Timing.",
+      "orte": [
+        "Geröllburg",
+        "Falkenheim",
+        "Duellkerker"
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Gold-Fuzzy",
+      "kp": 10,
+      "angriff": 1,
+      "verteidigung": 0,
+      "bild": "images/enemies/gold-fuzzy.webp",
+      "beschreibung": "Fuzzys mit goldfarbenen Borsten. Anders als normale Fuzzys absorbieren sie nicht die KP des Gegners.",
+      "orte": [
+        "Geröllburg"
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Wald-Fuzzy",
+      "kp": 5,
+      "angriff": 3,
+      "verteidigung": 0,
+      "bild": "images/enemies/wald-fuzzy.webp",
+      "beschreibung": "Fuzzys aus dem Wald, die deine KP aufsaugen. Besiege sie, bevor sie sich teilen können",
+      "orte": [
+        "Falkenheim",
+        "Isla Corsaria"
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Wiesen-Fuzzy",
+      "kp": 6,
+      "angriff": 3,
+      "verteidigung": 0,
+      "bild": "images/enemies/wiesen-fuzzy.webp",
+      "beschreibung": "Hübsch gefärbte Fuzzys, die BP absaugen. Haben sie genug BP, verwenden sie magische Attacken.",
+      "orte": [
+        "Falkenheim",
+        "Isla Corsaria",
+        "Duellkerker"
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Pokey",
+      "kp": 4,
+      "angriff": 3,
+      "verteidigung": 0,
+      "bild": "images/enemies/pokey.webp",
+      "beschreibung": "Fieser Kaktus mit Stacheln. Pokeys werfen mit Teilen ihres Körpers. Manchmal rufen sie auch Verstärkung.",
+      "orte": [
+        "Falkenheim",
+        "Duellkerker"
+      ]
+    },
+    {
+      "id": 55,
+      "name": "Faul-Pokey",
+      "kp": 8,
+      "angriff": 4,
+      "verteidigung": 0,
+      "bild": "images/enemies/faul-pokey.webp",
+      "beschreibung": "Giftige Pokeys, die auch dich vergiften können. Erledige sie, bevor sie ihre Freunde rufen können.",
+      "orte": [
+        "Tulpenbach",
+        "Duellkerker"
+      ]
+    },
+    {
+      "id": 56,
+      "name": "Piranha-Pflanze",
+      "kp": 4,
+      "angriff": 2,
+      "verteidigung": 0,
+      "bild": "images/enemies/piranha-pflanze.webp",
+      "beschreibung": "Eine monochrome Piranha-Pflanze, deren Bisse dem Gegner großen Schaden zufügen.",
+      "orte": [
+        "Wunderwald",
+        "Großer Baum",
+        "Falkenheim"
+      ]
+    },
+    {
+      "id": 57,
+      "name": "Faul-Piranha",
+      "kp": 8,
+      "angriff": 3,
+      "verteidigung": 0,
+      "bild": "images/enemies/faul-piranha.webp",
+      "beschreibung": "Giftige Piranha-Pflanzen, die ihre Gegner verseuchen. Besonders bei Gift-Attacken ist die Verteidigung wichtig!",
+      "orte": [
+        "Isla Corsaria"
+      ]
+    },
+    {
+      "id": 58,
+      "name": "Frost-Piranha",
+      "kp": 10,
+      "angriff": 5,
+      "verteidigung": 0,
+      "bild": "images/enemies/frost-piranha.webp",
+      "beschreibung": "Eiskalte Piranha-Pflanzen, empfindlich gegen Feuer. Ihr Biss lässt den Gegner manchmal gefrieren!",
+      "orte": [
+        "Frostpfad",
+        "Duellkerker"
+      ]
+    },
+    {
+      "id": 59,
+      "name": "Killer-Piranha",
+      "kp": 15,
+      "angriff": 9,
+      "verteidigung": 0,
+      "bild": "images/enemies/killer-piranha.webp",
+      "beschreibung": "Ein Killer unter den Piranha-Pflanzen... Sie liebt angeblich das Innere von Röhren.",
+      "orte": [
+        "Duellkerker"
+      ]
+    },
+    {
+      "id": 60,
+      "name": "Susel Dusel",
+      "kp": 7,
+      "angriff": 2,
+      "verteidigung": 0,
+      "bild": "images/enemies/susel_dusel.webp",
+      "beschreibung": "Scheinbar süße Kreaturen, die gerne auch mal fliehen. Ihr Wiegenlied kann dich einschläfern.",
+      "orte": [
+        "Düsterweg"
+      ]
+    },
+    {
+      "id": 61,
+      "name": "Susel Wusel",
+      "kp": 20,
+      "angriff": 20,
+      "verteidigung": 1,
+      "bild": "images/enemies/susel_wusel.webp",
+      "beschreibung": "Legendäre Susel Dusels, die nur sehr selten auftauchen. Viele KP, fliehen gerne. Versuche trotzdem zu siegen.",
+      "orte": [
+        "Düsterweg",
+        "Duellkerker"
+      ]
+    },
+    {
+      "id": 62,
+      "name": "Fadula",
+      "kp": 5,
+      "angriff": 2,
+      "verteidigung": 0,
+      "bild": "images/enemies/fadula.webp",
+      "beschreibung": "Bewegen sich an Fäden auf und ab. Zielen und schießen bis zu drei Mal.",
+      "orte": [
+        "Wunderwald",
+        "Großer Baum",
+        "Falkenheim",
+        "Duellkerker"
+      ]
+    },
+    {
+      "id": 63,
+      "name": "Grottenfadula",
+      "kp": 16,
+      "angriff": 7,
+      "verteidigung": 0,
+      "bild": "images/enemies/grottenfadula.webp",
+      "beschreibung": "Unterirdisch lebende Spinnen, die Kugeln verspucken. Sehen zwar giftig aus, sind es aber nicht.",
+      "orte": [
+        "Duellkerker"
+      ]
+    },
+    {
+      "id": 64,
+      "name": "Swooper",
+      "kp": 6,
+      "angriff": 3,
+      "verteidigung": 0,
+      "bild": "images/enemies/swooper.webp",
+      "beschreibung": "Eine Art Fledermaus, die sich an die Decke hängt. Füge ihnen Schaden zu, um sie von der Decke zu lösen.",
+      "orte": [
+        "Spukabtei"
+      ]
+    },
+    {
+      "id": 65,
+      "name": "Swoopula",
+      "kp": 9,
+      "angriff": 4,
+      "verteidigung": 0,
+      "bild": "images/enemies/swoopula.webp",
+      "beschreibung": "Fiese Blutsauger, die ihren Opfern die KP rauben. Machen ein fieses Geräusch, wenn sie KP saugen.",
+      "orte": [
+        "Äonenpalast",
+        "Duellkerker"
+      ]
+    },
+    {
+      "id": 66,
+      "name": "Swooperatu",
+      "kp": 20,
+      "angriff": 6,
+      "verteidigung": 0,
+      "bild": "images/enemies/swooperatu.webp",
+      "beschreibung": "Blutsauger, die sich im Dunkeln verstecken. Sie saugen deine KP und regenerieren sich damit. ",
+      "orte": [
+        "Duellkerker"
+      ]
+    },
+    {
+      "id": 67,
+      "name": "Stratox",
+      "kp": 3,
+      "angriff": 2,
+      "verteidigung": 0,
+      "bild": "images/enemies/stratox.webp",
+      "beschreibung": "Gewitterwolken, die mit Blitzen angreifen können. Verursachen Schaden beim Angreifer, solange sie elektrisch geladen sind.",
+      "orte": [
+        "Wunderwald",
+        "Falkenheim",
+        "Duellkerker"
+      ]
+    },
+    {
+      "id": 68,
+      "name": "Schniffi",
+      "kp": 7,
+      "angriff": 4,
+      "verteidigung": 0,
+      "bild": "images/enemies/schniffi.webp",
+      "beschreibung": "Enge Verwandte der Stratox in anderer Färbung. Speichern Elektrizität für gemeine Elektro-Attacken.",
+      "orte": [
+        "Tulpenbach"
+      ]
+    },
+    {
+      "id": 69,
+      "name": "Eis-Schnuff",
+      "kp": 9,
+      "angriff": 4,
+      "verteidigung": 0,
+      "bild": "images/enemies/eis-schnuff.webp",
+      "beschreibung": "Ein eisiger Verwandter der Schniffis. Seine kalten Windattacken frieren den Gegner ein.",
+      "orte": [
+        "Frostpfad",
+        "Duellkerker"
+      ]
+    },
+    {
+      "id": 70,
+      "name": "Stink-Schnuff",
+      "kp": 15,
+      "angriff": 8,
+      "verteidigung": 0,
+      "bild": "images/enemies/stink-schnuff.webp",
+      "beschreibung": "Giftgaswolke, die frontal oder mit Gift angreift. Ist sie aufgeladen, schaden Angriffe dem Angreifer.",
+      "orte": [
+        "Duellkerker"
+      ]
+    },
+    {
+      "id": 71,
+      "name": "Buu Huu",
+      "kp": 7,
+      "angriff": 3,
+      "verteidigung": 0,
+      "bild": "images/enemies/buu_huu.webp",
+      "beschreibung": "Schüchterne Geister, die sich gern unsichtbar machen. Für Geister sind sie aber eigentlich recht hübsch. ",
+      "orte": [
+        "Spukabtei",
+        "Duellkerker"
+      ]
+    },
+    {
+      "id": 72,
+      "name": "Atom-Buu",
+      "kp": 40,
+      "angriff": 4,
+      "verteidigung": 0,
+      "bild": "images/enemies/atom-buu.webp",
+      "beschreibung": "Eine Ansammlung von mehreren Buu Huus. Das Ding greift selbst an und schickt Doppelgänger los.",
+      "orte": [
+        "Spukabtei"
+      ]
+    },
+    {
+      "id": 73,
+      "name": "Finster-Buu",
+      "kp": 8,
+      "angriff": 5,
+      "verteidigung": 0,
+      "bild": "images/enemies/finster-buu.webp",
+      "beschreibung": "Gruselige Buu Huus mit mehr KP und Angriffskraft. Erledige sie, bevor sie sich unsichtbar machen.",
+      "orte": [
+        "Glimmer-Tempel",
+        "Duellkerker"
+      ]
+    },
+    {
+      "id": 74,
+      "name": "Kalte Glut",
+      "kp": 8,
+      "angriff": 3,
+      "verteidigung": 0,
+      "bild": "images/enemies/kalte_glut.webp",
+      "beschreibung": "Blaue Irrlichter, empflindlich gegen Wasser und Eis. Auch Bomben haben eine gute Wirkung.",
+      "orte": [
+        "Isla Corsaria",
+        "Piratenhöhle"
+      ]
+    },
+    {
+      "id": 75,
+      "name": "Lava Blub",
+      "kp": 6,
+      "angriff": 4,
+      "verteidigung": 0,
+      "bild": "images/enemies/lava_blub.webp",
+      "beschreibung": "Feuer-Monster, schwach gegen Eis und Wasser. Bomben sind auch gut, Sprünge eher nicht...",
+      "orte": [
+        "Piratenhöhle",
+        "Duellkerker"
+      ]
+    },
+    {
+      "id": 76,
+      "name": "Zornlicht",
+      "kp": 10,
+      "angriff": 5,
+      "verteidigung": 0,
+      "bild": "images/enemies/zornlicht.webp",
+      "beschreibung": "Zornige Geister, aus Rachsucht entstanden. Ihre Feuer-Attacken können dich in Brand setzen.",
+      "orte": [
+        "Äonenpalast",
+        "Duellkerker"
+      ]
+    },
+    {
+      "id": 77,
+      "name": "Kahl-Kirk",
+      "kp": 2,
+      "angriff": 1,
+      "verteidigung": 2,
+      "bild": "images/enemies/kahl-kirk.webp",
+      "beschreibung": "Steinmonster mit imposanten Gesichtern. Kämpfen mit vollem Körpereinsatz. Immun gegen Feuer.",
+      "orte": [
+        "Pfad zur Geröllburg"
+      ]
+    },
+    {
+      "id": 78,
+      "name": "Hyper-Kahl",
+      "kp": 3,
+      "angriff": 2,
+      "verteidigung": 2,
+      "bild": "images/enemies/hyper-kahl.webp",
+      "beschreibung": "Hyperstarke Kahl-Kirks, die sich aufladen können. Nach dem Aufladen beträgt die Angriffskraft 8 Punkte.",
+      "orte": [
+        "Falkenheim"
+      ]
+    },
+    {
+      "id": 79,
+      "name": "Kirk",
+      "kp": 2,
+      "angriff": 2,
+      "verteidigung": 2,
+      "bild": "images/enemies/kirk.webp",
+      "beschreibung": "Ein stacheliges Steinmonster. Feuer ist wirkungslos, außerdem ist der Körper steinhart.",
+      "orte": [
+        "Geröllburg",
+        "Wunderwald",
+        "Duellkerker"
+      ]
+    },
+    {
+      "id": 80,
+      "name": "Stahl-Kirk",
+      "kp": 6,
+      "angriff": 4,
+      "verteidigung": 1000,
+      "bild": "images/enemies/roter_stahl-kirk.webp",
+      "beschreibung": "Riesige, harte Kirks. Immun gegen viele Attacken. Wie soll man die denn bitte besiegen?",
+      "orte": [
+        "Falkenheim"
+      ]
+    },
+    {
+      "id": 81,
+      "name": "Stahl-Kirk",
+      "kp": 6,
+      "angriff": 4,
+      "verteidigung": 1000,
+      "bild": "images/enemies/gruener_stahl-kirk.webp",
+      "beschreibung": "Riesige, harte Kirks. Immung gegen viele Attacken. Er hat grüne Schuhe... Vermutlich der kleine Bruder.",
+      "orte": [
+        "Falkenheim"
+      ]
+    },
+    {
+      "id": 82,
+      "name": "Hyper-Kirk",
+      "kp": 4,
+      "angriff": 3,
+      "verteidigung": 3,
+      "bild": "images/enemies/hyper-kirk.webp",
+      "beschreibung": "Hyperstarke Kirks, die sich aufladen können. Im aufgeladenen Zustand beträgt ihre Angriffskraft 9.",
+      "orte": [
+        "Düsterweg",
+        "Duellkerker"
+      ]
+    },
+    {
+      "id": 83,
+      "name": "Mond-Kirk",
+      "kp": 6,
+      "angriff": 5,
+      "verteidigung": 5,
+      "bild": "images/enemies/mond-kirk.webp",
+      "beschreibung": "Kirks, die auf dem Mond leben. Hohe Verteidigung! Die Verteidigung sinkt auf 0, wenn du sie umkippst.",
+      "orte": [
+        "Mond",
+        "Duellkerker"
+      ]
+    },
+    {
+      "id": 84,
+      "name": "Dornhart",
+      "kp": 2,
+      "angriff": 1,
+      "verteidigung": 4,
+      "bild": "images/enemies/dornhart.webp",
+      "beschreibung": "Steinmonster mit Dornen, immun gegen Feuer-Attacken. Zur Verteidigung fahren sie ihre Dornen aus.",
+      "orte": [
+        "Geröllburg",
+        "Falkenheim"
+      ]
+    },
+    {
+      "id": 85,
+      "name": "Schwarzer Dornhart",
+      "kp": 8,
+      "angriff": 8,
+      "verteidigung": 4,
+      "bild": "images/enemies/schwarzer_dornhart.webp",
+      "beschreibung": "Aus Stein geschaffene Wesen mit hiher Verteidigung. Verteidigen sich auch mit Stacheln und Speeren.",
+      "orte": [
+        "Duellkerker"
+      ]
+    },
+    {
+      "id": 86,
+      "name": "Bob-omb",
+      "kp": 4,
+      "angriff": 2,
+      "verteidigung": 1,
+      "bild": "images/enemies/bob-omb.webp",
+      "beschreibung": "Bombige Kämpfer, die leicht in die Luft gehen. Nehmen sie Schaden, explodieren sie in nächsten Zug.",
+      "orte": [
+        "Falkenheim",
+        "Duellkerker"
+      ]
+    },
+    {
+      "id": 87,
+      "name": "Grob-omb",
+      "kp": 6,
+      "angriff": 2,
+      "verteidigung": 1,
+      "bild": "images/enemies/grob-omb.webp",
+      "beschreibung": "Riesige rosa Bob-ombs, die nach vier Zügen explodieren. Vor der Explosion sollten sie besiegt werden.",
+      "orte": [
+        "Piratenhöhle",
+        "Duellkerker"
+      ]
+    },
+    {
+      "id": 88,
+      "name": "Megab-omb",
+      "kp": 10,
+      "angriff": 4,
+      "verteidigung": 2,
+      "bild": "images/enemies/megab-omb.webp",
+      "beschreibung": "Riesige, starke Bob-ombs, explodieren nach vier Zügen. Der Schaden ist riesig, also besiege sie vorher!",
+      "orte": [
+        "Duellkerker"
+      ]
+    },
+    {
+      "id": 89,
+      "name": "Chomp",
+      "kp": 7,
+      "angriff": 6,
+      "verteidigung": 5,
+      "bild": "images/enemies/chomp.webp",
+      "beschreibung": "Chomps sind hart und stark, aber sie haben wenig KP. Erledige sie schnell mit einer starken Attacke.",
+      "orte": [
+        "Äonenpalast",
+        "Duellkerker"
+      ]
+    },
+    {
+      "id": 90,
+      "name": "Roter Chomp",
+      "kp": 6,
+      "angriff": 5,
+      "verteidigung": 3,
+      "bild": "images/enemies/roter_chomp.webp",
+      "beschreibung": "Brutale Chomps, stark in Angriff und Verteidigung. Die rote Farbe stammt angeblich von Clubbone...",
+      "orte": [
+        "Falkenheim",
+        "Duellkerker"
+      ]
+    },
+    {
+      "id": 91,
+      "name": "Willi-Blaster",
+      "kp": 5,
+      "angriff": 0,
+      "verteidigung": 2,
+      "bild": "images/enemies/willi-blaster.webp",
+      "beschreibung": "Solide schwarze Kanone, die Kugelwillis abschießt. Keiner weiß, ob es Lebewesen sind oder nicht.",
+      "orte": [
+        "Piratenhöhle"
+      ]
+    },
+    {
+      "id": 92,
+      "name": "Kugelwilli",
+      "kp": 2,
+      "angriff": 4,
+      "verteidigung": 1,
+      "bild": "images/enemies/kugelwilli.webp",
+      "beschreibung": "Eine Kugel, die der Willi-Blaster abschießt. Hohe Angriffskraft! Deshalb besser schnell besiegen.",
+      "orte": [
+        "Piratenhöhle"
+      ]
+    },
+    {
+      "id": 93,
+      "name": "Willi-Kanone",
+      "kp": 10,
+      "angriff": 0,
+      "verteidigung": 4,
+      "bild": "images/enemies/willi-kanone.webp",
+      "beschreibung": "Kurz gesagt, ein superstarker Willi-Blaster. Schießt Raketen Willis ab, so lange er kann.",
+      "orte": [
+        "Äonenpalast"
+      ]
+    },
+    {
+      "id": 94,
+      "name": "Raketen Willi",
+      "kp": 3,
+      "angriff": 6,
+      "verteidigung": 2,
+      "bild": "images/enemies/raketen_willi.webp",
+      "beschreibung": "Im Grunde genommen große Kugelwillis. Wenig KP, deshalb leicht zu besiegen.",
+      "orte": [
+        "Äonenpalast"
+      ]
+    },
+    {
+      "id": 95,
+      "name": "Lila Magi-Mech",
+      "kp": 10,
+      "angriff": 5,
+      "verteidigung": 2,
+      "bild": "images/enemies/lila_magi-mech.webp",
+      "beschreibung": "Antike Roboter, die Magie benutzen können. Erzeugen Doppelgänger, um Angreifer zu täuschen.",
+      "orte": [
+        "Äonenpalast",
+        "Duellkerker"
+      ]
+    },
+    {
+      "id": 96,
+      "name": "Gelber Magi-Mech",
+      "kp": 10,
+      "angriff": 6,
+      "verteidigung": 3,
+      "bild": "images/enemies/gelber_magi-mech.webp",
+      "beschreibung": "Antike Roboter, die Magie benutzen können. Wenn er dich mit seinen vier Händen kitzelt... Hihihi!",
+      "orte": [
+        "Duellkerker"
+      ]
+    },
+    {
+      "id": 97,
+      "name": "Weißer Magi-Mech",
+      "kp": 12,
+      "angriff": 8,
+      "verteidigung": 5,
+      "bild": "images/enemies/weisser_magi-mech.webp",
+      "beschreibung": "Der magische Gipfelpunkt antiker Ingenieurskunst. Verwirrt Angreifer durch Doppelgänger.",
+      "orte": [
+        "Duellkerker"
+      ]
+    },
+    {
+      "id": 98,
+      "name": "Blooper",
+      "kp": 12,
+      "angriff": 1,
+      "verteidigung": 0,
+      "bild": "images/enemies/blooper.webp",
+      "beschreibung": "Ein riesiger Tintenfisch, der mit Tentakeln und Tinte angreifen kann. Man vermutet, dass er aus dem Meer den Weg in die Kanäle gefunden hat.",
+      "orte": [
+        "Katakomben"
+      ]
+    },
+    {
+      "id": 99,
+      "name": "Lohgard",
+      "kp": 20,
+      "angriff": 5,
+      "verteidigung": 1,
+      "bild": "images/enemies/lohgard.webp",
+      "beschreibung": "Beherrscht Stampf- und Beißattacken und speit Feuer. Hat Angst vor einem Tier, das mit \"F\" anfängt und mit \"sch\" endet.",
+      "orte": [
+        "Lohgards Burg"
+      ]
+    },
+    {
+      "id": 100,
+      "name": "Lohbert",
+      "kp": 80,
+      "angriff": 8,
+      "verteidigung": 2,
+      "bild": "images/enemies/lohbert.webp",
+      "beschreibung": "Lohgards großer Bruder hält sich ganz in Schwarz. Hat einen giftigen Atem, Spezialität: Hypersturm.",
+      "orte": [
+        "Äonenpalast"
+      ]
+    },
+    {
+      "id": 101,
+      "name": "Lohviata",
+      "kp": 200,
+      "angriff": 8,
+      "verteidigung": 2,
+      "bild": "images/enemies/lohviata.webp",
+      "beschreibung": "Lohgards älteste Schwester ist nur noch ein Skelett. Aber unglaublich stark. Der stärkste Gegner im Spiel?",
+      "orte": [
+        "Duellkerker"
+      ]
+    },
+    {
+      "id": 102,
+      "name": "Aurelius",
+      "kp": 40,
+      "angriff": 4,
+      "verteidigung": 0,
+      "bild": "images/enemies/aurelius.webp",
+      "beschreibung": "Er ist der Champion, also wird das ein harter Kampf. Seine Luftangriffe sind wohl besonders elegant...",
+      "orte": [
+        "Falkenheim"
+      ]
+    },
+    {
+      "id": 103,
+      "name": "Mega-Clubbone",
+      "kp": 60,
+      "angriff": 4,
+      "verteidigung": 0,
+      "bild": "images/enemies/mega-clubbone.webp",
+      "beschreibung": "Durch die Kraft des Sternjuwels ist er so stark... Und er hält sich wohl für ziemlich schön so.",
+      "orte": [
+        "Falkenheim"
+      ]
+    },
+    {
+      "id": 104,
+      "name": "Rumpel",
+      "kp": 40,
+      "angriff": 6,
+      "verteidigung": 0,
+      "bild": "images/enemies/rumpel.webp",
+      "beschreibung": "Verwandelt sich vor dem Angriff in seinen Gegner. Auf Brunhildas Druck hin Mitglied im Schattentrio.",
+      "orte": [
+        "Spukabtei",
+        "Äonenpalast"
+      ]
+    },
+    {
+      "id": 105,
+      "name": "Cortez",
+      "kp": 20,
+      "angriff": 4,
+      "verteidigung": 1,
+      "bild": "images/enemies/cortez.webp",
+      "beschreibung": "Der rastlose Geist des Piratenkönigs... Sein Herz steckt noch immer voller Zorn.",
+      "orte": [
+        "Piratenhöhle"
+      ]
+    },
+    {
+      "id": 106,
+      "name": "Fluffy",
+      "kp": 50,
+      "angriff": 5,
+      "verteidigung": 1,
+      "bild": "images/enemies/fluffy.webp",
+      "beschreibung": "Monster, das aus einem Fuzzy-Kollektiv besteht. Benutzt bei Attacken seine Tentakel.",
+      "orte": [
+        "Glimmer-Liner"
+      ]
+    },
+    {
+      "id": 107,
+      "name": "Fußsoldat",
+      "kp": 4,
+      "angriff": 3,
+      "verteidigung": 0,
+      "bild": "images/enemies/fusssoldat.webp",
+      "beschreibung": "Trinken Kraft-Punsch und greifen frontal an. Sind diese Crucionen wirklich so leicht zu schlagen?",
+      "orte": [
+        "Großer Baum",
+        "Crucionen-HQ"
+      ]
+    },
+    {
+      "id": 108,
+      "name": "Forscher",
+      "kp": 9,
+      "angriff": 4,
+      "verteidigung": 0,
+      "bild": "images/enemies/forscher.webp",
+      "beschreibung": "Forscher werfen mit verschiedenen Chemikalien. Damit testen sie den Effekt ihrer Entwicklungen.",
+      "orte": [
+        "Crucionen-HQ"
+      ]
+    },
+    {
+      "id": 109,
+      "name": "Elite-Soldat",
+      "kp": 10,
+      "angriff": 5,
+      "verteidigung": 1,
+      "bild": "images/enemies/elite-soldat.webp",
+      "beschreibung": "Crucionen-Elite, die auch gerne Chemie einsetzen. Ihre Kraft stammt aus der chemischen Forschung.",
+      "orte": [
+        "Crucionen-HQ"
+      ]
+    },
+    {
+      "id": 110,
+      "name": "Crucimat",
+      "kp": 3,
+      "angriff": 2,
+      "verteidigung": 0,
+      "bild": "images/enemies/crucimat.webp",
+      "beschreibung": "Von den Crucionen hergestellte Kampfeinheiten. Zur Verteidigung setzen sie Mini-Crucimaten ein.",
+      "orte": [
+        "Crucionen-HQ",
+        "Großer Baum"
+      ]
+    },
+    {
+      "id": 111,
+      "name": "Mini-Crucimat",
+      "kp": 1,
+      "angriff": 0,
+      "verteidigung": 0,
+      "bild": "images/enemies/mini-crucimat.webp",
+      "beschreibung": "Schutzeinheiten für die Crucimaten. Maximal zwei Stück pro Crucimat. Sie müssen zuerst weg.",
+      "orte": [
+        "Crucionen-HQ",
+        "Großer Baum"
+      ]
+    },
+    {
+      "id": 112,
+      "name": "Crucimat Z",
+      "kp": 7,
+      "angriff": 4,
+      "verteidigung": 0,
+      "bild": "images/enemies/crucimat_z.webp",
+      "beschreibung": "Weiterentwickelte Crucimaten mit KP-Erholung. Werden durch Mini-Crucimaten perfekt geschützt.",
+      "orte": [
+        "Crucionen-HQ",
+        "Mond"
+      ]
+    },
+    {
+      "id": 113,
+      "name": "Mini-Crucimat Z",
+      "kp": 2,
+      "angriff": 0,
+      "verteidigung": 0,
+      "bild": "images/enemies/mini-crucimat_z.webp",
+      "beschreibung": "Bis zu vier von ihnen schützen den Crucimat Z. Besiege sie alle, um den Crucimat Z zu besiegen.",
+      "orte": [
+        "Crucionen-HQ",
+        "Mond"
+      ]
+    },
+    {
+      "id": 114,
+      "name": "Crucimat XXL",
+      "kp": 10,
+      "angriff": 3,
+      "verteidigung": 1,
+      "bild": "images/enemies/crucimat_xxl.webp",
+      "beschreibung": "Lassen pro Zug zwei Mini-Crucimaten erscheinen. Manchmal gelingt es ihnen, den Gegner zu lähmen.",
+      "orte": [
+        "Crucionen-HQ"
+      ]
+    },
+    {
+      "id": 115,
+      "name": "Mini-Crucimat XXL",
+      "kp": 1,
+      "angriff": 0,
+      "verteidigung": 0,
+      "bild": "images/enemies/mini-crucimat_xxl.webp",
+      "beschreibung": "Kleine Crucimaten, die den Crucimat XXL schützen. Erledige sie, bevor du den Hauptgegner angreifst.",
+      "orte": [
+        "Crucionen-HQ"
+      ]
+    },
+    {
+      "id": 116,
+      "name": "Crucitektor",
+      "kp": 3,
+      "angriff": 4,
+      "verteidigung": 0,
+      "bild": "images/enemies/crucitektor.webp",
+      "beschreibung": "Magische Items, die Crucius schützen. Lästige Dinger! Mit vier Crucitektoren wird Crucius unverwundbar.",
+      "orte": [
+        "Äonenpalast"
+      ]
+    },
+    {
+      "id": 117,
+      "name": "Crucibot",
+      "kp": 30,
+      "angriff": 2,
+      "verteidigung": 1,
+      "bild": "images/enemies/crucibot.webp",
+      "beschreibung": "Der stärkste und modernste Roboter der Crucionen. Besonders gefährlich sind seine Raketenfäuste.",
+      "orte": [
+        "Großer Baum"
+      ]
+    },
+    {
+      "id": 118,
+      "name": "Neo-Crucibot",
+      "kp": 70,
+      "angriff": 6,
+      "verteidigung": 2,
+      "bild": "images/enemies/neo-crucibot.webp",
+      "beschreibung": "Eine Weiterentwicklung des Crucibot. Besondere Verbesserung: Ein MG. Achtung! Gefahr!",
+      "orte": [
+        "Crucionen-HQ"
+      ]
+    },
+    {
+      "id": 119,
+      "name": "Crucillus",
+      "kp": 30,
+      "angriff": 4,
+      "verteidigung": 0,
+      "bild": "images/enemies/crucillus.webp",
+      "beschreibung": "Kommandeur der Crucionen, kämpft mit Körpereinsatz. Aber er hat es auch nicht immer leicht in seinem Job.",
+      "orte": [
+        "Rohlingen",
+        "Isla Corsaria"
+      ]
+    },
+    {
+      "id": 120,
+      "name": "Crucius",
+      "kp": 50,
+      "angriff": 7,
+      "verteidigung": 1,
+      "bild": "images/enemies/crucius.webp",
+      "beschreibung": "Anführer der Crucionen und Prinzessin Peachs Entführer. Ein fieser Typ, der die Weltherrschaft anstrebt.",
+      "orte": [
+        "Äonenpalast"
+      ]
+    },
+    {
+      "id": 121,
+      "name": "Brunhilda",
+      "kp": 30,
+      "angriff": 5,
+      "verteidigung": 0,
+      "bild": "images/enemies/brunhilda.webp",
+      "beschreibung": "Anführerin des Schattentrios, verwendet diverse Magie. Hat einen sehr schlechten Charakter...",
+      "orte": [
+        "Wunderwald",
+        "Äonenpalast"
+      ]
+    },
+    {
+      "id": 122,
+      "name": "Roberta",
+      "kp": 40,
+      "angriff": 7,
+      "verteidigung": 0,
+      "bild": "images/enemies/roberta.webp",
+      "beschreibung": "Mitglied des Schattentrios, Brunhildas jüngere Schwester. Hohe Angriffskraft, also besser schnell besiegen!",
+      "orte": [
+        "Wunderwald",
+        "Äonenpalast"
+      ]
+    },
+    {
+      "id": 123,
+      "name": "Barbara",
+      "kp": 10,
+      "angriff": 1,
+      "verteidigung": 0,
+      "bild": "images/enemies/barbara.webp",
+      "beschreibung": "Brunhildas Schwester, gehört zum Schattentrio. Diese hübsche Hexe hat sicher viele Verehrer.",
+      "orte": [
+        "Wunderwald"
+      ]
+    },
+    {
+      "id": 124,
+      "name": "Königin der Finsternis",
+      "kp": 150,
+      "angriff": 7,
+      "verteidigung": 0,
+      "bild": "images/enemies/koenigin_der_finsternis.webp",
+      "beschreibung": "Die Königin der Finsternis: Die Diebin von Peachs Körper. Sie will die Welt verdüstern, aber Mario verhindert das. Auch Peach ist sicher: Ende gut, alles gut.",
+      "orte": [
+        "Äonenpalast"
+      ]
     }
-]
+  ]
