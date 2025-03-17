@@ -1,0 +1,48 @@
+.einkaufslistenItem {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: rgba(255, 255, 255, .9);
+    width: calc(25% - 38px);
+    padding: 10px;
+    align-items: center;
+    border-radius: 10px;
+    border: 3px solid black;
+    box-shadow: 2px 2px 0px black;
+    height: 60px;
+
+
+    .nameContainer {
+        display: flex;
+        flex-direction: row;
+        gap: 10px;
+        align-items: center;
+        width: 180px;
+        .image {
+            width: 20px;
+        }
+    }
+
+    .buttonContainer {
+        display: flex;
+        flex-direction: row;
+        gap: 5px;        
+        align-items: center;
+        font-family: "FOT-PopJoy Std B"!important;
+
+        .button {
+            width: 35px;
+            height: 35px;
+            background-color: rgba(255, 255, 255, .9);
+            border-radius: 10px;
+            border: 2px solid black;
+            font-weight: bold;
+            cursor: pointer;
+            box-shadow: 2px 2px 0px black;
+            font-family: "FOT-PopJoy Std B";
+            font-size: 16px;
+            line-height: 16px;
+        }
+    }
+}

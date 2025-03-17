@@ -12,6 +12,7 @@ export const Home = () => {
             localStorage.removeItem("checkboxStateCollectables");
             localStorage.removeItem("checkboxStateMissionen");
             localStorage.removeItem("lastPage");
+            localStorage.removeItem("einkaufslistenItems");
             window.alert('Ein Neues Spiel wurde gestartet! Die Seite wird nun neu geladen.');
             window.location.reload();
         }
