@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Die Gumba-Brüder",
+        "rang": 19,
+        "information": "Starten mit Gegenangriff.",
+        "gegner": [
+            {
+                "name": "Gumba",
+                "kp": 2,
+                "angriff": 1,
+                "verteidigung": 0,
+                "bild": "/images/enemies/gumba.webp",
+                "anzahl": 5
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Die Panzer-Kämpfer",
+        "rang": 18,
+        "information": null,
+        "gegner": [
+            {
+                "name": "Panzerkoopa",
+                "kp": 4,
+                "angriff": 2,
+                "verteidigung": 1,
+                "bild": "/images/enemies/panzerkoopa.webp",
+                "anzahl": 2
+            },
+            {
+                "name": "Panzerpara",
+                "kp": 4,
+                "angriff": 2,
+                "verteidigung": 1,
+                "bild": "/images/enemies/panzerpara.webp",
+                "anzahl": 1
+            }
+        ]
+    }
+]

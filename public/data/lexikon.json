@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "Gumba",
+        "kp": 2,
+        "angriff": 1,
+        "verteidigung": 0,
+        "bild": "/images/enemies/gumba.webp",
+        "beschreibung": "Ganz kleine Fische... Wie sie im Lehrbuch stehen. Gegner ohne Besonderheiten.",
+        "orte": [
+            "Katakomben",
+            "Feuertal",
+            "Pfad zur Geröllburg",
+            "Lohgards Burg",
+            "Falkenheim",
+            "Tulpenbach"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Para-Gumba",
+        "kp": 2,
+        "angriff": 1,
+        "verteidigung": 0,
+        "bild": "/images/enemies/paragumba.webp",
+        "beschreibung": "Gumbas mit Flügeln, die in der Luft sicher vor Hammerattacken sind. Erleiden sie Schaden, werden sie zu normalen Gumbas.",
+        "orte": [
+            "Katakomben",
+            "Feuertal",
+            "Pfad zur Geröllburg",
+            "Lohgards Burg"
+        ]
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "ort": "Großfrostheim",
+        "items": [
+            {
+                "name": "Sternenwind",
+                "bild": "/images/items/sternenwind.png",
+                "beschreibung": "Sternenschnuppen-Hagel gegen alle Gegner. Angriffskraft: 6",
+                "preis": 30
+            },
+            {
+                "name": "Eishauch",
+                "bild": "/images/items/eishauch.png",
+                "beschreibung": "Schneesturm und Frost treffen alle Gegner. Angriffskraft: 3",
+                "preis": 6
+              },
+              {
+                "name": "Verwirrpulver",
+                "bild": "/images/items/verwirrpulver.png",
+                "beschreibung": "Verwirrt Marios Gegner: Ihre Angriffe gehen eher daneben.",
+                "preis": 15
+              },
+              {
+                "name": "Stoppuhr",
+                "bild": "/images/items/stoppuhr.png",
+                "beschreibung": "Paralysiert alle Gegner. ...Wenn es funktioniert.",
+                "preis": 12
+              },
+              {
+                "name": "Ahorn-Sirup",
+                "bild": "/images/items/ahorn-sirup.png",
+                "beschreibung": "Köstlicher Sirup. Stellt 10 BP wieder her.",
+                "preis": 20
+              },
+              {
+                "name": "Super-Pilz",
+                "bild": "/images/items/super-pilz.png",
+                "beschreibung": "Ein wahrer Super-Pilz. Stellt 10 KP wieder her.",
+                "preis": 15
+              }
+        ]
+    },
+    {
+        "id": 2,
+        "ort": "Düsterdorf",
+        "items": [
+            {
+                "name": "Donnerzorn",
+                "bild": "/images/items/donnerzorn.png",
+                "beschreibung": "Blitzschlag gegen alle Gegner. Angriffskraft: 5",
+                "preis": 20
+              },
+              {
+                "name": "Rachepulver",
+                "bild": "/images/items/rachepulver.png",
+                "beschreibung": "Den halben Schaden erleidet der Angreifende.",
+                "preis": 10
+              },
+              {
+                "name": "Stoppuhr",
+                "bild": "/images/items/stoppuhr.png",
+                "beschreibung": "Paralysiert alle Gegner. ...Wenn es funktioniert.",
+                "preis": 30
+              },
+              {
+                "name": "Ahorn-Sirup",
+                "bild": "/images/items/ahorn-sirup.png",
+                "beschreibung": "Köstlicher Sirup. Stellt 10 BP wieder her.",
+                "preis": 20
+              },
+              {
+                "name": "Super-Pilz",
+                "bild": "/images/items/super-pilz.png",
+                "beschreibung": "Ein wahrer Super-Pilz. Stellt 10 KP wieder her.",
+                "preis": 15
+              },
+              {
+                "name": "Lebenspilz",
+                "bild": "/images/items/lebenspilz.png",
+                "beschreibung": "Stellt 10 KP her, wenn Mario oder Partner besiegt wurde.",
+                "preis": 40
+              }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "etage": 1,
+        "gegner": [
+            {
+                "name": "Glumba",
+                "kp": 7,
+                "angriff": 3,
+                "verteidigung": 0,
+                "bild": "/images/enemies/glumba.webp"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "etage": 2,
+        "gegner": [
+            {
+                "name": "Sproing",
+                "kp": 3,
+                "angriff": 1,
+                "verteidigung": 0,
+                "bild": "/images/enemies/sproing.webp"
+            }
+        ]
+    }
+]
