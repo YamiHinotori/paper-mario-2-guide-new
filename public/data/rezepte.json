@@ -1,0 +1,629 @@
+[
+    {
+        "id": 1,
+        "name": "Ahorn-Pilz",
+        "bild": "/images/items/ahorn-pilz.png",
+        "beschreibung": "Ein Pilzdessert von Racle T. Stellt 5 KP und 10 BP her.",
+        "zutaten": [
+            "Pilz",
+            "Ahorn-Sirup"
+        ],
+        "aufbewahren": false
+    },
+    {
+        "id": 2,
+        "name": "Ahornschaum",
+        "bild": "/images/items/ahornschaum.png",
+        "beschreibung": "Ein Pilzdessert von Racle T. Stellt 10 KP und 10 BP her.",
+        "zutaten": [
+            "Ahorn-Sirup",
+            "Super-Pilz"
+        ],
+        "aufbewahren": false
+    },
+    {
+        "id": 3,
+        "name": "Blütentee",
+        "bild": "/images/items/bluetentee.png",
+        "beschreibung": "Frischer Tee von Racle T. Stellt 20 BP wieder her.",
+        "zutaten": [
+            "Goldblatt"
+        ],
+        "aufbewahren": false
+    },
+    {
+        "id": 4,
+        "name": "Bombenfraß",
+        "bild": "/images/items/bombenfrass.png",
+        "beschreibung": "Eine explosive Spezialität von Racle T.s Küche.",
+        "zutaten": [
+            "Coco-Wumm",
+            "Eierbombe"
+        ],
+        "aufbewahren": false
+    },
+    {
+        "id": 5,
+        "name": "Bratei",
+        "bild": "/images/items/bratei.png",
+        "beschreibung": "Omelett von Racle T. Stellt 10 KP wieder her.",
+        "zutaten": [
+            "Bubu-Ei"
+        ],
+        "aufbewahren": false
+    },
+    {
+        "id": 6,
+        "name": "Bratpilz",
+        "bild": "/images/items/bratpilz.png",
+        "beschreibung": "Ein Pilzgericht von Racle T. Stellt 6 KP und 2 BP her.",
+        "zutaten": [
+            "Pilz"
+        ],
+        "aufbewahren": true
+    },
+    {
+        "id": 7,
+        "name": "Coco-Wumm",
+        "bild": "/images/items/coco-wumm.png",
+        "beschreibung": "Eine Kokosbombe von Racle T. Wirf sie auf einen Feind.",
+        "zutaten": [
+            "Kokosnuss",
+            "Feuerblume"
+        ],
+        "aufbewahren": true
+    },
+    {
+        "id": 8,
+        "name": "Eierbombe",
+        "bild": "/images/items/eierbombe.png",
+        "beschreibung": "Eine Eierbombe von Racle T. Wirf sie auf einen Gegner.",
+        "zutaten": [
+            "Bubu-Ei",
+            "Feuerblume"
+        ],
+        "aufbewahren": true
+    },
+    {
+        "id": 9,
+        "name": "Eishase",
+        "bild": "/images/items/eishase.png",
+        "beschreibung": "Ein Eisdessert von Racle T. Stellt 15 KP her. Friert ein.",
+        "zutaten": [
+            "Goldblatt",
+            "Eishauch"
+        ],
+        "aufbewahren": true
+    },
+    {
+        "id": 10,
+        "name": "Eis-Schmatz",
+        "bild": "/images/items/eis-schmatz.png",
+        "beschreibung": "Ein Dessert von Racle T. Stellt 20 BP wieder her.",
+        "zutaten": [
+            "Eishauch",
+            "Ahorn-Sirup"
+        ],
+        "aufbewahren": false
+    },
+    {
+        "id": 11,
+        "name": "Elektro-Pop",
+        "bild": "/images/items/elektro-pop.png",
+        "beschreibung": "Ein prickelnder Lutscher, stellt 15 BP wieder her.",
+        "zutaten": [
+            "Voltopilz",
+            "Backmischung"
+        ],
+        "aufbewahren": false
+    },
+    {
+        "id": 12,
+        "name": "Fehlschlag",
+        "bild": "/images/items/fehlschlag.png",
+        "beschreibung": "Das Gegenteil von gut! Stellt 1 KP und 1 BP her.",
+        "zutaten": [
+            "Saures Tonic"
+        ],
+        "aufbewahren": false
+    },
+    {
+        "id": 13,
+        "name": "Festschmaus",
+        "bild": "/images/items/festschmaus.png",
+        "beschreibung": "Ein Spezialmenü von Racle T. Stellt 40 KP und 40 BP her.",
+        "zutaten": [
+            "Goldblatt",
+            "Whackas Kick"
+        ],
+        "aufbewahren": false
+    },
+    {
+        "id": 14,
+        "name": "Feuerpasta",
+        "bild": "/images/items/feuerpasta.png",
+        "beschreibung": "Pikante Pasta von Racle T. Stellt 10 KP und 10 BP her.",
+        "zutaten": [
+            "Power-Pasta",
+            "Feuersoße"
+        ],
+        "aufbewahren": false
+    },
+    {
+        "id": 15,
+        "name": "Feuer-Pop",
+        "bild": "/images/items/feuer-pop.png",
+        "beschreibung": "Ein feuriger Lutscher. Stellt 20 BP und 1 KP her.",
+        "zutaten": [
+            "Feuerblume",
+            "Backmischung"
+        ],
+        "aufbewahren": false
+    },
+    {
+        "id": 16,
+        "name": "Fit-Salat",
+        "bild": "/images/items/fit-salat.png",
+        "beschreibung": "Gemischter Salat von Racle T. Stellt 15 BP wieder her.",
+        "zutaten": [
+            "Koopa-Blatt",
+            "Wurzel"
+        ],
+        "aufbewahren": false
+    },
+    {
+        "id": 17,
+        "name": "Gelee-Pilz",
+        "bild": "/images/items/gelee-pilz.png",
+        "beschreibung": "Ein Pilzdessert von Racle T. Stellt 5 KP und 50 BP her.",
+        "zutaten": [
+            "Pilz",
+            "Gelee Royal"
+        ],
+        "aufbewahren": false
+    },
+    {
+        "id": 18,
+        "name": "Gelee-Pop",
+        "bild": "/images/items/gelee-pop.png",
+        "beschreibung": "Ein Riesen-Lolly von Racle T. Stellt 64 BP wieder her.",
+        "zutaten": [
+            "Gelee Royal",
+            "Backmischung"
+        ],
+        "aufbewahren": false
+    },
+    {
+        "id": 19,
+        "name": "Geleeschaum",
+        "bild": "/images/items/geleeschaum.png",
+        "beschreibung": "Ein Pilzdessert von Racle T. Stellt 10 KP und 50 BP her.",
+        "zutaten": [
+            "Gelee Royal",
+            "Super-Pilz"
+        ],
+        "aufbewahren": false
+    },
+    {
+        "id": 20,
+        "name": "Giftpilz",
+        "bild": "/images/items/giftpilz.png",
+        "beschreibung": "Pilzgericht von Racle T. Wer es isst, wird vergiftet.",
+        "zutaten": [
+            "Tropfpilz",
+            "Tintensaft"
+        ],
+        "aufbewahren": true
+    },
+    {
+        "id": 21,
+        "name": "Herztorte",
+        "bild": "/images/items/herztorte.png",
+        "beschreibung": "Diese Torte stellt 20 BP her, macht dich aber schlaff.",
+        "zutaten": [
+            "Backmischung",
+            "Verwirrpulver"
+        ],
+        "aufbewahren": false
+    },
+    {
+        "id": 22,
+        "name": "Honig-Bonbon",
+        "bild": "/images/items/honig-bonbon.png",
+        "beschreibung": "Ein süßes Bonbon von Racle T. Stellt 20 BP wieder her.",
+        "zutaten": [
+            "Backmischung",
+            "Honig-Sirup"
+        ],
+        "aufbewahren": true
+    },
+    {
+        "id": 23,
+        "name": "Honig-Pilz",
+        "bild": "/images/items/honig-pilz.png",
+        "beschreibung": "Ein Pilzdessert von Racle T. Stellt 5 KP und 5 BP her.",
+        "zutaten": [
+            "Pilz",
+            "Honig-Sirup"
+        ],
+        "aufbewahren": false
+    },
+    {
+        "id": 24,
+        "name": "Honigschaum",
+        "bild": "/images/items/honigschaum.png",
+        "beschreibung": "Ein Pilzdessert von Racle T. Stellt 10 KP und 5 BP her.",
+        "zutaten": [
+            "Honig-Sirup",
+            "Super-Pilz"
+        ],
+        "aufbewahren": false
+    },
+    {
+        "id": 25,
+        "name": "Keksmischung",
+        "bild": "/images/items/keksmischung.png",
+        "beschreibung": "Leckere Kekse von Racle T. Stellen 15 KP und 15 BP her.",
+        "zutaten": [
+            "Backmischung",
+            "Tropfsirup"
+        ],
+        "aufbewahren": false
+    },
+    {
+        "id": 26,
+        "name": "Kokos-Pop",
+        "bild": "/images/items/kokos-pop.png",
+        "beschreibung": "Ein süßer Bonbon von Racle T. Stellt 3 KP und 15 BP her.",
+        "zutaten": [
+            "Backmischung",
+            "Kokosnuss"
+        ],
+        "aufbewahren": false
+    },
+    {
+        "id": 27,
+        "name": "Koopaknödel",
+        "bild": "/images/items/koopaknoedel.png",
+        "beschreibung": "Feiner Knödel von Racle T. Stellt 20 BP wieder her.",
+        "zutaten": [
+            "Koopa-Blatt",
+            "Mango"
+        ],
+        "aufbewahren": false
+    },
+    {
+        "id": 28,
+        "name": "Koopasta",
+        "bild": "/images/items/koopasta.png",
+        "beschreibung": "Spagetti von Racle T. Stellt 7 KP und 7 BP her.",
+        "zutaten": [
+            "Koopa-Blatt",
+            "Power-Pasta"
+        ],
+        "aufbewahren": false
+    },
+    {
+        "id": 29,
+        "name": "Koopa-Tee",
+        "bild": "/images/items/koopa-tee.png",
+        "beschreibung": "Ein Tee von Racle T. Stellt 7 BP wieder her.",
+        "zutaten": [
+            "Koopa-Blatt"
+        ],
+        "aufbewahren": false
+    },
+    {
+        "id": 30,
+        "name": "Liebesquark",
+        "bild": "/images/items/liebesquark.png",
+        "beschreibung": "Ein Dessert von Racle T. Er kann den Charakter einschläfern, elektrisch aufladen oder unsichtbar machen.",
+        "zutaten": [
+            "Mangocreme",
+            "Bubu-Ei"
+        ],
+        "aufbewahren": false
+    },
+    {
+        "id": 31,
+        "name": "Mangocreme",
+        "bild": "/images/items/mangocreme.png",
+        "beschreibung": "Ein Desser von Racle T. Stellt 10 KP und 3 BP her.",
+        "zutaten": [
+            "Mango",
+            "Backmischung"
+        ],
+        "aufbewahren": true
+    },
+    {
+        "id": 32,
+        "name": "Mustorte",
+        "bild": "/images/items/mustorte.png",
+        "beschreibung": "Torte von Racle T. Stellt 15 BP wieder her.",
+        "zutaten": [
+            "Backmischung"
+        ],
+        "aufbewahren": true
+    },
+    {
+        "id": 33,
+        "name": "Obstparfait",
+        "bild": "/images/items/obstparfait.png",
+        "beschreibung": "Ein Dessert von Racle T. Stellt 10 KP und 2 BP her.",
+        "zutaten": [
+            "Mango",
+            "Pfirsich"
+        ],
+        "aufbewahren": false
+    },
+    {
+        "id": 34,
+        "name": "Omelett",
+        "bild": "/images/items/omelett.png",
+        "beschreibung": "Eine Kreation von Racle T. Stellt 5 KP und 5 BP her.",
+        "zutaten": [
+            "Bubu-Ei",
+            "Wurzel"
+        ],
+        "aufbewahren": false
+    },
+    {
+        "id": 35,
+        "name": "Paarmahl",
+        "bild": "/images/items/paarmahl.png",
+        "beschreibung": "KP-Erholung. Nur der hinten stehende kann es benutzen.",
+        "zutaten": [
+            "Eishase",
+            "Pfeffersuppe"
+        ],
+        "aufbewahren": true
+    },
+    {
+        "id": 36,
+        "name": "Panzertorte",
+        "bild": "/images/items/panzertorte.png",
+        "beschreibung": "Hartgebäck von Racle T. Wirf es auf einen Feind.",
+        "zutaten": [
+            "Hartpanzer",
+            "Reisgericht"
+        ],
+        "aufbewahren": false
+    },
+    {
+        "id": 37,
+        "name": "Peach-Torte",
+        "bild": "/images/items/peach-torte.png",
+        "beschreibung": "Dieses Dessert lädt dich auf, macht schlaff oder schläfrig.",
+        "zutaten": [
+            "Backmischung",
+            "Pfirsich"
+        ],
+        "aufbewahren": false
+    },
+    {
+        "id": 38,
+        "name": "Pfeffersuppe",
+        "bild": "/images/items/pfeffersuppe.png",
+        "beschreibung": "Eine feine Suppe von Racle T. Stellt 4 KP und 4 BP her.",
+        "zutaten": [
+            "Feuerblume"
+        ],
+        "aufbewahren": true
+    },
+    {
+        "id": 39,
+        "name": "Pilz-Crépe",
+        "bild": "/images/items/pilz-crepe.png",
+        "beschreibung": "Pilznascherei von Racle T. Stellt 30 KP und 20 BP her.",
+        "zutaten": [
+            "Ultra-Pilz",
+            "Backmischung"
+        ],
+        "aufbewahren": false
+    },
+    {
+        "id": 40,
+        "name": "Pilzkuchen",
+        "bild": "/images/items/pilzkuchen.png",
+        "beschreibung": "Pilztorte von Racle T. Stellt 10 KP und 10 BP her.",
+        "zutaten": [
+            "Pilz",
+            "Backmischung"
+        ],
+        "aufbewahren": false
+    },
+    {
+        "id": 41,
+        "name": "Pilz-Muffin",
+        "bild": "/images/items/pilz-muffin.png",
+        "beschreibung": "Ein Pilzgericht von Racle T. Stellt 15 KP und 5 BP her.",
+        "zutaten": [
+            "Tropfpilz"
+        ],
+        "aufbewahren": false
+    },
+    {
+        "id": 42,
+        "name": "Pilz-Steak",
+        "bild": "/images/items/pilz-steak.png",
+        "beschreibung": "Ein Pilzgericht von Racle T. Stellt 30 KP und 10 BP her.",
+        "zutaten": [
+            "Ultra-Pilz"
+        ],
+        "aufbewahren": false
+    },
+    {
+        "id": 43,
+        "name": "Pilztee",
+        "bild": "/images/items/pilztee.png",
+        "beschreibung": "Frischer Tee von Racle T. KP erholen sich schrittweise.",
+        "zutaten": [
+            "Tropfpilz",
+            "Goldblatt"
+        ],
+        "aufbewahren": false
+    },
+    {
+        "id": 44,
+        "name": "Reisgericht",
+        "bild": "/images/items/reisgericht.png",
+        "beschreibung": "Ein Reisgericht von Racle T. Stellt 10 KP und 10 BP her.",
+        "zutaten": [
+            "Wurzel",
+            "Pilz"
+        ],
+        "aufbewahren": true
+    },
+    {
+        "id": 45,
+        "name": "Schokokuchen",
+        "bild": "/images/items/schokokuchen.png",
+        "beschreibung": "Leckerer Kuchen von Racle T. Stellt 5 KP und 15 BP her.",
+        "zutaten": [
+            "Backmischung",
+            "Tintensaft"
+        ],
+        "aufbewahren": false
+    },
+    {
+        "id": 46,
+        "name": "Space-Food",
+        "bild": "/images/items/space-food.png",
+        "beschreibung": "Leckere Astronautenkost, stellt 5 KP wieder her.",
+        "zutaten": [
+            "Trockenblume",
+            "Pilz"
+        ],
+        "aufbewahren": false
+    },
+    {
+        "id": 47,
+        "name": "Spagetti",
+        "bild": "/images/items/spagetti.png",
+        "beschreibung": "Spagetti von Racle T. Stellt 6 KP und 4 BP her.",
+        "zutaten": [
+            "Power-Pasta"
+        ],
+        "aufbewahren": false
+    },
+    {
+        "id": 48,
+        "name": "Spezialmenü",
+        "bild": "/images/items/spezialmenue.png",
+        "beschreibung": "Ein Spezialmenü von Racle T. Stellt 20 KP und 20 BP her.",
+        "zutaten": [
+            "Ultra-Pilz",
+            "Tropfpilz"
+        ],
+        "aufbewahren": false
+    },
+    {
+        "id": 49,
+        "name": "Sternendinner",
+        "bild": "/images/items/sternendinner.png",
+        "beschreibung": "Dieses Gericht stellt 7 KP her, KP-Erholung setzt ein.",
+        "zutaten": [
+            "Sternenwind",
+            "Bratpilz"
+        ],
+        "aufbewahren": false
+    },
+    {
+        "id": 50,
+        "name": "Stieleis",
+        "bild": "/images/items/stieleis.png",
+        "beschreibung": "Ein Dessert von Racle T. Stellt 15 BP wieder her.",
+        "zutaten": [
+            "Honig-Sirup",
+            "Eishauch"
+        ],
+        "aufbewahren": false
+    },
+    {
+        "id": 51,
+        "name": "Strafgericht",
+        "bild": "/images/items/strafgericht.png",
+        "beschreibung": "Eine Kreation von Racle T. mit unglaublichem Effekt.",
+        "zutaten": [
+            "Paarmahl",
+            "Giftpilz"
+        ],
+        "aufbewahren": false
+    },
+    {
+        "id": 52,
+        "name": "Super Soda",
+        "bild": "/images/items/super_soda.png",
+        "beschreibung": "Feiner Saft, der 5 KP herstellt und Vergiftung heilt.",
+        "zutaten": [
+            "Honig-Sirup"
+        ],
+        "aufbewahren": false
+    },
+    {
+        "id": 53,
+        "name": "Tintenpasta",
+        "bild": "/images/items/tintenpasta.png",
+        "beschreibung": "Spagetti von Racle T. Stellt 10 KP und 30 BP her.",
+        "zutaten": [
+            "Power-Pasta",
+            "Tintensaft"
+        ],
+        "aufbewahren": false
+    },
+    {
+        "id": 54,
+        "name": "Tintensaft",
+        "bild": "/images/items/tintensaft.png",
+        "beschreibung": "Ein bitterer Saft von Racle T. Stellt 30 BP wieder her.",
+        "zutaten": [
+            "Koopa-Blatt",
+            "Feuersoße"
+        ],
+        "aufbewahren": true
+    },
+    {
+        "id": 55,
+        "name": "Ultra-Gelee",
+        "bild": "/images/items/ultra-gelee.png",
+        "beschreibung": "Ein Pilzdessert von Racle T. Stellt 50 KP und 50 BP her.",
+        "zutaten": [
+            "Ultra-Pilz",
+            "Gelee Royal"
+        ],
+        "aufbewahren": false
+    },
+    {
+        "id": 56,
+        "name": "Ultra-Honig",
+        "bild": "/images/items/ultra-honig.png",
+        "beschreibung": "Ein Pilzdessert von Racle T. Stellt 50 KP und 5 BP her.",
+        "zutaten": [
+            "Ultra-Pilz",
+            "Honig-Sirup"
+        ],
+        "aufbewahren": false
+    },
+    {
+        "id": 57,
+        "name": "Ultra-Sirup",
+        "bild": "/images/items/ultra-sirup.png",
+        "beschreibung": "Ein Pilzdessert von Racle T. Stellt 50 KP und 10 BP her.",
+        "zutaten": [
+            "Ultra-Pilz",
+            "Ahorn-Sirup"
+        ],
+        "aufbewahren": false
+    },
+    {
+        "id": 58,
+        "name": "Feuer Würstchen",
+        "bild": "/images/items/feuer_wuerstchen.png",
+        "beschreibung": "Stellt 7 KP und 7 BP her.",
+        "zutaten": [
+            "Hotdog",
+            "Feuersoße"
+        ],
+        "aufbewahren": false
+    }
+]
