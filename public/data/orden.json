@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "name": "Power-Sprung",
+        "op": 1,
+        "beschreibung": "Mario lernt den Power-Sprung, der ihn 2 BP kostet. Mit diesem Sprung zeigt er Gegnern, was eine Harke ist. Mehrere Orden verbrauchen mehr BP, wirken aber stärker.",
+        "bild": "/images/badges/power-sprung.png",
+        "orte": [
+            {
+                "name": "Rohlingen",
+                "beschreibung": "Orden-Shop"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Multisprung",
+        "op": 1,
+        "beschreibung": "Mario lernt den Multisprung, der ihn 2 BP kostet. Mit dem richtigen Action-Kommando trifft er alle Gegner in Reihe. Mehrere Orden verbrauchen mehr BP, wirken aber stärker.",
+        "bild": "/images/badges/multisprung.png",
+        "orte": [
+            {
+                "name": "Geröllburg",
+                "beschreibung": null
+            }
+        ]
+    }
+]

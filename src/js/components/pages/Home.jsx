@@ -14,6 +14,7 @@ export const Home = () => {
             localStorage.removeItem("lastPage");
             localStorage.removeItem("einkaufslistenItems");
             localStorage.removeItem("gesammelteRezepte");
+            localStorage.removeItem("gesammelteOrden");
             window.alert('Ein Neues Spiel wurde gestartet! Die Seite wird nun neu geladen.');
             window.location.reload();
         }

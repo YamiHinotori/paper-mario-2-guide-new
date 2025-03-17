@@ -38,12 +38,12 @@ export const Menu = ({ onSelect }) => {
             backgroundColor: "rgba(71, 193, 81, .9)"
         },
         {
-            name: "Arena",
+            name: "Orden",
             color: "#77a4dd",
             backgroundColor: "rgba(119, 164, 221, .9)"
         },
         {
-            name: "Orden",
+            name: "Arena",
             color: "#d25942",
             backgroundColor: "rgba(210, 89, 66, .9)"
         },
