@@ -10,7 +10,7 @@
                 "kp": 2,
                 "angriff": 1,
                 "verteidigung": 0,
-                "bild": "/images/enemies/gumba.webp",
+                "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/gumba.webp",
                 "anzahl": 5
             }
         ]
@@ -26,7 +26,7 @@
                 "kp": 4,
                 "angriff": 2,
                 "verteidigung": 1,
-                "bild": "/images/enemies/panzerkoopa.webp",
+                "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/panzerkoopa.webp",
                 "anzahl": 2
             },
             {
@@ -34,7 +34,7 @@
                 "kp": 4,
                 "angriff": 2,
                 "verteidigung": 1,
-                "bild": "/images/enemies/panzerpara.webp",
+                "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/panzerpara.webp",
                 "anzahl": 1
             }
         ]
