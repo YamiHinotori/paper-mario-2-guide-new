@@ -17,10 +17,10 @@ export const EinkaufslistenItem = ({ item, updateItemCount }) => {
     };
 
     return (
-        <div className="einkaufslistenItem">
+        <div className={`einkaufslistenItem ${count == anzahl ? "checked" : ""}`}>
             <div className="nameContainer">
                 <img src={bild} alt={name} className="image-image" />
-                <span className="name">{name}</span>
+                <strong><span className="name">{name}</span></strong>
             </div>
             <span className="count">
                 <i>{count}/{anzahl}</i>

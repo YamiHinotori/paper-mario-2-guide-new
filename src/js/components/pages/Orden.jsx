@@ -14,7 +14,7 @@ export const Orden = () => {
 
     const fetchOrden = async () => {
         try {
-            const response = await fetch("/data/orden.json");
+            const response = await fetch(`${process.env.REACT_APP_PUBLIC_URL}/data/orden.json`);
             const jsonData = await response.json();
 
             // Lade gespeicherte gesammelte Orden aus localStorage

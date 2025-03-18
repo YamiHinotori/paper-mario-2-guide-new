@@ -10,7 +10,7 @@ export const Gegner = ({ gegner }) => {
                 <div className="gegner">
                     <img src={bild} alt={name} className="image" />
                     <div className="infoContainer">
-                        <p>{name}</p>
+                        <strong><p>{name}</p></strong>
                         <div className="table">
                             <div>
                                 <p className="head">KP</p>

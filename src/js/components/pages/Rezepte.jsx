@@ -14,7 +14,7 @@ export const Rezepte = () => {
 
     const fetchRezepte = async () => {
         try {
-            const response = await fetch("/data/rezepte.json");
+            const response = await fetch(`${process.env.REACT_APP_PUBLIC_URL}/data/rezepte.json`);
             const jsonData = await response.json();
 
             // Lade gespeicherte gesammelte Rezepte aus localStorage

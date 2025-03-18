@@ -12,7 +12,7 @@ export const Items = () => {
 
     const fetchItems = async () => {
         try {
-            const response = await fetch("/data/items.json");
+            const response = await fetch(`${process.env.REACT_APP_PUBLIC_URL}/data/items.json`);
             const jsonData = await response.json();
             setItems(jsonData);
         } catch (error) {

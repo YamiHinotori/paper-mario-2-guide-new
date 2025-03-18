@@ -8,7 +8,7 @@ export const Item = ({ item }) => {
         <div className="itemClassContainer">
             <div className="ueberschriftContainer">
                 <img src={bild} alt={name} className="bild" />
-                <p>{name}</p>
+                <strong><p>{name}</p></strong>
             </div>
             <p className="beschreibung">{beschreibung}</p>
         </div>

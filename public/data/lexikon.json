@@ -5,7 +5,7 @@
       "kp": 2,
       "angriff": 1,
       "verteidigung": 0,
-      "bild": "images/enemies/gumba.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/gumba.webp",
       "beschreibung": "Ganz kleine Fische... Wie sie im Lehrbuch stehen. Gegner ohne Besonderheiten.",
       "orte": [
         "Katakomben",
@@ -22,7 +22,7 @@
       "kp": 2,
       "angriff": 1,
       "verteidigung": 0,
-      "bild": "images/enemies/paragumba.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/paragumba.webp",
       "beschreibung": "Gumbas mit Flügeln, die in der Luft sicher vor Hammerattacken sind. Erleiden sie Schaden, werden sie zu normalen Gumbas.",
       "orte": [
         "Katakomben",
@@ -37,7 +37,7 @@
       "kp": 2,
       "angriff": 2,
       "verteidigung": 0,
-      "bild": "images/enemies/pieks-gumba.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/pieks-gumba.webp",
       "beschreibung": "Ein Gumba mit Pickelhaube. Seine Angriffskraft ist etwas höher als bei einem normalen Gumba.",
       "orte": [
         "Katakomben",
@@ -52,7 +52,7 @@
       "kp": 8,
       "angriff": 2,
       "verteidigung": 0,
-      "bild": "images/enemies/hyper-gumba.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/hyper-gumba.webp",
       "beschreibung": "Hyperstarke Gumbas, die sich aufladen können. Nach dem Aufladen steigt ihre Angriffskraft auf 8.",
       "orte": [
         "Düsterweg"
@@ -64,7 +64,7 @@
       "kp": 8,
       "angriff": 2,
       "verteidigung": 0,
-      "bild": "images/enemies/hypra-gumba.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/hypra-gumba.webp",
       "beschreibung": "Hyper-Gumbas mit Flügeln, die sich aufladen können. Nach dem Aufladen steigt ihre Angriffskraft auf 8.",
       "orte": [
         "Düsterweg"
@@ -76,7 +76,7 @@
       "kp": 8,
       "angriff": 3,
       "verteidigung": 0,
-      "bild": "images/enemies/hysteri-gumba.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/hysteri-gumba.webp",
       "beschreibung": "Stachelige Hyper-Gumbas, die sich aufladen können. Nach dem Aufladen steigt ihre Angriffskraft auf 9.",
       "orte": [
         "Düsterweg"
@@ -88,7 +88,7 @@
       "kp": 7,
       "angriff": 3,
       "verteidigung": 0,
-      "bild": "images/enemies/glumba.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/glumba.webp",
       "beschreibung": "Fiese Gumbas, die düstere Tunnel lieben. Vielleicht kommt daher die ungesunde Gesichtsfarbe?",
       "orte": [
         "Duellkerker"
@@ -100,7 +100,7 @@
       "kp": 7,
       "angriff": 3,
       "verteidigung": 0,
-      "bild": "images/enemies/paraglumba.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/paraglumba.webp",
       "beschreibung": "Geflügelte Glumbas mit ungesunder Gesichtsfarbe. Sie sehen irgendwie ein wenig verschimmelt aus.",
       "orte": [
         "Duellkerker"
@@ -112,7 +112,7 @@
       "kp": 7,
       "angriff": 4,
       "verteidigung": 0,
-      "bild": "images/enemies/pieks-glumba.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/pieks-glumba.webp",
       "beschreibung": "Stachelige Glumbas, die an finsteren Orten leben. Besser nicht draufspringen, das könnte weh tun.",
       "orte": [
         "Duellkerker"
@@ -124,7 +124,7 @@
       "kp": 4,
       "angriff": 2,
       "verteidigung": 1,
-      "bild": "images/enemies/koopa.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/koopa.webp",
       "beschreibung": "Alte Bekannte aus früheren Abenteuern. Liegen sie auf dem Rücken, sinkt die Verteidigung auf 0.",
       "orte": [
         "Lohgards Burg",
@@ -137,7 +137,7 @@
       "kp": 4,
       "angriff": 2,
       "verteidigung": 1,
-      "bild": "images/enemies/parakoopa.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/parakoopa.webp",
       "beschreibung": "Koopas mit Flügeln, die aus der Luft angreifen. Sprungattacken bringen sie zum Absturz.",
       "orte": [
         "Lohgards Burg"
@@ -149,7 +149,7 @@
       "kp": 4,
       "angriff": 2,
       "verteidigung": 1,
-      "bild": "images/enemies/panzerkoopa.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/panzerkoopa.webp",
       "beschreibung": "Koopa, der in der Arena von Falkenheim kämpft. Etwas andere Farbe, aber sonst ein normaler Koopa.",
       "orte": [
         "Falkenheim"
@@ -161,7 +161,7 @@
       "kp": 4,
       "angriff": 2,
       "verteidigung": 1,
-      "bild": "images/enemies/panzerpara.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/panzerpara.webp",
       "beschreibung": "Ein verfärbter Parakoopa. Ansonsten genauso wie ein normaler Parakoopa. Wenn er nicht mehr fliegt, wird er zum normalen Koopa.",
       "orte": [
         "Falkenheim"
@@ -173,7 +173,7 @@
       "kp": 8,
       "angriff": 3,
       "verteidigung": 1,
-      "bild": "images/enemies/schattenkoopa.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/schattenkoopa.webp",
       "beschreibung": "Nach dem Umkippen erhöht sich seine Angriffskraft. Der Schattenkoopa ist ein besonders fieser Koopa.",
       "orte": [
         "Falkenheim",
@@ -186,7 +186,7 @@
       "kp": 8,
       "angriff": 3,
       "verteidigung": 1,
-      "bild": "images/enemies/schattenpara.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/schattenpara.webp",
       "beschreibung": "Geflügelter Schattenkoopa. Zwinge ihn zur Landung. Nach dem Umkippen steigt die Angriffskraft.",
       "orte": [
         "Falkenheim",
@@ -199,7 +199,7 @@
       "kp": 8,
       "angriff": 4,
       "verteidigung": 2,
-      "bild": "images/enemies/fies-koopa.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/fies-koopa.webp",
       "beschreibung": "Koopas, die in der Dunkelheit leben: Hart und stark. Durch Sprünge kannst du sie leicht umkippen.",
       "orte": [
         "Duellkerker"
@@ -211,7 +211,7 @@
       "kp": 8,
       "angriff": 4,
       "verteidigung": 2,
-      "bild": "images/enemies/fies-parakoopa.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/fies-parakoopa.webp",
       "beschreibung": "Parakoopas, die in der Dunkelheit leben. Nach einer Sprungattacke werden sie zu Fies-Koopas.",
       "orte": [
         "Duellkerker"
@@ -223,7 +223,7 @@
       "kp": 6,
       "angriff": 4,
       "verteidigung": 2,
-      "bild": "images/enemies/koopatrouille.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/koopatrouille.webp",
       "beschreibung": "Manchmal laden sie sich auch auf. Besiege sie schnell, sonst rufen sie ihre Freunde.",
       "orte": [
         "Katakomben"
@@ -235,7 +235,7 @@
       "kp": 25,
       "angriff": 5,
       "verteidigung": 2,
-      "bild": "images/enemies/ass-koopatrouille.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/ass-koopatrouille.webp",
       "beschreibung": "Unter den Koopatrouillen ist er ein Ass. Wenn er Kraft sammelt, sind seine Attacken extra stark.",
       "orte": [
         "Falkenheim",
@@ -248,7 +248,7 @@
       "kp": 1,
       "angriff": 2,
       "verteidigung": 1,
-      "bild": "images/enemies/knochen-koopa.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/knochen-koopa.webp",
       "beschreibung": "Verknöcherte Koopas, die mit Knochen werfen und sich auf rätselhafte Art selbst reproduzieren können.",
       "orte": [
         "Lohgards Burg",
@@ -263,7 +263,7 @@
       "kp": 5,
       "angriff": 3,
       "verteidigung": 1,
-      "bild": "images/enemies/roter_knochen-koopa.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/roter_knochen-koopa.webp",
       "beschreibung": "Ein gruseliger roter Knochen-Koopa. Angriffskraft hoch, und kann auch auferstehen, wenn KP auf 0 gefallen sind.",
       "orte": [
         "Lohgards Burg",
@@ -276,7 +276,7 @@
       "kp": 8,
       "angriff": 5,
       "verteidigung": 2,
-      "bild": "images/enemies/knochentrocken.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/knochentrocken.webp",
       "beschreibung": "Skelettierte Koopas, die Verstärkung rufen können. Nach ihrer Niederlage können sie wieder auferstehen.",
       "orte": [
         "Äonenpalast",
@@ -289,7 +289,7 @@
       "kp": 20,
       "angriff": 5,
       "verteidigung": 2,
-      "bild": "images/enemies/geistertrocken.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/geistertrocken.webp",
       "beschreibung": "Das Oberhaupt der Knochentrocken mit viel KP. Erreichen seine KP 0, kann er wieder auferstehen.",
       "orte": [
         "Äonenpalast"
@@ -301,7 +301,7 @@
       "kp": 7,
       "angriff": 4,
       "verteidigung": 1,
-      "bild": "images/enemies/hammer-bruder.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/hammer-bruder.webp",
       "beschreibung": "Altbekannter Gegner, die mit Hämmern um sich werfen. Aber sind sie Mario wirklich gewachsen?",
       "orte": [
         "Falkenheim",
@@ -314,7 +314,7 @@
       "kp": 7,
       "angriff": 2,
       "verteidigung": 1,
-      "bild": "images/enemies/bumerang-bruder.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/bumerang-bruder.webp",
       "beschreibung": "Verwendet für den Angriff Bumerangs statt Hämmern. Achtung! Bumerangs können zwei Mal treffen!",
       "orte": [
         "Falkenheim"
@@ -326,7 +326,7 @@
       "kp": 7,
       "angriff": 3,
       "verteidigung": 1,
-      "bild": "images/enemies/feuer-bruder.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/feuer-bruder.webp",
       "beschreibung": "Ein Feuer speiender Hammer-Bruder? Treffen seine Attacken, kannst du Feuer fangen.",
       "orte": [
         "Falkenheim"
@@ -338,7 +338,7 @@
       "kp": 5,
       "angriff": 2,
       "verteidigung": 0,
-      "bild": "images/enemies/lakitu.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/lakitu.webp",
       "beschreibung": "Auf Wolken reitende Koopas, werfen mit Stachi-Eiern. Aus den Stachi-Eiern können auch Stachis schlüpfen.",
       "orte": [
         "Falkenheim",
@@ -351,7 +351,7 @@
       "kp": 13,
       "angriff": 5,
       "verteidigung": 0,
-      "bild": "images/enemies/hyper-lakitu.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/hyper-lakitu.webp",
       "beschreibung": "Lakitus auf düsteren Wolken, die mit Stachi-Eiern werfen. Aus Stachi-Eiern können Käfer-Stachis schlüpfen.",
       "orte": [
         "Duellkerker"
@@ -363,7 +363,7 @@
       "kp": 3,
       "angriff": 3,
       "verteidigung": 3,
-      "bild": "images/enemies/stachi.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/stachi.webp",
       "beschreibung": "Stacheliges Panzertier mit hohem Verteidigungswert. Wenn sie sich einrollen, ist Angriff zwecklos.",
       "orte": [
         "Falkenheim",
@@ -376,7 +376,7 @@
       "kp": 6,
       "angriff": 6,
       "verteidigung": 4,
-      "bild": "images/enemies/kaefer-stachi.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/kaefer-stachi.webp",
       "beschreibung": "Schlüpfen aus Stachi-Eiern von Hyper-Lakitus. Rollen sie sich zusammen, ist jede Attacke wirkungslos.",
       "orte": [
         "Duellkerker"
@@ -388,7 +388,7 @@
       "kp": 5,
       "angriff": 3,
       "verteidigung": 4,
-      "bild": "images/enemies/kaefer.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/kaefer.webp",
       "beschreibung": "Hohe Verteidigungswerte, immun gegen Feuer-Attacken. Kipp sie mit Sprüngen um, und die Verteidigung sinkt auf 0.",
       "orte": [
         "Spukabtei",
@@ -402,7 +402,7 @@
       "kp": 5,
       "angriff": 3,
       "verteidigung": 4,
-      "bild": "images/enemies/pickelkaefer.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/pickelkaefer.webp",
       "beschreibung": "Käfer mit Stacheln und hohem Verteidigungswert. Ihre Stacheln können Sprungattacken verhindern.",
       "orte": [
         "Spukabtei",
@@ -416,7 +416,7 @@
       "kp": 5,
       "angriff": 3,
       "verteidigung": 4,
-      "bild": "images/enemies/parakaefer.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/parakaefer.webp",
       "beschreibung": "Geflügelter Käfer mit hoher Verteidigung. Sie verlieren ihre Flügel, wenn du auf sie springst.",
       "orte": [
         "Piratenhöhle",
@@ -429,7 +429,7 @@
       "kp": 5,
       "angriff": 3,
       "verteidigung": 4,
-      "bild": "images/enemies/para-pickelkaefer.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/para-pickelkaefer.webp",
       "beschreibung": "Käfer mit Stacheln und Flügeln. Hammer zwecklos. Die Wahl des richtigen Angriffs dürfte schwer sein.",
       "orte": [
         "Tulpenbach",
@@ -442,7 +442,7 @@
       "kp": 5,
       "angriff": 3,
       "verteidigung": 4,
-      "bild": "images/enemies/roter_pickelkaefer.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/roter_pickelkaefer.webp",
       "beschreibung": "Ein Käfer mit extrastarker Verteidigung, immun gegen Feuer und Explosionen. Gegen Sprungattacken schützt ihn sein Stachel.",
       "orte": [
         "Falkenheim"
@@ -454,7 +454,7 @@
       "kp": 7,
       "angriff": 4,
       "verteidigung": 0,
-      "bild": "images/enemies/kamek.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/kamek.webp",
       "beschreibung": "Elite-Magier des Koopa-Clans. Wenden Magie an. Sollten in Kämpfen als Erste besiegt werden!",
       "orte": [
         "Katakomben"
@@ -466,7 +466,7 @@
       "kp": 7,
       "angriff": 4,
       "verteidigung": 0,
-      "bild": "images/enemies/roter_kamek.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/roter_kamek.webp",
       "beschreibung": "Roter Kamek-Magier mit erstaunlicher Kraft. Erhöht Angriff und Verteidigung deiner Gegner.",
       "orte": [
         "Falkenheim"
@@ -478,7 +478,7 @@
       "kp": 7,
       "angriff": 4,
       "verteidigung": 0,
-      "bild": "images/enemies/weisser_kamek.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/weisser_kamek.webp",
       "beschreibung": "Weißer Kamek-Magier mit erstaunlicher Kraft. Seine Magie macht deine Gegner wieder fit.",
       "orte": [
         "Falkenheim"
@@ -490,7 +490,7 @@
       "kp": 7,
       "angriff": 4,
       "verteidigung": 0,
-      "bild": "images/enemies/gruener_kamek.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/gruener_kamek.webp",
       "beschreibung": "Grüner Kamek-Magier mit erstaunlicher Kraft. Lädt Gegner auf oder macht sie durchsichtig.",
       "orte": [
         "Falkenheim"
@@ -502,7 +502,7 @@
       "kp": 50,
       "angriff": 5,
       "verteidigung": 0,
-      "bild": "images/enemies/kammy_koopa.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/kammy_koopa.webp",
       "beschreibung": "Alte Hexe, die sich stets mit Bowser herumtreibt. Verwendet verschiedene Arten von Magie.",
       "orte": [
         "Äonenpalast"
@@ -514,7 +514,7 @@
       "kp": 70,
       "angriff": 7,
       "verteidigung": 2,
-      "bild": "images/enemies/bowser.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/bowser.webp",
       "beschreibung": "König Bowser, bekannt als Marios ewiger Rivale. Ist hier auf der Suche nach Peach und Sternjuwelen.",
       "orte": [
         "Falkenheim",
@@ -527,7 +527,7 @@
       "kp": 20,
       "angriff": 3,
       "verteidigung": 0,
-      "bild": "images/enemies/lanzo.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/lanzo.webp",
       "beschreibung": "Ein fieser Typ mit einer scharfen Lanze, die er im Kampf wirft. Der ist wirklich stark, nicht nur mit dem Mund.",
       "orte": [
         "Rohlingen"
@@ -539,7 +539,7 @@
       "kp": 20,
       "angriff": 6,
       "verteidigung": 0,
-      "bild": "images/enemies/lanzhaeher.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/lanzhaeher.webp",
       "beschreibung": "Seine Lanze schützt ihn vor Sprungattacken. Er wirft die Lanze oder greift mit ihr frontal an.",
       "orte": [
         "Falkenheim",
@@ -552,7 +552,7 @@
       "kp": 5,
       "angriff": 2,
       "verteidigung": 0,
-      "bild": "images/enemies/bandit.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/bandit.webp",
       "beschreibung": "Banditen stehlen Münzen. Eine gute Verteidigung verhindert den Diebstahl.",
       "orte": [
         "Falkenheim",
@@ -565,7 +565,7 @@
       "kp": 8,
       "angriff": 3,
       "verteidigung": 0,
-      "bild": "images/enemies/grosse_bandit.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/grosse_bandit.webp",
       "beschreibung": "Die großen Brüder der Banditen. Sie stehlen Münzen und Items. Eine gute Verteidigung verhindert den Diebstahl.",
       "orte": [
         "Falkenheim"
@@ -577,7 +577,7 @@
       "kp": 12,
       "angriff": 5,
       "verteidigung": 0,
-      "bild": "images/enemies/orden-bandit.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/orden-bandit.webp",
       "beschreibung": "Starke Banditen, die gerne Orden stehlen. Achte auf deine Verteidigung, sonst schlagen sie zu.",
       "orte": [
         "Duellkerker"
@@ -589,7 +589,7 @@
       "kp": 3,
       "angriff": 1,
       "verteidigung": 0,
-      "bild": "images/enemies/sproing.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/sproing.webp",
       "beschreibung": "Rätselhafte Lebewesen, offensichtlich eine Kreuzung aus Sperrholz und Sprungfedern.",
       "orte": [
         "Katakomben",
@@ -603,7 +603,7 @@
       "kp": 3,
       "angriff": 1,
       "verteidigung": 0,
-      "bild": "images/enemies/megasproing.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/megasproing.webp",
       "beschreibung": "Ein Sproing mit Stacheln auf dem Kopf. Bei Angriff mit Sprung erleidet der Angreifer Schaden. Bekannt für seinen aggressiven Gesichtsaudruck.",
       "orte": [
         "Katakomben",
@@ -617,7 +617,7 @@
       "kp": 12,
       "angriff": 7,
       "verteidigung": 2,
-      "bild": "images/enemies/gigasproing.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/gigasproing.webp",
       "beschreibung": "Diese seltsamen Kreaturen bestehen aus Scheiben. Sehen schwach aus, sind aber ehr starke Gegner.",
       "orte": [
         "Katakomben",
@@ -630,7 +630,7 @@
       "kp": 3,
       "angriff": 1,
       "verteidigung": 0,
-      "bild": "images/enemies/fuzzy.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/fuzzy.webp",
       "beschreibung": "Fuzzys saugen KP des Gegners ab und absorbieren sie. Das Action-Kommando erfordert präzises Timing.",
       "orte": [
         "Geröllburg",
@@ -644,7 +644,7 @@
       "kp": 10,
       "angriff": 1,
       "verteidigung": 0,
-      "bild": "images/enemies/gold-fuzzy.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/gold-fuzzy.webp",
       "beschreibung": "Fuzzys mit goldfarbenen Borsten. Anders als normale Fuzzys absorbieren sie nicht die KP des Gegners.",
       "orte": [
         "Geröllburg"
@@ -656,7 +656,7 @@
       "kp": 5,
       "angriff": 3,
       "verteidigung": 0,
-      "bild": "images/enemies/wald-fuzzy.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/wald-fuzzy.webp",
       "beschreibung": "Fuzzys aus dem Wald, die deine KP aufsaugen. Besiege sie, bevor sie sich teilen können",
       "orte": [
         "Falkenheim",
@@ -669,7 +669,7 @@
       "kp": 6,
       "angriff": 3,
       "verteidigung": 0,
-      "bild": "images/enemies/wiesen-fuzzy.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/wiesen-fuzzy.webp",
       "beschreibung": "Hübsch gefärbte Fuzzys, die BP absaugen. Haben sie genug BP, verwenden sie magische Attacken.",
       "orte": [
         "Falkenheim",
@@ -683,7 +683,7 @@
       "kp": 4,
       "angriff": 3,
       "verteidigung": 0,
-      "bild": "images/enemies/pokey.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/pokey.webp",
       "beschreibung": "Fieser Kaktus mit Stacheln. Pokeys werfen mit Teilen ihres Körpers. Manchmal rufen sie auch Verstärkung.",
       "orte": [
         "Falkenheim",
@@ -696,7 +696,7 @@
       "kp": 8,
       "angriff": 4,
       "verteidigung": 0,
-      "bild": "images/enemies/faul-pokey.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/faul-pokey.webp",
       "beschreibung": "Giftige Pokeys, die auch dich vergiften können. Erledige sie, bevor sie ihre Freunde rufen können.",
       "orte": [
         "Tulpenbach",
@@ -709,7 +709,7 @@
       "kp": 4,
       "angriff": 2,
       "verteidigung": 0,
-      "bild": "images/enemies/piranha-pflanze.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/piranha-pflanze.webp",
       "beschreibung": "Eine monochrome Piranha-Pflanze, deren Bisse dem Gegner großen Schaden zufügen.",
       "orte": [
         "Wunderwald",
@@ -723,7 +723,7 @@
       "kp": 8,
       "angriff": 3,
       "verteidigung": 0,
-      "bild": "images/enemies/faul-piranha.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/faul-piranha.webp",
       "beschreibung": "Giftige Piranha-Pflanzen, die ihre Gegner verseuchen. Besonders bei Gift-Attacken ist die Verteidigung wichtig!",
       "orte": [
         "Isla Corsaria"
@@ -735,7 +735,7 @@
       "kp": 10,
       "angriff": 5,
       "verteidigung": 0,
-      "bild": "images/enemies/frost-piranha.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/frost-piranha.webp",
       "beschreibung": "Eiskalte Piranha-Pflanzen, empfindlich gegen Feuer. Ihr Biss lässt den Gegner manchmal gefrieren!",
       "orte": [
         "Frostpfad",
@@ -748,7 +748,7 @@
       "kp": 15,
       "angriff": 9,
       "verteidigung": 0,
-      "bild": "images/enemies/killer-piranha.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/killer-piranha.webp",
       "beschreibung": "Ein Killer unter den Piranha-Pflanzen... Sie liebt angeblich das Innere von Röhren.",
       "orte": [
         "Duellkerker"
@@ -760,7 +760,7 @@
       "kp": 7,
       "angriff": 2,
       "verteidigung": 0,
-      "bild": "images/enemies/susel_dusel.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/susel_dusel.webp",
       "beschreibung": "Scheinbar süße Kreaturen, die gerne auch mal fliehen. Ihr Wiegenlied kann dich einschläfern.",
       "orte": [
         "Düsterweg"
@@ -772,7 +772,7 @@
       "kp": 20,
       "angriff": 20,
       "verteidigung": 1,
-      "bild": "images/enemies/susel_wusel.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/susel_wusel.webp",
       "beschreibung": "Legendäre Susel Dusels, die nur sehr selten auftauchen. Viele KP, fliehen gerne. Versuche trotzdem zu siegen.",
       "orte": [
         "Düsterweg",
@@ -785,7 +785,7 @@
       "kp": 5,
       "angriff": 2,
       "verteidigung": 0,
-      "bild": "images/enemies/fadula.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/fadula.webp",
       "beschreibung": "Bewegen sich an Fäden auf und ab. Zielen und schießen bis zu drei Mal.",
       "orte": [
         "Wunderwald",
@@ -800,7 +800,7 @@
       "kp": 16,
       "angriff": 7,
       "verteidigung": 0,
-      "bild": "images/enemies/grottenfadula.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/grottenfadula.webp",
       "beschreibung": "Unterirdisch lebende Spinnen, die Kugeln verspucken. Sehen zwar giftig aus, sind es aber nicht.",
       "orte": [
         "Duellkerker"
@@ -812,7 +812,7 @@
       "kp": 6,
       "angriff": 3,
       "verteidigung": 0,
-      "bild": "images/enemies/swooper.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/swooper.webp",
       "beschreibung": "Eine Art Fledermaus, die sich an die Decke hängt. Füge ihnen Schaden zu, um sie von der Decke zu lösen.",
       "orte": [
         "Spukabtei"
@@ -824,7 +824,7 @@
       "kp": 9,
       "angriff": 4,
       "verteidigung": 0,
-      "bild": "images/enemies/swoopula.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/swoopula.webp",
       "beschreibung": "Fiese Blutsauger, die ihren Opfern die KP rauben. Machen ein fieses Geräusch, wenn sie KP saugen.",
       "orte": [
         "Äonenpalast",
@@ -837,7 +837,7 @@
       "kp": 20,
       "angriff": 6,
       "verteidigung": 0,
-      "bild": "images/enemies/swooperatu.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/swooperatu.webp",
       "beschreibung": "Blutsauger, die sich im Dunkeln verstecken. Sie saugen deine KP und regenerieren sich damit. ",
       "orte": [
         "Duellkerker"
@@ -849,7 +849,7 @@
       "kp": 3,
       "angriff": 2,
       "verteidigung": 0,
-      "bild": "images/enemies/stratox.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/stratox.webp",
       "beschreibung": "Gewitterwolken, die mit Blitzen angreifen können. Verursachen Schaden beim Angreifer, solange sie elektrisch geladen sind.",
       "orte": [
         "Wunderwald",
@@ -863,7 +863,7 @@
       "kp": 7,
       "angriff": 4,
       "verteidigung": 0,
-      "bild": "images/enemies/schniffi.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/schniffi.webp",
       "beschreibung": "Enge Verwandte der Stratox in anderer Färbung. Speichern Elektrizität für gemeine Elektro-Attacken.",
       "orte": [
         "Tulpenbach"
@@ -875,7 +875,7 @@
       "kp": 9,
       "angriff": 4,
       "verteidigung": 0,
-      "bild": "images/enemies/eis-schnuff.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/eis-schnuff.webp",
       "beschreibung": "Ein eisiger Verwandter der Schniffis. Seine kalten Windattacken frieren den Gegner ein.",
       "orte": [
         "Frostpfad",
@@ -888,7 +888,7 @@
       "kp": 15,
       "angriff": 8,
       "verteidigung": 0,
-      "bild": "images/enemies/stink-schnuff.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/stink-schnuff.webp",
       "beschreibung": "Giftgaswolke, die frontal oder mit Gift angreift. Ist sie aufgeladen, schaden Angriffe dem Angreifer.",
       "orte": [
         "Duellkerker"
@@ -900,7 +900,7 @@
       "kp": 7,
       "angriff": 3,
       "verteidigung": 0,
-      "bild": "images/enemies/buu_huu.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/buu_huu.webp",
       "beschreibung": "Schüchterne Geister, die sich gern unsichtbar machen. Für Geister sind sie aber eigentlich recht hübsch. ",
       "orte": [
         "Spukabtei",
@@ -913,7 +913,7 @@
       "kp": 40,
       "angriff": 4,
       "verteidigung": 0,
-      "bild": "images/enemies/atom-buu.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/atom-buu.webp",
       "beschreibung": "Eine Ansammlung von mehreren Buu Huus. Das Ding greift selbst an und schickt Doppelgänger los.",
       "orte": [
         "Spukabtei"
@@ -925,7 +925,7 @@
       "kp": 8,
       "angriff": 5,
       "verteidigung": 0,
-      "bild": "images/enemies/finster-buu.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/finster-buu.webp",
       "beschreibung": "Gruselige Buu Huus mit mehr KP und Angriffskraft. Erledige sie, bevor sie sich unsichtbar machen.",
       "orte": [
         "Glimmer-Tempel",
@@ -938,7 +938,7 @@
       "kp": 8,
       "angriff": 3,
       "verteidigung": 0,
-      "bild": "images/enemies/kalte_glut.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/kalte_glut.webp",
       "beschreibung": "Blaue Irrlichter, empflindlich gegen Wasser und Eis. Auch Bomben haben eine gute Wirkung.",
       "orte": [
         "Isla Corsaria",
@@ -951,7 +951,7 @@
       "kp": 6,
       "angriff": 4,
       "verteidigung": 0,
-      "bild": "images/enemies/lava_blub.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/lava_blub.webp",
       "beschreibung": "Feuer-Monster, schwach gegen Eis und Wasser. Bomben sind auch gut, Sprünge eher nicht...",
       "orte": [
         "Piratenhöhle",
@@ -964,7 +964,7 @@
       "kp": 10,
       "angriff": 5,
       "verteidigung": 0,
-      "bild": "images/enemies/zornlicht.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/zornlicht.webp",
       "beschreibung": "Zornige Geister, aus Rachsucht entstanden. Ihre Feuer-Attacken können dich in Brand setzen.",
       "orte": [
         "Äonenpalast",
@@ -977,7 +977,7 @@
       "kp": 2,
       "angriff": 1,
       "verteidigung": 2,
-      "bild": "images/enemies/kahl-kirk.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/kahl-kirk.webp",
       "beschreibung": "Steinmonster mit imposanten Gesichtern. Kämpfen mit vollem Körpereinsatz. Immun gegen Feuer.",
       "orte": [
         "Pfad zur Geröllburg"
@@ -989,7 +989,7 @@
       "kp": 3,
       "angriff": 2,
       "verteidigung": 2,
-      "bild": "images/enemies/hyper-kahl.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/hyper-kahl.webp",
       "beschreibung": "Hyperstarke Kahl-Kirks, die sich aufladen können. Nach dem Aufladen beträgt die Angriffskraft 8 Punkte.",
       "orte": [
         "Falkenheim"
@@ -1001,7 +1001,7 @@
       "kp": 2,
       "angriff": 2,
       "verteidigung": 2,
-      "bild": "images/enemies/kirk.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/kirk.webp",
       "beschreibung": "Ein stacheliges Steinmonster. Feuer ist wirkungslos, außerdem ist der Körper steinhart.",
       "orte": [
         "Geröllburg",
@@ -1015,7 +1015,7 @@
       "kp": 6,
       "angriff": 4,
       "verteidigung": 1000,
-      "bild": "images/enemies/roter_stahl-kirk.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/roter_stahl-kirk.webp",
       "beschreibung": "Riesige, harte Kirks. Immun gegen viele Attacken. Wie soll man die denn bitte besiegen?",
       "orte": [
         "Falkenheim"
@@ -1027,7 +1027,7 @@
       "kp": 6,
       "angriff": 4,
       "verteidigung": 1000,
-      "bild": "images/enemies/gruener_stahl-kirk.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/gruener_stahl-kirk.webp",
       "beschreibung": "Riesige, harte Kirks. Immung gegen viele Attacken. Er hat grüne Schuhe... Vermutlich der kleine Bruder.",
       "orte": [
         "Falkenheim"
@@ -1039,7 +1039,7 @@
       "kp": 4,
       "angriff": 3,
       "verteidigung": 3,
-      "bild": "images/enemies/hyper-kirk.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/hyper-kirk.webp",
       "beschreibung": "Hyperstarke Kirks, die sich aufladen können. Im aufgeladenen Zustand beträgt ihre Angriffskraft 9.",
       "orte": [
         "Düsterweg",
@@ -1052,7 +1052,7 @@
       "kp": 6,
       "angriff": 5,
       "verteidigung": 5,
-      "bild": "images/enemies/mond-kirk.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/mond-kirk.webp",
       "beschreibung": "Kirks, die auf dem Mond leben. Hohe Verteidigung! Die Verteidigung sinkt auf 0, wenn du sie umkippst.",
       "orte": [
         "Mond",
@@ -1065,7 +1065,7 @@
       "kp": 2,
       "angriff": 1,
       "verteidigung": 4,
-      "bild": "images/enemies/dornhart.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/dornhart.webp",
       "beschreibung": "Steinmonster mit Dornen, immun gegen Feuer-Attacken. Zur Verteidigung fahren sie ihre Dornen aus.",
       "orte": [
         "Geröllburg",
@@ -1078,7 +1078,7 @@
       "kp": 8,
       "angriff": 8,
       "verteidigung": 4,
-      "bild": "images/enemies/schwarzer_dornhart.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/schwarzer_dornhart.webp",
       "beschreibung": "Aus Stein geschaffene Wesen mit hiher Verteidigung. Verteidigen sich auch mit Stacheln und Speeren.",
       "orte": [
         "Duellkerker"
@@ -1090,7 +1090,7 @@
       "kp": 4,
       "angriff": 2,
       "verteidigung": 1,
-      "bild": "images/enemies/bob-omb.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/bob-omb.webp",
       "beschreibung": "Bombige Kämpfer, die leicht in die Luft gehen. Nehmen sie Schaden, explodieren sie in nächsten Zug.",
       "orte": [
         "Falkenheim",
@@ -1103,7 +1103,7 @@
       "kp": 6,
       "angriff": 2,
       "verteidigung": 1,
-      "bild": "images/enemies/grob-omb.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/grob-omb.webp",
       "beschreibung": "Riesige rosa Bob-ombs, die nach vier Zügen explodieren. Vor der Explosion sollten sie besiegt werden.",
       "orte": [
         "Piratenhöhle",
@@ -1116,7 +1116,7 @@
       "kp": 10,
       "angriff": 4,
       "verteidigung": 2,
-      "bild": "images/enemies/megab-omb.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/megab-omb.webp",
       "beschreibung": "Riesige, starke Bob-ombs, explodieren nach vier Zügen. Der Schaden ist riesig, also besiege sie vorher!",
       "orte": [
         "Duellkerker"
@@ -1128,7 +1128,7 @@
       "kp": 7,
       "angriff": 6,
       "verteidigung": 5,
-      "bild": "images/enemies/chomp.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/chomp.webp",
       "beschreibung": "Chomps sind hart und stark, aber sie haben wenig KP. Erledige sie schnell mit einer starken Attacke.",
       "orte": [
         "Äonenpalast",
@@ -1141,7 +1141,7 @@
       "kp": 6,
       "angriff": 5,
       "verteidigung": 3,
-      "bild": "images/enemies/roter_chomp.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/roter_chomp.webp",
       "beschreibung": "Brutale Chomps, stark in Angriff und Verteidigung. Die rote Farbe stammt angeblich von Clubbone...",
       "orte": [
         "Falkenheim",
@@ -1154,7 +1154,7 @@
       "kp": 5,
       "angriff": 0,
       "verteidigung": 2,
-      "bild": "images/enemies/willi-blaster.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/willi-blaster.webp",
       "beschreibung": "Solide schwarze Kanone, die Kugelwillis abschießt. Keiner weiß, ob es Lebewesen sind oder nicht.",
       "orte": [
         "Piratenhöhle"
@@ -1166,7 +1166,7 @@
       "kp": 2,
       "angriff": 4,
       "verteidigung": 1,
-      "bild": "images/enemies/kugelwilli.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/kugelwilli.webp",
       "beschreibung": "Eine Kugel, die der Willi-Blaster abschießt. Hohe Angriffskraft! Deshalb besser schnell besiegen.",
       "orte": [
         "Piratenhöhle"
@@ -1178,7 +1178,7 @@
       "kp": 10,
       "angriff": 0,
       "verteidigung": 4,
-      "bild": "images/enemies/willi-kanone.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/willi-kanone.webp",
       "beschreibung": "Kurz gesagt, ein superstarker Willi-Blaster. Schießt Raketen Willis ab, so lange er kann.",
       "orte": [
         "Äonenpalast"
@@ -1190,7 +1190,7 @@
       "kp": 3,
       "angriff": 6,
       "verteidigung": 2,
-      "bild": "images/enemies/raketen_willi.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/raketen_willi.webp",
       "beschreibung": "Im Grunde genommen große Kugelwillis. Wenig KP, deshalb leicht zu besiegen.",
       "orte": [
         "Äonenpalast"
@@ -1202,7 +1202,7 @@
       "kp": 10,
       "angriff": 5,
       "verteidigung": 2,
-      "bild": "images/enemies/lila_magi-mech.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/lila_magi-mech.webp",
       "beschreibung": "Antike Roboter, die Magie benutzen können. Erzeugen Doppelgänger, um Angreifer zu täuschen.",
       "orte": [
         "Äonenpalast",
@@ -1215,7 +1215,7 @@
       "kp": 10,
       "angriff": 6,
       "verteidigung": 3,
-      "bild": "images/enemies/gelber_magi-mech.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/gelber_magi-mech.webp",
       "beschreibung": "Antike Roboter, die Magie benutzen können. Wenn er dich mit seinen vier Händen kitzelt... Hihihi!",
       "orte": [
         "Duellkerker"
@@ -1227,7 +1227,7 @@
       "kp": 12,
       "angriff": 8,
       "verteidigung": 5,
-      "bild": "images/enemies/weisser_magi-mech.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/weisser_magi-mech.webp",
       "beschreibung": "Der magische Gipfelpunkt antiker Ingenieurskunst. Verwirrt Angreifer durch Doppelgänger.",
       "orte": [
         "Duellkerker"
@@ -1239,7 +1239,7 @@
       "kp": 12,
       "angriff": 1,
       "verteidigung": 0,
-      "bild": "images/enemies/blooper.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/blooper.webp",
       "beschreibung": "Ein riesiger Tintenfisch, der mit Tentakeln und Tinte angreifen kann. Man vermutet, dass er aus dem Meer den Weg in die Kanäle gefunden hat.",
       "orte": [
         "Katakomben"
@@ -1251,7 +1251,7 @@
       "kp": 20,
       "angriff": 5,
       "verteidigung": 1,
-      "bild": "images/enemies/lohgard.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/lohgard.webp",
       "beschreibung": "Beherrscht Stampf- und Beißattacken und speit Feuer. Hat Angst vor einem Tier, das mit \"F\" anfängt und mit \"sch\" endet.",
       "orte": [
         "Lohgards Burg"
@@ -1263,7 +1263,7 @@
       "kp": 80,
       "angriff": 8,
       "verteidigung": 2,
-      "bild": "images/enemies/lohbert.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/lohbert.webp",
       "beschreibung": "Lohgards großer Bruder hält sich ganz in Schwarz. Hat einen giftigen Atem, Spezialität: Hypersturm.",
       "orte": [
         "Äonenpalast"
@@ -1275,7 +1275,7 @@
       "kp": 200,
       "angriff": 8,
       "verteidigung": 2,
-      "bild": "images/enemies/lohviata.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/lohviata.webp",
       "beschreibung": "Lohgards älteste Schwester ist nur noch ein Skelett. Aber unglaublich stark. Der stärkste Gegner im Spiel?",
       "orte": [
         "Duellkerker"
@@ -1287,7 +1287,7 @@
       "kp": 40,
       "angriff": 4,
       "verteidigung": 0,
-      "bild": "images/enemies/aurelius.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/aurelius.webp",
       "beschreibung": "Er ist der Champion, also wird das ein harter Kampf. Seine Luftangriffe sind wohl besonders elegant...",
       "orte": [
         "Falkenheim"
@@ -1299,7 +1299,7 @@
       "kp": 60,
       "angriff": 4,
       "verteidigung": 0,
-      "bild": "images/enemies/mega-clubbone.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/mega-clubbone.webp",
       "beschreibung": "Durch die Kraft des Sternjuwels ist er so stark... Und er hält sich wohl für ziemlich schön so.",
       "orte": [
         "Falkenheim"
@@ -1311,7 +1311,7 @@
       "kp": 40,
       "angriff": 6,
       "verteidigung": 0,
-      "bild": "images/enemies/rumpel.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/rumpel.webp",
       "beschreibung": "Verwandelt sich vor dem Angriff in seinen Gegner. Auf Brunhildas Druck hin Mitglied im Schattentrio.",
       "orte": [
         "Spukabtei",
@@ -1324,7 +1324,7 @@
       "kp": 20,
       "angriff": 4,
       "verteidigung": 1,
-      "bild": "images/enemies/cortez.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/cortez.webp",
       "beschreibung": "Der rastlose Geist des Piratenkönigs... Sein Herz steckt noch immer voller Zorn.",
       "orte": [
         "Piratenhöhle"
@@ -1336,7 +1336,7 @@
       "kp": 50,
       "angriff": 5,
       "verteidigung": 1,
-      "bild": "images/enemies/fluffy.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/fluffy.webp",
       "beschreibung": "Monster, das aus einem Fuzzy-Kollektiv besteht. Benutzt bei Attacken seine Tentakel.",
       "orte": [
         "Glimmer-Liner"
@@ -1348,7 +1348,7 @@
       "kp": 4,
       "angriff": 3,
       "verteidigung": 0,
-      "bild": "images/enemies/fusssoldat.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/fusssoldat.webp",
       "beschreibung": "Trinken Kraft-Punsch und greifen frontal an. Sind diese Crucionen wirklich so leicht zu schlagen?",
       "orte": [
         "Großer Baum",
@@ -1361,7 +1361,7 @@
       "kp": 9,
       "angriff": 4,
       "verteidigung": 0,
-      "bild": "images/enemies/forscher.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/forscher.webp",
       "beschreibung": "Forscher werfen mit verschiedenen Chemikalien. Damit testen sie den Effekt ihrer Entwicklungen.",
       "orte": [
         "Crucionen-HQ"
@@ -1373,7 +1373,7 @@
       "kp": 10,
       "angriff": 5,
       "verteidigung": 1,
-      "bild": "images/enemies/elite-soldat.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/elite-soldat.webp",
       "beschreibung": "Crucionen-Elite, die auch gerne Chemie einsetzen. Ihre Kraft stammt aus der chemischen Forschung.",
       "orte": [
         "Crucionen-HQ"
@@ -1385,7 +1385,7 @@
       "kp": 3,
       "angriff": 2,
       "verteidigung": 0,
-      "bild": "images/enemies/crucimat.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/crucimat.webp",
       "beschreibung": "Von den Crucionen hergestellte Kampfeinheiten. Zur Verteidigung setzen sie Mini-Crucimaten ein.",
       "orte": [
         "Crucionen-HQ",
@@ -1398,7 +1398,7 @@
       "kp": 1,
       "angriff": 0,
       "verteidigung": 0,
-      "bild": "images/enemies/mini-crucimat.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/mini-crucimat.webp",
       "beschreibung": "Schutzeinheiten für die Crucimaten. Maximal zwei Stück pro Crucimat. Sie müssen zuerst weg.",
       "orte": [
         "Crucionen-HQ",
@@ -1411,7 +1411,7 @@
       "kp": 7,
       "angriff": 4,
       "verteidigung": 0,
-      "bild": "images/enemies/crucimat_z.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/crucimat_z.webp",
       "beschreibung": "Weiterentwickelte Crucimaten mit KP-Erholung. Werden durch Mini-Crucimaten perfekt geschützt.",
       "orte": [
         "Crucionen-HQ",
@@ -1424,7 +1424,7 @@
       "kp": 2,
       "angriff": 0,
       "verteidigung": 0,
-      "bild": "images/enemies/mini-crucimat_z.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/mini-crucimat_z.webp",
       "beschreibung": "Bis zu vier von ihnen schützen den Crucimat Z. Besiege sie alle, um den Crucimat Z zu besiegen.",
       "orte": [
         "Crucionen-HQ",
@@ -1437,7 +1437,7 @@
       "kp": 10,
       "angriff": 3,
       "verteidigung": 1,
-      "bild": "images/enemies/crucimat_xxl.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/crucimat_xxl.webp",
       "beschreibung": "Lassen pro Zug zwei Mini-Crucimaten erscheinen. Manchmal gelingt es ihnen, den Gegner zu lähmen.",
       "orte": [
         "Crucionen-HQ"
@@ -1449,7 +1449,7 @@
       "kp": 1,
       "angriff": 0,
       "verteidigung": 0,
-      "bild": "images/enemies/mini-crucimat_xxl.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/mini-crucimat_xxl.webp",
       "beschreibung": "Kleine Crucimaten, die den Crucimat XXL schützen. Erledige sie, bevor du den Hauptgegner angreifst.",
       "orte": [
         "Crucionen-HQ"
@@ -1461,7 +1461,7 @@
       "kp": 3,
       "angriff": 4,
       "verteidigung": 0,
-      "bild": "images/enemies/crucitektor.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/crucitektor.webp",
       "beschreibung": "Magische Items, die Crucius schützen. Lästige Dinger! Mit vier Crucitektoren wird Crucius unverwundbar.",
       "orte": [
         "Äonenpalast"
@@ -1473,7 +1473,7 @@
       "kp": 30,
       "angriff": 2,
       "verteidigung": 1,
-      "bild": "images/enemies/crucibot.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/crucibot.webp",
       "beschreibung": "Der stärkste und modernste Roboter der Crucionen. Besonders gefährlich sind seine Raketenfäuste.",
       "orte": [
         "Großer Baum"
@@ -1485,7 +1485,7 @@
       "kp": 70,
       "angriff": 6,
       "verteidigung": 2,
-      "bild": "images/enemies/neo-crucibot.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/neo-crucibot.webp",
       "beschreibung": "Eine Weiterentwicklung des Crucibot. Besondere Verbesserung: Ein MG. Achtung! Gefahr!",
       "orte": [
         "Crucionen-HQ"
@@ -1497,7 +1497,7 @@
       "kp": 30,
       "angriff": 4,
       "verteidigung": 0,
-      "bild": "images/enemies/crucillus.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/crucillus.webp",
       "beschreibung": "Kommandeur der Crucionen, kämpft mit Körpereinsatz. Aber er hat es auch nicht immer leicht in seinem Job.",
       "orte": [
         "Rohlingen",
@@ -1510,7 +1510,7 @@
       "kp": 50,
       "angriff": 7,
       "verteidigung": 1,
-      "bild": "images/enemies/crucius.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/crucius.webp",
       "beschreibung": "Anführer der Crucionen und Prinzessin Peachs Entführer. Ein fieser Typ, der die Weltherrschaft anstrebt.",
       "orte": [
         "Äonenpalast"
@@ -1522,7 +1522,7 @@
       "kp": 30,
       "angriff": 5,
       "verteidigung": 0,
-      "bild": "images/enemies/brunhilda.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/brunhilda.webp",
       "beschreibung": "Anführerin des Schattentrios, verwendet diverse Magie. Hat einen sehr schlechten Charakter...",
       "orte": [
         "Wunderwald",
@@ -1535,7 +1535,7 @@
       "kp": 40,
       "angriff": 7,
       "verteidigung": 0,
-      "bild": "images/enemies/roberta.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/roberta.webp",
       "beschreibung": "Mitglied des Schattentrios, Brunhildas jüngere Schwester. Hohe Angriffskraft, also besser schnell besiegen!",
       "orte": [
         "Wunderwald",
@@ -1548,7 +1548,7 @@
       "kp": 10,
       "angriff": 1,
       "verteidigung": 0,
-      "bild": "images/enemies/barbara.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/barbara.webp",
       "beschreibung": "Brunhildas Schwester, gehört zum Schattentrio. Diese hübsche Hexe hat sicher viele Verehrer.",
       "orte": [
         "Wunderwald"
@@ -1560,7 +1560,7 @@
       "kp": 150,
       "angriff": 7,
       "verteidigung": 0,
-      "bild": "images/enemies/koenigin_der_finsternis.webp",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/koenigin_der_finsternis.webp",
       "beschreibung": "Die Königin der Finsternis: Die Diebin von Peachs Körper. Sie will die Welt verdüstern, aber Mario verhindert das. Auch Peach ist sicher: Ende gut, alles gut.",
       "orte": [
         "Äonenpalast"

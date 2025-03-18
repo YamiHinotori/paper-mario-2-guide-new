@@ -19,7 +19,7 @@ export const Collectables = () => {
     }, []);
 
     const getData = async () => {
-        await fetch("/data/collectables.json").then(res => res.json()).then(data => setData(data));
+        await fetch(`${process.env.REACT_APP_PUBLIC_URL}/data/collectables.json`).then(res => res.json()).then(data => setData(data));
     }
     
     const handleCheckboxChange = (id, containerId) => {

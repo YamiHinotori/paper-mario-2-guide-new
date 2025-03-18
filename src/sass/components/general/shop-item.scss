@@ -1,6 +1,6 @@
 .shopItemClassContainer {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     flex-wrap: wrap;
     gap: 10px;
 
@@ -11,8 +11,9 @@
         gap: 10px;
         text-align: center;
         
-        .image {
-            width: 50px;
+        .bild {
+            width: 40px;
+            height: 40px;
         }
         
         p {

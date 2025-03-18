@@ -12,7 +12,7 @@ export const Shops = () => {
 
     const fetchShops = async () => {
         try {
-            const response = await fetch("/data/shops.json");
+            const response = await fetch(`${process.env.REACT_APP_PUBLIC_URL}/data/shops.json`);
             const jsonData = await response.json();
             setShops(jsonData);
         } catch (error) {

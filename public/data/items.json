@@ -2,307 +2,307 @@
     {
       "id": 1,
       "name": "Ahorn-Sirup",
-      "bild": "/images/items/ahorn-sirup.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/items/ahorn-sirup.png",
       "beschreibung": "Köstlicher Sirup. Stellt 10 BP wieder her."
     },
     {
       "id": 2,
       "name": "Backmischung",
-      "bild": "/images/items/backmischung.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/items/backmischung.png",
       "beschreibung": "Backbasis für leckere Kuchen. Stellt 1 BP wieder her."
     },
     {
       "id": 3,
       "name": "Bubu-Ei",
-      "bild": "/images/items/bubu-ei.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/items/bubu-ei.png",
       "beschreibung": "Mysteriöses Ei von Bubulia. Stellt 5 KP wieder her."
     },
     {
       "id": 4,
       "name": "Buu-Laken",
-      "bild": "/images/items/buu-laken.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/items/buu-laken.png",
       "beschreibung": "Macht körperlos und unangreifbar."
     },
     {
       "id": 5,
       "name": "Donnerblitz",
-      "bild": "/images/items/donnerblitz.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/items/donnerblitz.png",
       "beschreibung": "Blitzschlag gegen einen Gegner. Angriffskraft: 5"
     },
     {
       "id": 6,
       "name": "Donnerzorn",
-      "bild": "/images/items/donnerzorn.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/items/donnerzorn.png",
       "beschreibung": "Blitzschlag gegen alle Gegner. Angriffskraft: 5"
     },
     {
       "id": 7,
       "name": "Eishauch",
-      "bild": "/images/items/eishauch.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/items/eishauch.png",
       "beschreibung": "Schneesturm und Frost treffen alle Gegner. Angriffskraft: 3"
     },
     {
       "id": 8,
       "name": "Feuerblume",
-      "bild": "/images/items/feuerblume.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/items/feuerblume.png",
       "beschreibung": "Feuerangriff gegen alle Gegner. Angriffskraft: 3"
     },
     {
       "id": 9,
       "name": "Feuersoße",
-      "bild": "/images/items/feuersosse.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/items/feuersosse.png",
       "beschreibung": "Beliebtes Gewürz. Das Aroma kann süchtig machen."
     },
     {
       "id": 10,
       "name": "Furcht-Tiegel",
-      "bild": "/images/items/furcht-tiegel.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/items/furcht-tiegel.png",
       "beschreibung": "Ruft einen Geist herbei, der die Gegner verjagt."
     },
     {
       "id": 11,
       "name": "Gelee Royal",
-      "bild": "/images/items/gelee_royal.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/items/gelee_royal.png",
       "beschreibung": "Nahrhafter Snack. Stellt 50 BP wieder her."
     },
     {
       "id": 12,
       "name": "Goldbarren",
-      "bild": "/images/items/goldbarren.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/items/goldbarren.png",
       "beschreibung": "Ein Goldbarren."
     },
     {
       "id": 13,
       "name": "Goldblatt",
-      "bild": "/images/items/goldblatt.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/items/goldblatt.png",
       "beschreibung": "Ein Blatt aus der Spukabtei. Stellt 10 BP wieder her."
     },
     {
       "id": 14,
       "name": "Goldschatz",
-      "bild": "/images/items/goldschatz.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/items/goldschatz.png",
       "beschreibung": "Drei Goldbarren."
     },
     {
       "id": 15,
       "name": "Hartpanzer",
-      "bild": "/images/items/hartpanzer.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/items/hartpanzer.png",
       "beschreibung": "Macht härter und erhöht die Verteidigungskraft."
     },
     {
       "id": 16,
       "name": "Honig-Sirup",
-      "bild": "/images/items/honig-sirup.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/items/honig-sirup.png",
       "beschreibung": "Süßer Sirup. Stellt 5 BP wieder her."
     },
     {
       "id": 17,
       "name": "Hotdog",
-      "bild": "/images/items/hotdog.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/items/hotdog.png",
       "beschreibung": "Delikater Snack von Bra Ten. Stellt 5 KP und 5 BP her."
     },
     {
       "id": 18,
       "name": "Hotelgutschein",
-      "bild": "/images/items/hotelgutschein.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/items/hotelgutschein.png",
       "beschreibung": "Ein Gutschein für eine Übernachtung im Toad-Haus."
     },
     {
       "id": 19,
       "name": "Kokosnuss",
-      "bild": "/images/items/kokosnuss.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/items/kokosnuss.png",
       "beschreibung": "Souvenir von der Insel. Leider nicht besonders lecker."
     },
     {
       "id": 20,
       "name": "Koopa-Blatt",
-      "bild": "/images/items/koopa-blatt.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/items/koopa-blatt.png",
       "beschreibung": "Ein Blatt aus Blütenweiler. Stellt 3 BP wieder her."
     },
     {
       "id": 21,
       "name": "KP-Schlürfer",
-      "bild": "/images/items/kp-schluerfer.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/items/kp-schluerfer.png",
       "beschreibung": "Angriffskraft 5. Anwender-KP steigen um diesen Wert."
     },
     {
       "id": 22,
       "name": "Kraft-Punsch",
-      "bild": "/images/items/kraftpunsch.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/items/kraftpunsch.png",
       "beschreibung": "Macht größer und erhöht die Angriffskraft."
     },
     {
       "id": 23,
       "name": "Lebenspilz",
-      "bild": "/images/items/lebenspilz.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/items/lebenspilz.png",
       "beschreibung": "Stellt 10 KP her, wenn Mario oder Partner besiegt wurde."
     },
     {
       "id": 24,
       "name": "Mango",
-      "bild": "/images/items/mango.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/items/mango.png",
       "beschreibung": "Eine Frucht von der Isla Corsaria. Stellt 5 KP wieder her."
     },
     {
       "id": 25,
       "name": "Mysterium?",
-      "bild": "/images/items/mysterium.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/items/mysterium.png",
       "beschreibung": "Was es bewirkt? Keine Ahnung! Finde es heraus!"
     },
     {
       "id": 26,
       "name": "Pfirsich",
-      "bild": "/images/items/pfirsich.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/items/pfirsich.png",
       "beschreibung": "Eine Frucht aus Düsterdorf. Stellt 1 KP und 2 BP her."
     },
     {
       "id": 27,
       "name": "Pilz",
-      "bild": "/images/items/pilz.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/items/pilz.png",
       "beschreibung": "Ein normaler Pilz. Stellt 5 KP wieder her."
     },
     {
       "id": 28,
       "name": "POW-Block",
-      "bild": "/images/items/pow-block.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/items/pow-block.png",
       "beschreibung": "2 Punkte Schaden gegen alle Gegner. Haut Schalentiere um."
     },
     {
       "id": 29,
       "name": "Power-Pasta",
-      "bild": "/images/items/power-pasta.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/items/power-pasta.png",
       "beschreibung": "Pasta aus Bad Glimmerich. Stellt 10 KP und 5 BP her."
     },
     {
       "id": 30,
       "name": "Punktetausch",
-      "bild": "/images/items/punktetausch.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/items/punktetausch.png",
       "beschreibung": "Tauscht KP gegen BP. Beachte die Höchstwerte."
     },
     {
       "id": 31,
       "name": "Rachepulver",
-      "bild": "/images/items/rachepulver.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/items/rachepulver.png",
       "beschreibung": "Den halben Schaden erleidet der Angreifende."
     },
     {
       "id": 32,
       "name": "Saures Tonic",
-      "bild": "/images/items/saures_tonic.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/items/saures_tonic.png",
       "beschreibung": "Ein sehr saures Tonic. Wirkt gegen Gift unnd Schrumpfung."
     },
     {
       "id": 33,
       "name": "Schäfchen",
-      "bild": "/images/items/schaefchen.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/items/schaefchen.png",
       "beschreibung": "Versetzt alle Gegner in tiefen Schlaf. Bäh-äh!"
     },
     {
       "id": 34,
       "name": "Schlaffikator",
-      "bild": "/images/items/schlaffikator.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/items/schlaffikator.png",
       "beschreibung": "Macht Gegner schlaff und senkt ihre Abwehrkraft."
     },
     {
       "id": 35,
       "name": "Schrumpfer",
-      "bild": "/images/items/schrumpfer.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/items/schrumpfer.png",
       "beschreibung": "Lässt Gegner schrumpfen und schwächt ihre Angriffskraft."
     },
     {
       "id": 36,
       "name": "Schwirrwarr",
-      "bild": "/images/items/schwirrwarr.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/items/schwirrwarr.png",
       "beschreibung": "Macht Gegner schwindelig und lähmt sie eventuell."
     },
     {
       "id": 37,
       "name": "Sternenwind",
-      "bild": "/images/items/sternenwind.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/items/sternenwind.png",
       "beschreibung": "Sternenschnuppen-Hagel gegen alle Gegner. Angriffskraft: 6"
     },
     {
       "id": 38,
       "name": "Stoppuhr",
-      "bild": "/images/items/stoppuhr.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/items/stoppuhr.png",
       "beschreibung": "Paralysiert alle Gegner. ...Wenn es funktioniert."
     },
     {
       "id": 39,
       "name": "Super-Pilz",
-      "bild": "/images/items/super-pilz.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/items/super-pilz.png",
       "beschreibung": "Ein wahrer Super-Pilz. Stellt 10 KP wieder her."
     },
     {
       "id": 40,
       "name": "Tarn-Cape",
-      "bild": "/images/items/tarn-cape.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/items/tarn-cape.png",
       "beschreibung": "Lässt gegnerische Angriffe öfter daneben gehen."
     },
     {
       "id": 41,
       "name": "Trockenblume",
-      "bild": "/images/items/trockenblume.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/items/trockenblume.png",
       "beschreibung": "Ein Geschenk von Knospi. Stellt 1 KP wieder her."
     },
     {
       "id": 42,
       "name": "Trockenpilz",
-      "bild": "/images/items/trockenpilz.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/items/trockenpilz.png",
       "beschreibung": "Ein sehr trockener Pilz. Stellt 1 KP wieder her."
     },
     {
       "id": 43,
       "name": "Tropfpilz",
-      "bild": "/images/items/tropfpilz.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/items/tropfpilz.png",
       "beschreibung": "Ein Pilz, der für eine Weile die KP ansteigen lässt."
     },
     {
       "id": 44,
       "name": "Tropfsirup",
-      "bild": "/images/items/tropfsirup.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/items/tropfsirup.png",
       "beschreibung": "Ein Sirup, der für eine Weile die BP ansteigen lässt."
     },
     {
       "id": 45,
       "name": "Ultra-Pilz",
-      "bild": "/images/items/ultra-pilz.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/items/ultra-pilz.png",
       "beschreibung": "Ein ultrafeiner Pilz. Stellt 50 KP wieder her."
     },
     {
       "id": 46,
       "name": "Verwirrpulver",
-      "bild": "/images/items/verwirrpulver.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/items/verwirrpulver.png",
       "beschreibung": "Verwirrt Marios Gegner: Ihre Angriffe gehen eher daneben."
     },
     {
       "id": 47,
       "name": "Voltopilz",
-      "bild": "/images/items/voltopilz.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/items/voltopilz.png",
       "beschreibung": "Lädt elektrisch auf. Angreifer müssen leiden."
     },
     {
       "id": 48,
       "name": "Whackas Kick",
-      "bild": "/images/items/whackas_kick.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/items/whackas_kick.png",
       "beschreibung": "Das Ding kickt wirklich! Stellt 25 KP und 25 BP wieder her."
     },
     {
       "id": 49,
       "name": "Wurzel",
-      "bild": "/images/items/wurzel.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/items/wurzel.png",
       "beschreibung": "Eine Wurzel aus dem Feuertal. Stellt 3 KP wieder her."
     },
     {
       "id": 50,
       "name": "Wutbeben",
-      "bild": "/images/items/wutbeben.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/items/wutbeben.png",
       "beschreibung": "Erdbeben trifft alle Boden- und Deckengegner. Angriffskraft: 5"
     },
     {
       "id": 51,
       "name": "Hotdog",
-      "bild": "/images/items/hotdog.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/items/hotdog.png",
       "beschreibung": "Delikater Snack von Bra Ten. Stellt 5 KP und 5 BP her."
     }
   ]

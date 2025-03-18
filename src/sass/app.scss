@@ -1,6 +1,10 @@
 // Fonts
-@import url('https://fonts.bunny.net/css?family=Nunito');
-
+@font-face {
+    font-family: "PaperMario";
+    src: url("https://yamihinotori.github.io/paper-mario-2-guide-new/fonts/FOT-PopJoyStd-B.otf");
+    font-display: swap;
+  }
+  
 .background {
     background-color: rgba(0, 0, 0, .3);
     padding-top: .1px;
@@ -19,10 +23,9 @@
     overflow: hidden;
     box-shadow: 4px 4px 0 black;
     border: 4px solid black;
-    font-family: 'FOT-PopJoy Std B'!important;
-    background-image: url("../../public/background/backgroundIcons.png");
+    font-family: 'PaperMario', sans-serif!important;
+    background-image: url("https://yamihinotori.github.io/paper-mario-2-guide-new/background/backgroundIcons.png");
     background-size: 130px;
-
 
     .mainContainer {
         display: flex;

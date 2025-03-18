@@ -5,11 +5,11 @@ export const OrdenItem = ({ orden, toggleCollectedStatus }) => {
     const { id, name, op, beschreibung, bild, orte, isCollected } = orden;
 
     return (
-        <div className="ordenItem">
+        <div className={`ordenItem ${isCollected ? "checked" : ""}`}>
             <div className="ueberschriftContainer">
                 <div className="nameContainer">
                     <img src={bild} alt={name} className="orden-bild" />
-                    <span className="name">{name}</span>
+                    <strong><span className="name">{name}</span></strong>
                 </div>
                 <label>
                     <input

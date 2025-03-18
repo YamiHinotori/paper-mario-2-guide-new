@@ -11,6 +11,10 @@
     box-shadow: 2px 2px 0px black;
     gap: 20px;
 
+    &.checked {
+        opacity: .6;
+    }
+
     .ueberschriftContainer {
         display: flex;
         flex-direction: row;

@@ -7,7 +7,7 @@ export const Shop = ({ shop }) => {
 
     return (
         <div className="shopClassContainer">
-            <p className="shopName">{ort}</p>
+            <strong><p>{ort}</p></strong>
             <div className="shopItems">
                 {items.map((item, index) => (
                     <ShopItem key={index} item={item} />

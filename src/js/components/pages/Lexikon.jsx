@@ -13,7 +13,7 @@ export const Lexikon = () => {
 
     const fetchGegner = async () => {
         try {
-            const response = await fetch("/data/lexikon.json");
+            const response = await fetch(`${process.env.REACT_APP_PUBLIC_URL}/data/lexikon.json`);
             const jsonData = await response.json();
             setGegner(jsonData);
         } catch (error) {

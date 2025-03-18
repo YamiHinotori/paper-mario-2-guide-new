@@ -11,7 +11,7 @@ export const Duellkerker = () => {
 
     const fetchEtagen = async () => {
         try {
-            const response = await fetch("/data/duellkerker.json");
+            const response = await fetch(`${process.env.REACT_APP_PUBLIC_URL}/data/duellkerker.json`);
             const jsonData = await response.json();
             setEtagen(jsonData);
         } catch (error) {

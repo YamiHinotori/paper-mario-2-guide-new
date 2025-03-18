@@ -12,6 +12,10 @@
     box-shadow: 2px 2px 0px black;
     height: 60px;
 
+    &.checked {
+        opacity: .6;
+    }
+
     .nameContainer {
         display: flex;
         flex-direction: row;
@@ -28,7 +32,7 @@
         flex-direction: row;
         gap: 10px;        
         align-items: center;
-        font-family: "FOT-PopJoy Std B"!important;
+        font-family: "PaperMario", sans-serif!important;
 
         .button {
             width: 40px;
@@ -39,9 +43,13 @@
             font-weight: bold;
             cursor: pointer;
             box-shadow: 2px 2px 0px black;
-            font-family: "FOT-PopJoy Std B";
+            font-family: "PaperMario", sans-serif;
             font-size: 16px;
-            line-height: 16px;
+            color: black;
+            text-align: center;
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
         }
     }
 }

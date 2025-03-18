@@ -3,8 +3,8 @@ import "../../../sass/components/general/collectable.scss";
 
 export const Collectable = ({ id, containerId, ort, beschreibung, checked, onChange, typ }) => {
     const images = {
-        insignie: `images/collectables/insignie.png`,
-        sternsplitter: "images/collectables/sternsplitter.png",
+        insignie: `${process.env.REACT_APP_PUBLIC_URL}/images/collectables/insignie.png`,
+        sternsplitter: `${process.env.REACT_APP_PUBLIC_URL}/images/collectables/sternsplitter.png`,
     };
     
     return (

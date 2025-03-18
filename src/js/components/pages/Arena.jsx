@@ -11,7 +11,7 @@ export const Arena = () => {
 
     const fetchKaempfe = async () => {
         try {
-            const response = await fetch("/data/arena.json");
+            const response = await fetch(`${process.env.REACT_APP_PUBLIC_URL}/data/arena.json`);
             const jsonData = await response.json();
             setKaempfe(jsonData);
         } catch (error) {

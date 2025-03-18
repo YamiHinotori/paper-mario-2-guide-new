@@ -6,7 +6,7 @@ export const Auftrag = ({ id, containerId, titel, ort, verfuegbar, loesung, belo
     return (
         <div id={containerId} className={`auftragContainer ${checked ? "checked" : ""}`}>
             <div className="textContainer">
-                <p className="ueberschrift">{titel}</p>
+                <strong><p>{titel}</p></strong>
                 <p className="verfuegbar">Verfügbar nach: {verfuegbar}</p>
                 <p className="ort">Ort des Auftrags: {ort}</p>
                 <div className="loesungContainer">

@@ -13,7 +13,7 @@ export const Einkaufsliste = () => {
 
     const getData = async () => {
         try {
-            const response = await fetch("/data/einkaufsliste.json");
+            const response = await fetch(`${process.env.REACT_APP_PUBLIC_URL}/data/einkaufsliste.json`);
             const jsonData = await response.json();
 
             const savedData = JSON.parse(localStorage.getItem("einkaufslistenItems")) || {};

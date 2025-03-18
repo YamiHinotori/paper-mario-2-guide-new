@@ -5,11 +5,11 @@ export const RezeptItem = ({ rezept, toggleCollectedStatus }) => {
     const { id, name, bild, beschreibung, zutaten, aufbewahren, isCollected } = rezept;
 
     return (
-        <div className="rezeptItem">
+        <div className={`rezeptItem ${isCollected ? "checked" : ""}`}>
             <div className="ueberschriftContainer">
                 <div className="nameContainer">
                     <img src={bild} alt={name} className="image" />
-                    <span className="name">{name}</span>
+                    <strong><span className="name">{name}</span></strong>
                 </div>
                 {aufbewahren && <p className="aufbewahren">Aufbewahren!</p>}
                 <label>

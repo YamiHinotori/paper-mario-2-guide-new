@@ -1,7 +1,8 @@
 {
   "name": "paper-mario-2-guide",
-  "version": "0.1.0",
+  "version": "1.0.12",
   "private": false,
+  "homepage": "https://yamihinotori.github.io/paper-mario-2-guide-new",
   "dependencies": {
     "cra-template-pwa": "2.0.0",
     "dotenv": "^16.4.7",

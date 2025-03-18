@@ -14,7 +14,7 @@ export const ArenaKampf = ({ kampf }) => {
                         <div className="gegner">
                             <img src={gegner.bild} alt={gegner.name} className="image" />
                             <div className="infoContainer">
-                                <p>{gegner.name} ({gegner.anzahl}x)</p>
+                                <strong><p>{gegner.name} ({gegner.anzahl}x)</p></strong>
                                 <div className="table">
                                     <div>
                                         <p className="head">KP</p>

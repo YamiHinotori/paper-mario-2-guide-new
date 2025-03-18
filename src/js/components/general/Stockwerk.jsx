@@ -4,7 +4,7 @@ import "../../../sass/components/general/stockwerk.scss";
 export const Stockwerk = ({ etage }) => {
     return (
         <div className="stockwerkContainer">
-            <p>Etage {etage.etage}</p>
+            <strong><p>Etage {etage.etage}</p></strong>
             <div className="gegnerListe">
                 {etage.gegner.map((gegner, index) => (
                     <div className="gegnerContainer" key={`gegner-${index}`}>

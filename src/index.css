@@ -2,7 +2,7 @@ body {
   background-image: url("/public/background/background.jpeg");
   background-attachment: fixed;
   background-size: cover;
-  font-family: 'FOT-PopJoy Std B'!important;
+  font-family: 'PaperMario', sans-serif!important;
   padding: 0;
   margin: 0;
   overflow: hidden;
