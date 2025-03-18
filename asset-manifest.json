@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "https://yamihinotori.github.io/paper-mario-2-guide-new/static/css/main.ed78861c.css",
+    "main.css": "https://yamihinotori.github.io/paper-mario-2-guide-new/static/css/main.c3735d84.css",
     "main.js": "https://yamihinotori.github.io/paper-mario-2-guide-new/static/js/main.904c372b.js",
     "static/media/background.jpeg": "https://yamihinotori.github.io/paper-mario-2-guide-new/static/media/background.49282a636edf98a27587.jpeg",
     "service-worker.js": "https://yamihinotori.github.io/paper-mario-2-guide-new/service-worker.js",
     "index.html": "https://yamihinotori.github.io/paper-mario-2-guide-new/index.html",
-    "main.ed78861c.css.map": "https://yamihinotori.github.io/paper-mario-2-guide-new/static/css/main.ed78861c.css.map",
+    "main.c3735d84.css.map": "https://yamihinotori.github.io/paper-mario-2-guide-new/static/css/main.c3735d84.css.map",
     "main.904c372b.js.map": "https://yamihinotori.github.io/paper-mario-2-guide-new/static/js/main.904c372b.js.map"
   },
   "entrypoints": [
-    "static/css/main.ed78861c.css",
+    "static/css/main.c3735d84.css",
     "static/js/main.904c372b.js"
   ]
 }
