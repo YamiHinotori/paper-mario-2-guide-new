@@ -1,0 +1,1276 @@
+[
+    {
+        "id": 1,
+        "etage": 1,
+        "gegner": [
+            {
+                "name": "Glumba",
+                "kp": 7,
+                "angriff": 3,
+                "verteidigung": 0,
+                "bild": "/images/enemies/glumba.webp"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "etage": 2,
+        "gegner": [
+            {
+                "name": "Sproing",
+                "kp": 3,
+                "angriff": 1,
+                "verteidigung": 0,
+                "bild": "/images/enemies/sproing.webp"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "etage": 3,
+        "gegner": [
+          {
+            "name": "Megasproing",
+            "kp": 3,
+            "angriff": 1,
+            "verteidigung": 0,
+            "bild": "/images/enemies/megasproing.webp"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "etage": 4,
+        "gegner": [
+          {
+            "name": "Knochen-Koopa",
+            "kp": 1,
+            "angriff": 2,
+            "verteidigung": 1,
+            "bild": "/images/enemies/knochen-koopa.webp"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "etage": 5,
+        "gegner": [
+          {
+            "name": "Fuzzy",
+            "kp": 3,
+            "angriff": 1,
+            "verteidigung": 0,
+            "bild": "/images/enemies/fuzzy.webp"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "etage": 6,
+        "gegner": [
+          {
+            "name": "Glumba",
+            "kp": 7,
+            "angriff": 3,
+            "verteidigung": 0,
+            "bild": "/images/enemies/glumba.webp"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "etage": 7,
+        "gegner": [
+          {
+            "name": "Sproing",
+            "kp": 3,
+            "angriff": 1,
+            "verteidigung": 0,
+            "bild": "/images/enemies/sproing.webp"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "etage": 8,
+        "gegner": [
+          {
+            "name": "Megasproing",
+            "kp": 3,
+            "angriff": 1,
+            "verteidigung": 0,
+            "bild": "/images/enemies/megasproing.webp"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "etage": 9,
+        "gegner": [
+          {
+            "name": "Knochen-Koopa",
+            "kp": 1,
+            "angriff": 2,
+            "verteidigung": 1,
+            "bild": "/images/enemies/knochen-koopa.webp"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "etage": 11,
+        "gegner": [
+          {
+            "name": "Paraglumba",
+            "kp": 7,
+            "angriff": 3,
+            "verteidigung": 0,
+            "bild": "/images/enemies/paraglumba.webp"
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "etage": 12,
+        "gegner": [
+          {
+            "name": "Kirk",
+            "kp": 2,
+            "angriff": 2,
+            "verteidigung": 2,
+            "bild": "/images/enemies/kirk.webp"
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "etage": 13,
+        "gegner": [
+          {
+            "name": "Pokey",
+            "kp": 4,
+            "angriff": 3,
+            "verteidigung": 0,
+            "bild": "/images/enemies/pokey.webp"
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "etage": 14,
+        "gegner": [
+          {
+            "name": "Stratox",
+            "kp": 3,
+            "angriff": 2,
+            "verteidigung": 0,
+            "bild": "/images/enemies/stratox.webp"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "etage": 15,
+        "gegner": [
+          {
+            "name": "Fadula",
+            "kp": 5,
+            "angriff": 2,
+            "verteidigung": 0,
+            "bild": "/images/enemies/fadula.webp"
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "etage": 16,
+        "gegner": [
+          {
+            "name": "Paraglumba",
+            "kp": 7,
+            "angriff": 3,
+            "verteidigung": 0,
+            "bild": "/images/enemies/paraglumba.webp"
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "etage": 17,
+        "gegner": [
+          {
+            "name": "Kirk",
+            "kp": 2,
+            "angriff": 2,
+            "verteidigung": 2,
+            "bild": "/images/enemies/kirk.webp"
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "etage": 18,
+        "gegner": [
+          {
+            "name": "Pokey",
+            "kp": 4,
+            "angriff": 3,
+            "verteidigung": 0,
+            "bild": "/images/enemies/pokey.webp"
+          }
+        ]
+      },
+      {
+        "id": 19,
+        "etage": 19,
+        "gegner": [
+          {
+            "name": "Stratox",
+            "kp": 3,
+            "angriff": 2,
+            "verteidigung": 0,
+            "bild": "/images/enemies/stratox.webp"
+          }
+        ]
+      },
+      {
+        "id": 21,
+        "etage": 21,
+        "gegner": [
+          {
+            "name": "Pieks-Glumba",
+            "kp": 7,
+            "angriff": 4,
+            "verteidigung": 0,
+            "bild": "/images/enemies/pieks-glumba.webp"
+          }
+        ]
+      },
+      {
+        "id": 22,
+        "etage": 22,
+        "gegner": [
+          {
+            "name": "Bandit",
+            "kp": 5,
+            "angriff": 2,
+            "verteidigung": 0,
+            "bild": "/images/enemies/bandit.webp"
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "etage": 23,
+        "gegner": [
+          {
+            "name": "Lakitu",
+            "kp": 5,
+            "angriff": 2,
+            "verteidigung": 0,
+            "bild": "/images/enemies/lakitu.webp"
+          },
+          {
+            "name": "Stachi",
+            "kp": 3,
+            "angriff": 3,
+            "verteidigung": 3,
+            "bild": "/images/enemies/stachi.webp"
+          }
+        ]
+      },
+      {
+        "id": 24,
+        "etage": 24,
+        "gegner": [
+          {
+            "name": "Bob-omb",
+            "kp": 4,
+            "angriff": 2,
+            "verteidigung": 1,
+            "bild": "/images/enemies/bob-omb.webp"
+          }
+        ]
+      },
+      {
+        "id": 25,
+        "etage": 25,
+        "gegner": [
+          {
+            "name": "Buu Huu",
+            "kp": 7,
+            "angriff": 3,
+            "verteidigung": 0,
+            "bild": "/images/enemies/buu_huu.webp"
+          }
+        ]
+      },
+      {
+        "id": 26,
+        "etage": 26,
+        "gegner": [
+          {
+            "name": "Pieks-Glumba",
+            "kp": 7,
+            "angriff": 4,
+            "verteidigung": 0,
+            "bild": "/images/enemies/pieks-glumba.webp"
+          }
+        ]
+      },
+      {
+        "id": 27,
+        "etage": 27,
+        "gegner": [
+          {
+            "name": "Bandit",
+            "kp": 5,
+            "angriff": 2,
+            "verteidigung": 0,
+            "bild": "/images/enemies/bandit.webp"
+          }
+        ]
+      },
+      {
+        "id": 28,
+        "etage": 28,
+        "gegner": [
+          {
+            "name": "Lakitu",
+            "kp": 5,
+            "angriff": 2,
+            "verteidigung": 0,
+            "bild": "/images/enemies/lakitu.webp"
+          },
+          {
+            "name": "Stachi",
+            "kp": 3,
+            "angriff": 3,
+            "verteidigung": 3,
+            "bild": "/images/enemies/stachi.webp"
+          }
+        ]
+      },
+      {
+        "id": 29,
+        "etage": 29,
+        "gegner": [
+          {
+            "name": "Bob-omb",
+            "kp": 4,
+            "angriff": 2,
+            "verteidigung": 1,
+            "bild": "/images/enemies/bob-omb.webp"
+          }
+        ]
+      },
+      {
+        "id": 31,
+        "etage": 31,
+        "gegner": [
+          {
+            "name": "Fies-Koopa",
+            "kp": 8,
+            "angriff": 4,
+            "verteidigung": 2,
+            "bild": "/images/enemies/fies-koopa.webp"
+          }
+        ]
+      },
+      {
+        "id": 32,
+        "etage": 32,
+        "gegner": [
+          {
+            "name": "Hyper-Kirk",
+            "kp": 4,
+            "angriff": 3,
+            "verteidigung": 3,
+            "bild": "/images/enemies/hyper-kirk.webp"
+          }
+        ]
+      },
+      {
+        "id": 33,
+        "etage": 33,
+        "gegner": [
+          {
+            "name": "Parakäfer",
+            "kp": 5,
+            "angriff": 3,
+            "verteidigung": 4,
+            "bild": "/images/enemies/parakaefer.webp"
+          }
+        ]
+      },
+      {
+        "id": 34,
+        "etage": 34,
+        "gegner": [
+          {
+            "name": "Schattenkoopa",
+            "kp": 8,
+            "angriff": 3,
+            "verteidigung": 1,
+            "bild": "/images/enemies/schattenkoopa.webp"
+          }
+        ]
+      },
+      {
+        "id": 35,
+        "etage": 35,
+        "gegner": [
+          {
+            "name": "Wiesen-Fuzzy",
+            "kp": 6,
+            "angriff": 3,
+            "verteidigung": 0,
+            "bild": "/images/enemies/wiesen-fuzzy.webp"
+          }
+        ]
+      },
+      {
+        "id": 36,
+        "etage": 36,
+        "gegner": [
+          {
+            "name": "Fies-Koopa",
+            "kp": 8,
+            "angriff": 4,
+            "verteidigung": 2,
+            "bild": "/images/enemies/fies-koopa.webp"
+          }
+        ]
+      },
+      {
+        "id": 37,
+        "etage": 37,
+        "gegner": [
+          {
+            "name": "Hyper-Kirk",
+            "kp": 4,
+            "angriff": 3,
+            "verteidigung": 3,
+            "bild": "/images/enemies/hyper-kirk.webp"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "etage": 38,
+        "gegner": [
+          {
+            "name": "Parakäfer",
+            "kp": 5,
+            "angriff": 3,
+            "verteidigung": 4,
+            "bild": "/images/enemies/parakaefer.webp"
+          }
+        ]
+      },
+      {
+        "id": 39,
+        "etage": 39,
+        "gegner": [
+          {
+            "name": "Schattenkoopa",
+            "kp": 8,
+            "angriff": 3,
+            "verteidigung": 1,
+            "bild": "/images/enemies/schattenkoopa.webp"
+          }
+        ]
+      },
+      {
+        "id": 41,
+        "etage": 41,
+        "gegner": [
+          {
+            "name": "Fies-Parakoopa",
+            "kp": 8,
+            "angriff": 4,
+            "verteidigung": 2,
+            "bild": "/images/enemies/fies-parakoopa.webp"
+          }
+        ]
+      },
+      {
+        "id": 42,
+        "etage": 42,
+        "gegner": [
+          {
+            "name": "Grob-omb",
+            "kp": 6,
+            "angriff": 2,
+            "verteidigung": 1,
+            "bild": "/images/enemies/grob-omb.webp"
+          }
+        ]
+      },
+      {
+        "id": 43,
+        "etage": 43,
+        "gegner": [
+          {
+            "name": "Lava Blub",
+            "kp": 6,
+            "angriff": 4,
+            "verteidigung": 0,
+            "bild": "/images/enemies/lava_blub.webp"
+          }
+        ]
+      },
+      {
+        "id": 44,
+        "etage": 44,
+        "gegner": [
+          {
+            "name": "Faul-Pokey",
+            "kp": 8,
+            "angriff": 4,
+            "verteidigung": 0,
+            "bild": "/images/enemies/faul-pokey.webp"
+          }
+        ]
+      },
+      {
+        "id": 45,
+        "etage": 45,
+        "gegner": [
+          {
+            "name": "Para-Pickelkäfer",
+            "kp": 5,
+            "angriff": 3,
+            "verteidigung": 4,
+            "bild": "/images/enemies/para-pickelkaefer.webp"
+          }
+        ]
+      },
+      {
+        "id": 46,
+        "etage": 46,
+        "gegner": [
+          {
+            "name": "Fies-Parakoopa",
+            "kp": 8,
+            "angriff": 4,
+            "verteidigung": 2,
+            "bild": "/images/enemies/fies-parakoopa.webp"
+          }
+        ]
+      },
+      {
+        "id": 47,
+        "etage": 47,
+        "gegner": [
+          {
+            "name": "Grob-omb",
+            "kp": 6,
+            "angriff": 2,
+            "verteidigung": 1,
+            "bild": "/images/enemies/grob-omb.webp"
+          }
+        ]
+      },
+      {
+        "id": 48,
+        "etage": 48,
+        "gegner": [
+          {
+            "name": "Lava Blub",
+            "kp": 6,
+            "angriff": 4,
+            "verteidigung": 0,
+            "bild": "/images/enemies/lava_blub.webp"
+          }
+        ]
+      },
+      {
+        "id": 49,
+        "etage": 49,
+        "gegner": [
+          {
+            "name": "Faul-Pokey",
+            "kp": 8,
+            "angriff": 4,
+            "verteidigung": 0,
+            "bild": "/images/enemies/faul-pokey.webp"
+          }
+        ]
+      },
+      {
+        "id": 51,
+        "etage": 51,
+        "gegner": [
+          {
+            "name": "Orden-Bandit",
+            "kp": 12,
+            "angriff": 5,
+            "verteidigung": 0,
+            "bild": "/images/enemies/orden-bandit.webp"
+          }
+        ]
+      },
+      {
+        "id": 52,
+        "etage": 52,
+        "gegner": [
+          {
+            "name": "Eis-Schnuff",
+            "kp": 9,
+            "angriff": 4,
+            "verteidigung": 0,
+            "bild": "/images/enemies/eis-schnuff.webp"
+          }
+        ]
+      },
+      {
+        "id": 53,
+        "etage": 53,
+        "gegner": [
+          {
+            "name": "Finster-Buu",
+            "kp": 8,
+            "angriff": 5,
+            "verteidigung": 0,
+            "bild": "/images/enemies/finster-buu.webp"
+          }
+        ]
+      },
+      {
+        "id": 54,
+        "etage": 54,
+        "gegner": [
+          {
+            "name": "Roter Chomp",
+            "kp": 6,
+            "angriff": 5,
+            "verteidigung": 3,
+            "bild": "/images/enemies/roter_chomp.webp"
+          }
+        ]
+      },
+      {
+        "id": 55,
+        "etage": 55,
+        "gegner": [
+          {
+            "name": "Mond-Kirk",
+            "kp": 6,
+            "angriff": 5,
+            "verteidigung": 5,
+            "bild": "/images/enemies/mond-kirk.webp"
+          }
+        ]
+      },
+      {
+        "id": 56,
+        "etage": 56,
+        "gegner": [
+          {
+            "name": "Orden-Bandit",
+            "kp": 12,
+            "angriff": 5,
+            "verteidigung": 0,
+            "bild": "/images/enemies/orden-bandit.webp"
+          }
+        ]
+      },
+      {
+        "id": 57,
+        "etage": 57,
+        "gegner": [
+          {
+            "name": "Eis-Schnuff",
+            "kp": 9,
+            "angriff": 4,
+            "verteidigung": 0,
+            "bild": "/images/enemies/eis-schnuff.webp"
+          }
+        ]
+      },
+      {
+        "id": 58,
+        "etage": 58,
+        "gegner": [
+          {
+            "name": "Finster-Buu",
+            "kp": 8,
+            "angriff": 5,
+            "verteidigung": 0,
+            "bild": "/images/enemies/finster-buu.webp"
+          }
+        ]
+      },
+      {
+        "id": 59,
+        "etage": 59,
+        "gegner": [
+          {
+            "name": "Roter Chomp",
+            "kp": 6,
+            "angriff": 5,
+            "verteidigung": 3,
+            "bild": "/images/enemies/roter_chomp.webp"
+          }
+        ]
+      },
+      {
+        "id": 61,
+        "etage": 61,
+        "gegner": [
+          {
+            "name": "Hyper-Lakitu",
+            "kp": 13,
+            "angriff": 5,
+            "verteidigung": 0,
+            "bild": "/images/enemies/hyper-lakitu.webp"
+          },
+          {
+            "name": "Käfer-Stachi",
+            "kp": 6,
+            "angriff": 6,
+            "verteidigung": 4,
+            "bild": "/images/enemies/kaefer-stachi.webp"
+          }
+        ]
+      },
+      {
+        "id": 62,
+        "etage": 62,
+        "gegner": [
+          {
+            "name": "Knochentrocken",
+            "kp": 8,
+            "angriff": 5,
+            "verteidigung": 2,
+            "bild": "/images/enemies/knochentrocken.webp"
+          }
+        ]
+      },
+      {
+        "id": 63,
+        "etage": 63,
+        "gegner": [
+          {
+            "name": "Lila Magi-Mech",
+            "kp": 10,
+            "angriff": 5,
+            "verteidigung": 2,
+            "bild": "/images/enemies/lila_magi-mech.webp"
+          }
+        ]
+      },
+      {
+        "id": 64,
+        "etage": 64,
+        "gegner": [
+          {
+            "name": "Frost-Piranha",
+            "kp": 10,
+            "angriff": 5,
+            "verteidigung": 0,
+            "bild": "/images/enemies/frost-piranha.webp"
+          }
+        ]
+      },
+      {
+        "id": 65,
+        "etage": 65,
+        "gegner": [
+          {
+            "name": "Lanzhäher",
+            "kp": 20,
+            "angriff": 6,
+            "verteidigung": 0,
+            "bild": "/images/enemies/lanzhaeher.webp"
+          }
+        ]
+      },
+      {
+        "id": 66,
+        "etage": 66,
+        "gegner": [
+          {
+            "name": "Hyper-Lakitu",
+            "kp": 13,
+            "angriff": 5,
+            "verteidigung": 0,
+            "bild": "/images/enemies/hyper-lakitu.webp"
+          },
+          {
+            "name": "Käfer-Stachi",
+            "kp": 6,
+            "angriff": 6,
+            "verteidigung": 4,
+            "bild": "/images/enemies/kaefer-stachi.webp"
+          }
+        ]
+      },
+      {
+        "id": 67,
+        "etage": 67,
+        "gegner": [
+          {
+            "name": "Knochentrocken",
+            "kp": 8,
+            "angriff": 5,
+            "verteidigung": 2,
+            "bild": "/images/enemies/knochentrocken.webp"
+          }
+        ]
+      },
+      {
+        "id": 68,
+        "etage": 68,
+        "gegner": [
+          {
+            "name": "Lila Magi-Mech",
+            "kp": 10,
+            "angriff": 5,
+            "verteidigung": 2,
+            "bild": "/images/enemies/lila_magi-mech.webp"
+          }
+        ]
+      },
+      {
+        "id": 69,
+        "etage": 69,
+        "gegner": [
+          {
+            "name": "Frost-Piranha",
+            "kp": 10,
+            "angriff": 5,
+            "verteidigung": 0,
+            "bild": "/images/enemies/frost-piranha.webp"
+          }
+        ]
+      },
+      {
+        "id": 71,
+        "etage": 71,
+        "gegner": [
+          {
+            "name": "Gelber Magi-Mech",
+            "kp": 10,
+            "angriff": 6,
+            "verteidigung": 3,
+            "bild": "/images/enemies/gelber_magi-mech.webp"
+          }
+        ]
+      },
+      {
+        "id": 72,
+        "etage": 72,
+        "gegner": [
+          {
+            "name": "Ass-Koopatrouille",
+            "kp": 25,
+            "angriff": 5,
+            "verteidigung": 2,
+            "bild": "/images/enemies/ass-koopatrouille.webp"
+          }
+        ]
+      },
+      {
+        "id": 73,
+        "etage": 73,
+        "gegner": [
+          {
+            "name": "Zornlicht",
+            "kp": 10,
+            "angriff": 5,
+            "verteidigung": 0,
+            "bild": "/images/enemies/zornlicht.webp"
+          }
+        ]
+      },
+      {
+        "id": 74,
+        "etage": 74,
+        "gegner": [
+          {
+            "name": "Swoopula",
+            "kp": 9,
+            "angriff": 4,
+            "verteidigung": 0,
+            "bild": "/images/enemies/swoopula.webp"
+          }
+        ]
+      },
+      {
+        "id": 75,
+        "etage": 75,
+        "gegner": [
+          {
+            "name": "Chomp",
+            "kp": 7,
+            "angriff": 6,
+            "verteidigung": 5,
+            "bild": "/images/enemies/chomp.webp"
+          }
+        ]
+      },
+      {
+        "id": 76,
+        "etage": 76,
+        "gegner": [
+          {
+            "name": "Gelber Magi-Mech",
+            "kp": 10,
+            "angriff": 6,
+            "verteidigung": 3,
+            "bild": "/images/enemies/gelber_magi-mech.webp"
+          }
+        ]
+      },
+      {
+        "id": 77,
+        "etage": 77,
+        "gegner": [
+          {
+            "name": "Ass-Koopatrouille",
+            "kp": 25,
+            "angriff": 5,
+            "verteidigung": 2,
+            "bild": "/images/enemies/ass-koopatrouille.webp"
+          }
+        ]
+      },
+      {
+        "id": 78,
+        "etage": 78,
+        "gegner": [
+          {
+            "name": "Zornlicht",
+            "kp": 10,
+            "angriff": 5,
+            "verteidigung": 0,
+            "bild": "/images/enemies/zornlicht.webp"
+          }
+        ]
+      },
+      {
+        "id": 79,
+        "etage": 79,
+        "gegner": [
+          {
+            "name": "Swoopula",
+            "kp": 9,
+            "angriff": 4,
+            "verteidigung": 0,
+            "bild": "/images/enemies/swoopula.webp"
+          }
+        ]
+      },
+      {
+        "id": 81,
+        "etage": 81,
+        "gegner": [
+          {
+            "name": "Gigasproing",
+            "kp": 12,
+            "angriff": 7,
+            "verteidigung": 2,
+            "bild": "/images/enemies/gigasproing.webp"
+          }
+        ]
+      },
+      {
+        "id": 82,
+        "etage": 82,
+        "gegner": [
+          {
+            "name": "Schwarzer Dornhart",
+            "kp": 8,
+            "angriff": 8,
+            "verteidigung": 4,
+            "bild": "/images/enemies/schwarzer_dornhart.webp"
+          }
+        ]
+      },
+      {
+        "id": 83,
+        "etage": 83,
+        "gegner": [
+          {
+            "name": "Grottenfadula",
+            "kp": 16,
+            "angriff": 7,
+            "verteidigung": 0,
+            "bild": "/images/enemies/grottenfadula.webp"
+          }
+        ]
+      },
+      {
+        "id": 84,
+        "etage": 84,
+        "gegner": [
+          {
+            "name": "Killer-Piranha",
+            "kp": 15,
+            "angriff": 9,
+            "verteidigung": 0,
+            "bild": "/images/enemies/killer-piranha.webp"
+          }
+        ]
+      },
+      {
+        "id": 85,
+        "etage": 85,
+        "gegner": [
+          {
+            "name": "Gigasproing",
+            "kp": 12,
+            "angriff": 7,
+            "verteidigung": 2,
+            "bild": "/images/enemies/gigasproing.webp"
+          }
+        ]
+      },
+      {
+        "id": 86,
+        "etage": 86,
+        "gegner": [
+          {
+            "name": "Gigasproing",
+            "kp": 12,
+            "angriff": 7,
+            "verteidigung": 2,
+            "bild": "/images/enemies/gigasproing.webp"
+          }
+        ]
+      },
+      {
+        "id": 87,
+        "etage": 87,
+        "gegner": [
+          {
+            "name": "Schwarzer Dornhart",
+            "kp": 8,
+            "angriff": 8,
+            "verteidigung": 4,
+            "bild": "/images/enemies/schwarzer_dornhart.webp"
+          }
+        ]
+      },
+      {
+        "id": 88,
+        "etage": 88,
+        "gegner": [
+          {
+            "name": "Grottenfadula",
+            "kp": 16,
+            "angriff": 7,
+            "verteidigung": 0,
+            "bild": "/images/enemies/grottenfadula.webp"
+          }
+        ]
+      },
+      {
+        "id": 89,
+        "etage": 89,
+        "gegner": [
+          {
+            "name": "Killer-Piranha",
+            "kp": 15,
+            "angriff": 9,
+            "verteidigung": 0,
+            "bild": "/images/enemies/killer-piranha.webp"
+          }
+        ]
+      },
+      {
+        "id": 91,
+        "etage": 91,
+        "gegner": [
+          {
+            "name": "Weißer Magi-Mech",
+            "kp": 12,
+            "angriff": 8,
+            "verteidigung": 5,
+            "bild": "/images/enemies/weisser_magi-mech.webp"
+          },
+          {
+            "name": "Susel Wusel",
+            "kp": 20,
+            "angriff": 20,
+            "verteidigung": 1,
+            "bild": "/images/enemies/susel_wusel.webp"
+          }
+        ]
+      },
+      {
+        "id": 92,
+        "etage": 92,
+        "gegner": [
+          {
+            "name": "Stink-Schnuff",
+            "kp": 15,
+            "angriff": 8,
+            "verteidigung": 0,
+            "bild": "/images/enemies/stink-schnuff.webp"
+          },
+          {
+            "name": "Susel Wusel",
+            "kp": 20,
+            "angriff": 20,
+            "verteidigung": 1,
+            "bild": "/images/enemies/susel_wusel.webp"
+          }
+        ]
+      },
+      {
+        "id": 93,
+        "etage": 93,
+        "gegner": [
+          {
+            "name": "Megab-omb",
+            "kp": 10,
+            "angriff": 4,
+            "verteidigung": 2,
+            "bild": "/images/enemies/megab-omb.webp"
+          },
+          {
+            "name": "Susel Wusel",
+            "kp": 20,
+            "angriff": 20,
+            "verteidigung": 1,
+            "bild": "/images/enemies/susel_wusel.webp"
+          }
+        ]
+      },
+      {
+        "id": 94,
+        "etage": 94,
+        "gegner": [
+          {
+            "name": "Swooperatu",
+            "kp": 20,
+            "angriff": 6,
+            "verteidigung": 0,
+            "bild": "/images/enemies/swooperatu.webp"
+          },
+          {
+            "name": "Susel Wusel",
+            "kp": 20,
+            "angriff": 20,
+            "verteidigung": 1,
+            "bild": "/images/enemies/susel_wusel.webp"
+          }
+        ]
+      },
+      {
+        "id": 95,
+        "etage": 95,
+        "gegner": [
+          {
+            "name": "Weißer Magi-Mech",
+            "kp": 12,
+            "angriff": 8,
+            "verteidigung": 5,
+            "bild": "/images/enemies/weisser_magi-mech.webp"
+          },
+          {
+            "name": "Susel Wusel",
+            "kp": 20,
+            "angriff": 20,
+            "verteidigung": 1,
+            "bild": "/images/enemies/susel_wusel.webp"
+          }
+        ]
+      },
+      {
+        "id": 96,
+        "etage": 96,
+        "gegner": [
+          {
+            "name": "Stink-Schnuff",
+            "kp": 15,
+            "angriff": 8,
+            "verteidigung": 0,
+            "bild": "/images/enemies/stink-schnuff.webp"
+          },
+          {
+            "name": "Susel Wusel",
+            "kp": 20,
+            "angriff": 20,
+            "verteidigung": 1,
+            "bild": "/images/enemies/susel_wusel.webp"
+          }
+        ]
+      },
+      {
+        "id": 97,
+        "etage": 97,
+        "gegner": [
+          {
+            "name": "Megab-omb",
+            "kp": 10,
+            "angriff": 4,
+            "verteidigung": 2,
+            "bild": "/images/enemies/megab-omb.webp"
+          },
+          {
+            "name": "Susel Wusel",
+            "kp": 20,
+            "angriff": 20,
+            "verteidigung": 1,
+            "bild": "/images/enemies/susel_wusel.webp"
+          }
+        ]
+      },
+      {
+        "id": 98,
+        "etage": 98,
+        "gegner": [
+          {
+            "name": "Swooperatu",
+            "kp": 20,
+            "angriff": 6,
+            "verteidigung": 0,
+            "bild": "/images/enemies/swooperatu.webp"
+          },
+          {
+            "name": "Susel Wusel",
+            "kp": 20,
+            "angriff": 20,
+            "verteidigung": 1,
+            "bild": "/images/enemies/susel_wusel.webp"
+          }
+        ]
+      },
+      {
+        "id": 99,
+        "etage": 99,
+        "gegner": [
+          {
+            "name": "Weißer Magi-Mech",
+            "kp": 12,
+            "angriff": 8,
+            "verteidigung": 5,
+            "bild": "/images/enemies/weisser_magi-mech.webp"
+          },
+          {
+            "name": "Susel Wusel",
+            "kp": 20,
+            "angriff": 20,
+            "verteidigung": 1,
+            "bild": "/images/enemies/susel_wusel.webp"
+          }
+        ]
+      },
+      {
+        "id": 100,
+        "etage": 100,
+        "gegner": [
+          {
+            "name": "Lohviata",
+            "kp": 200,
+            "angriff": 8,
+            "verteidigung": 2,
+            "bild": "/images/enemies/lohviata.webp"
+          }
+        ]
+      }
+]

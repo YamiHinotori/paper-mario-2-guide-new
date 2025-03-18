@@ -1,0 +1,230 @@
+[
+    {
+        "id": 1,
+        "name": "Bratpilz",
+        "anzahl": 1,
+        "bild": "/images/items/bratpilz.png"
+    },
+    {
+        "id": 2,
+        "name": "Coco-Wumm",
+        "anzahl": 1,
+        "bild": "/images/items/coco-wumm.png"
+    },
+    {
+        "id": 3,
+        "name": "Eierbombe",
+        "anzahl": 1,
+        "bild": "/images/items/eierbombe.png"
+    },
+    {
+        "id": 4,
+        "name": "Eishase",
+        "anzahl": 1,
+        "bild": "/images/items/eishase.png"
+    },
+    {
+        "id": 5,
+        "name": "Giftpilz",
+        "anzahl": 1,
+        "bild": "/images/items/giftpilz.png"
+    },
+    {
+        "id": 6,
+        "name": "Mangocreme",
+        "anzahl": 1,
+        "bild": "/images/items/mangocreme.png"
+    },
+    {
+        "id": 7,
+        "name": "Paarmahl",
+        "anzahl": 1,
+        "bild": "/images/items/paarmahl.png"
+    },
+    {
+        "id": 8,
+        "name": "Pfeffersuppe",
+        "anzahl": 1,
+        "bild": "/images/items/pfeffersuppe.png"
+    },
+    {
+        "id": 9,
+        "name": "Reisgericht",
+        "anzahl": 1,
+        "bild": "/images/items/reisgericht.png"
+    },
+    {
+        "id": 10,
+        "name": "Tintensaft",
+        "anzahl": 3,
+        "bild": "/images/items/tintensaft.png"
+    },
+    {
+        "id": 11,
+        "name": "Ahorn-Sirup",
+        "anzahl": 4,
+        "bild": "/images/items/ahorn-sirup.png"
+    },
+    {
+        "id": 12,
+        "name": "Backmischung",
+        "anzahl": 14,
+        "bild": "/images/items/backmischung.png"
+    },
+    {
+        "id": 13,
+        "name": "Bubu-Ei",
+        "anzahl": 5,
+        "bild": "/images/items/bubu-ei.png"
+    },
+    {
+        "id": 14,
+        "name": "Eishauch",
+        "anzahl": 3,
+        "bild": "/images/items/eishauch.png"
+    },
+    {
+        "id": 15,
+        "name": "Feuerblume",
+        "anzahl": 4,
+        "bild": "/images/items/feuerblume.png"
+    },
+    {
+        "id": 16,
+        "name": "Feuersoße",
+        "anzahl": 5,
+        "bild": "/images/items/feuersosse.png"
+    },
+    {
+        "id": 17,
+        "name": "Gelee Royal",
+        "anzahl": 4,
+        "bild": "/images/items/gelee_royal.png"
+    },
+    {
+        "id": 18,
+        "name": "Goldblatt",
+        "anzahl": 5,
+        "bild": "/images/items/goldblatt.png"
+    },
+    {
+        "id": 19,
+        "name": "Hartpanzer",
+        "anzahl": 6,
+        "bild": "/images/items/hartpanzer.png"
+    },
+    {
+        "id": 20,
+        "name": "Honig-Sirup",
+        "anzahl": 6,
+        "bild": "/images/items/honig-sirup.png"
+    },
+    {
+        "id": 21,
+        "name": "Kokosnuss",
+        "anzahl": 2,
+        "bild": "/images/items/kokosnuss.png"
+    },
+    {
+        "id": 22,
+        "name": "Koopa-Blatt",
+        "anzahl": 7,
+        "bild": "/images/items/koopa-blatt.png"
+    },
+    {
+        "id": 23,
+        "name": "Mango",
+        "anzahl": 4,
+        "bild": "/images/items/mango.png"
+    },
+    {
+        "id": 24,
+        "name": "Pfirsich",
+        "anzahl": 2,
+        "bild": "/images/items/pfirsich.png"
+    },
+    {
+        "id": 25,
+        "name": "Pilz",
+        "anzahl": 7,
+        "bild": "/images/items/pilz.png"
+    },
+    {
+        "id": 26,
+        "name": "Power-Pasta",
+        "anzahl": 4,
+        "bild": "/images/items/power-pasta.png"
+    },
+    {
+        "id": 27,
+        "name": "Saures Tonic",
+        "anzahl": 1,
+        "bild": "/images/items/saures_tonic.png"
+    },
+    {
+        "id": 28,
+        "name": "Sternenwind",
+        "anzahl": 1,
+        "bild": "/images/items/sternenwind.png"
+    },
+    {
+        "id": 29,
+        "name": "Super-Pilz",
+        "anzahl": 3,
+        "bild": "/images/items/super-pilz.png"
+    },
+    {
+        "id": 30,
+        "name": "Trockenblume",
+        "anzahl": 1,
+        "bild": "/images/items/trockenblume.png"
+    },
+    {
+        "id": 31,
+        "name": "Tropfpilz",
+        "anzahl": 4,
+        "bild": "/images/items/tropfpilz.png"
+    },
+    {
+        "id": 32,
+        "name": "Tropfsirup",
+        "anzahl": 1,
+        "bild": "/images/items/tropfsirup.png"
+    },
+    {
+        "id": 33,
+        "name": "Ultra-Pilz",
+        "anzahl": 5,
+        "bild": "/images/items/ultra-pilz.png"
+    },
+    {
+        "id": 34,
+        "name": "Verwirrpulver",
+        "anzahl": 1,
+        "bild": "/images/items/verwirrpulver.png"
+    },
+    {
+        "id": 35,
+        "name": "Voltopilz",
+        "anzahl": 1,
+        "bild": "/images/items/voltopilz.png"
+    },
+    {
+        "id": 36,
+        "name": "Whackas Kick",
+        "anzahl": 1,
+        "bild": "/images/items/whackas_kick.png"
+    },
+    {
+        "id": 37,
+        "name": "Wurzel",
+        "anzahl": 3,
+        "bild": "/images/items/wurzel.png"
+    },
+    {
+        "id": 38,
+        "name": "Hotdog",
+        "anzahl": 3,
+        "bild": "/images/items/hotdog.png"
+    }
+]

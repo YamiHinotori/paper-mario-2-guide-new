@@ -1,0 +1,422 @@
+[
+    {
+      "id": 1,
+      "ort": "Rohlingen Mitte",
+      "items": [
+        {
+          "name": "Pilz",
+          "bild": "/images/items/pilz.png",
+          "beschreibung": "Ein normaler Pilz. Stellt 5 KP wieder her.",
+          "preis": 5
+        },
+        {
+          "name": "Honig-Sirup",
+          "bild": "/images/items/honig-sirup.png",
+          "beschreibung": "Süßer Sirup. Stellt 5 BP wieder her.",
+          "preis": 5
+        },
+        {
+          "name": "Saures Tonic",
+          "bild": "/images/items/saures_tonic.png",
+          "beschreibung": "Ein sehr saures Tonic. Wirkt gegen Gift unnd Schrumpfung.",
+          "preis": 3
+        },
+        {
+          "name": "Feuerblume",
+          "bild": "/images/items/feuerblume.png",
+          "beschreibung": "Feuerangriff gegen alle Gegner. Angriffskraft: 3",
+          "preis": 10
+        },
+        {
+          "name": "Schäfchen",
+          "bild": "/images/items/schaefchen.png",
+          "beschreibung": "Versetzt alle Gegner in tiefen Schlaf. Bäh-äh!",
+          "preis": 8
+        },
+        {
+          "name": "Furcht-Tiegel",
+          "bild": "/images/items/furcht-tiegel.png",
+          "beschreibung": "Ruft einen Geist herbei, der die Gegner verjagt.",
+          "preis": 5
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "ort": "Rohlingen Westend",
+      "items": [
+        {
+          "name": "Donnerblitz",
+          "bild": "/images/items/donnerblitz.png",
+          "beschreibung": "Blitzschlag gegen einen Gegner. Angriffskraft: 5",
+          "preis": 10
+        },
+        {
+          "name": "Schwirrwarr",
+          "bild": "/images/items/schwirrwarr.png",
+          "beschreibung": "Macht Gegner schwindelig und lähmt sie eventuell.",
+          "preis": 12
+        },
+        {
+          "name": "Lebenspilz",
+          "bild": "/images/items/lebenspilz.png",
+          "beschreibung": "Stellt 10 KP her, wenn Mario oder Partner besiegt wurde.",
+          "preis": 50
+        },
+        {
+          "name": "Trockenpilz",
+          "bild": "/images/items/trockenpilz.png",
+          "beschreibung": "Ein sehr trockener Pilz. Stellt 1 KP wieder her.",
+          "preis": 2
+        },
+        {
+          "name": "Voltopilz",
+          "bild": "/images/items/voltopilz.png",
+          "beschreibung": "Lädt elektrisch auf. Angreifer müssen leiden.",
+          "preis": 10
+        },
+        {
+          "name": "Super-Pilz",
+          "bild": "/images/items/super-pilz.png",
+          "beschreibung": "Ein wahrer Super-Pilz. Stellt 10 KP wieder her.",
+          "preis": 20
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "ort": "Katakomben",
+      "items": [
+        {
+          "name": "Tropfpilz",
+          "bild": "/images/items/tropfpilz.png",
+          "beschreibung": "Ein Pilz, der für eine Weile die KP ansteigen lässt.",
+          "preis": 15
+        },
+        {
+          "name": "Tropfsirup",
+          "bild": "/images/items/tropfsirup.png",
+          "beschreibung": "Ein Sirup, der für eine Weile die BP ansteigen lässt.",
+          "preis": 15
+        },
+        {
+          "name": "Ultra-Pilz",
+          "bild": "/images/items/ultra-pilz.png",
+          "beschreibung": "Ein ultrafeiner Pilz. Stellt 50 KP wieder her.",
+          "preis": 200
+        },
+        {
+          "name": "Gelee Royal",
+          "bild": "/images/items/gelee_royal.png",
+          "beschreibung": "Nahrhafter Snack. Stellt 50 BP wieder her.",
+          "preis": 200
+        },
+        {
+          "name": "Goldbarren",
+          "bild": "/images/items/goldbarren.png",
+          "beschreibung": "Ein Goldbarren.",
+          "preis": 110
+        },
+        {
+          "name": "Goldschatz",
+          "bild": "/images/items/goldschatz.png",
+          "beschreibung": "Drei Goldbarren.",
+          "preis": 330
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "ort": "Blütenweiler",
+      "items": [
+        {
+          "name": "Feuerblume",
+          "bild": "/images/items/feuerblume.png",
+          "beschreibung": "Feuerangriff gegen alle Gegner. Angriffskraft: 3",
+          "preis": 8
+        },
+        {
+          "name": "POW-Block",
+          "bild": "/images/items/pow-block.png",
+          "beschreibung": "2 Punkte Schaden gegen alle Gegner. Haut Schalentiere um.",
+          "preis": 5
+        },
+        {
+          "name": "Hartpanzer",
+          "bild": "/images/items/hartpanzer.png",
+          "beschreibung": "Macht härter und erhöht die Verteidigungskraft.",
+          "preis": 5
+        },
+        {
+          "name": "Schlaffikator",
+          "bild": "/images/items/schlaffikator.png",
+          "beschreibung": "Macht Gegner schlaff und senkt ihre Abwehrkraft.",
+          "preis": 8
+        },
+        {
+          "name": "Honig-Sirup",
+          "bild": "/images/items/honig-sirup.png",
+          "beschreibung": "Süßer Sirup. Stellt 5 BP wieder her.",
+          "preis": 5
+        },
+        {
+          "name": "Pilz",
+          "bild": "/images/items/pilz.png",
+          "beschreibung": "Ein normaler Pilz. Stellt 5 KP wieder her.",
+          "preis": 4
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "ort": "Großer Baum",
+      "items": [
+        {
+          "name": "KP-Schlürfer",
+          "bild": "/images/items/kp-schluerfer.png",
+          "beschreibung": "Angriffskraft 5. Anwender-KP steigen um diesen Wert.",
+          "preis": 10
+        },
+        {
+          "name": "Eishauch",
+          "bild": "/images/items/eishauch.png",
+          "beschreibung": "Schneesturm und Frost treffen alle Gegner. Angriffskraft: 3",
+          "preis": 15
+        },
+        {
+          "name": "Mysterium?",
+          "bild": "/images/items/mysterium.png",
+          "beschreibung": "Was es bewirkt? Keine Ahnung! Finde es heraus!",
+          "preis": 3
+        },
+        {
+          "name": "Schrumpfer",
+          "bild": "/images/items/schrumpfer.png",
+          "beschreibung": "Lässt Gegner schrumpfen und schwächt ihre Angriffskraft.",
+          "preis": 8
+        },
+        {
+          "name": "Honig-Sirup",
+          "bild": "/images/items/honig-sirup.png",
+          "beschreibung": "Süßer Sirup. Stellt 5 BP wieder her.",
+          "preis": 5
+        },
+        {
+          "name": "Pilz",
+          "bild": "/images/items/pilz.png",
+          "beschreibung": "Ein normaler Pilz. Stellt 5 KP wieder her.",
+          "preis": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "ort": "Falkenheim",
+      "items": [
+        {
+          "name": "Wutbeben",
+          "bild": "/images/items/wutbeben.png",
+          "beschreibung": "Erdbeben trifft alle Boden- und Deckengegner. Angriffskraft: 5",
+          "preis": 15
+        },
+        {
+          "name": "Donnerblitz",
+          "bild": "/images/items/donnerblitz.png",
+          "beschreibung": "Blitzschlag gegen einen Gegner. Angriffskraft: 5",
+          "preis": 12
+        },
+        {
+          "name": "Kraft-Punsch",
+          "bild": "/images/items/kraftpunsch.png",
+          "beschreibung": "Macht größer und erhöht die Angriffskraft.",
+          "preis": 15
+        },
+        {
+          "name": "Tarn-Cape",
+          "bild": "/images/items/tarn-cape.png",
+          "beschreibung": "Lässt gegnerische Angriffe öfter daneben gehen.",
+          "preis": 15
+        },
+        {
+          "name": "Punktetausch",
+          "bild": "/images/items/punktetausch.png",
+          "beschreibung": "Tauscht KP gegen BP. Beachte die Höchstwerte.",
+          "preis": 5
+        },
+        {
+          "name": "Super-Pilz",
+          "bild": "/images/items/super-pilz.png",
+          "beschreibung": "Ein wahrer Super-Pilz. Stellt 10 KP wieder her.",
+          "preis": 15
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "ort": "Düsterdorf",
+      "items": [
+        {
+          "name": "Donnerzorn",
+          "bild": "/images/items/donnerzorn.png",
+          "beschreibung": "Blitzschlag gegen alle Gegner. Angriffskraft: 5",
+          "preis": 20
+        },
+        {
+          "name": "Rachepulver",
+          "bild": "/images/items/rachepulver.png",
+          "beschreibung": "Den halben Schaden erleidet der Angreifende.",
+          "preis": 10
+        },
+        {
+          "name": "Stoppuhr",
+          "bild": "/images/items/stoppuhr.png",
+          "beschreibung": "Paralysiert alle Gegner. ...Wenn es funktioniert.",
+          "preis": 30
+        },
+        {
+          "name": "Ahorn-Sirup",
+          "bild": "/images/items/ahorn-sirup.png",
+          "beschreibung": "Köstlicher Sirup. Stellt 10 BP wieder her.",
+          "preis": 20
+        },
+        {
+          "name": "Super-Pilz",
+          "bild": "/images/items/super-pilz.png",
+          "beschreibung": "Ein wahrer Super-Pilz. Stellt 10 KP wieder her.",
+          "preis": 15
+        },
+        {
+          "name": "Lebenspilz",
+          "bild": "/images/items/lebenspilz.png",
+          "beschreibung": "Stellt 10 KP her, wenn Mario oder Partner besiegt wurde.",
+          "preis": 40
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "ort": "Isla Corsaria",
+      "items": [
+        {
+          "name": "Eishauch",
+          "bild": "/images/items/eishauch.png",
+          "beschreibung": "Schneesturm und Frost treffen alle Gegner. Angriffskraft: 3",
+          "preis": 15
+        },
+        {
+          "name": "Feuerblume",
+          "bild": "/images/items/feuerblume.png",
+          "beschreibung": "Feuerangriff gegen alle Gegner. Angriffskraft: 3",
+          "preis": 5
+        },
+        {
+          "name": "Schäfchen",
+          "bild": "/images/items/schaefchen.png",
+          "beschreibung": "Versetzt alle Gegner in tiefen Schlaf. Bäh-äh!",
+          "preis": 10
+        },
+        {
+          "name": "Furcht-Tiegel",
+          "bild": "/images/items/furcht-tiegel.png",
+          "beschreibung": "Ruft einen Geist herbei, der die Gegner verjagt.",
+          "preis": 2
+        },
+        {
+          "name": "Honig-Sirup",
+          "bild": "/images/items/honig-sirup.png",
+          "beschreibung": "Süßer Sirup. Stellt 5 BP wieder her.",
+          "preis": 3
+        },
+        {
+          "name": "Super-Pilz",
+          "bild": "/images/items/super-pilz.png",
+          "beschreibung": "Ein wahrer Super-Pilz. Stellt 10 KP wieder her.",
+          "preis": 12
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "ort": "Glimmer-Liner",
+      "items": [
+        {
+          "name": "Donnerzorn",
+          "bild": "/images/items/donnerzorn.png",
+          "beschreibung": "Blitzschlag gegen alle Gegner. Angriffskraft: 5",
+          "preis": 15
+        },
+        {
+          "name": "Mysterium?",
+          "bild": "/images/items/mysterium.png",
+          "beschreibung": "Was es bewirkt? Keine Ahnung! Finde es heraus!",
+          "preis": 3
+        },
+        {
+          "name": "Buu-Laken",
+          "bild": "/images/items/buu-laken.png",
+          "beschreibung": "Macht körperlos und unangreifbar.",
+          "preis": 30
+        },
+        {
+          "name": "Saures Tonic",
+          "bild": "/images/items/saures_tonic.png",
+          "beschreibung": "Ein sehr saures Tonic. Wirkt gegen Gift unnd Schrumpfung.",
+          "preis": 3
+        },
+        {
+          "name": "Ahorn-Sirup",
+          "bild": "/images/items/ahorn-sirup.png",
+          "beschreibung": "Köstlicher Sirup. Stellt 10 BP wieder her.",
+          "preis": 15
+        },
+        {
+          "name": "Super-Pilz",
+          "bild": "/images/items/super-pilz.png",
+          "beschreibung": "Ein wahrer Super-Pilz. Stellt 10 KP wieder her.",
+          "preis": 15
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "ort": "Großfrostheim",
+      "items": [
+        {
+          "name": "Sternenwind",
+          "bild": "/images/items/sternenwind.png",
+          "beschreibung": "Sternenschnuppen-Hagel gegen alle Gegner. Angriffskraft: 6",
+          "preis": 30
+        },
+        {
+          "name": "Eishauch",
+          "bild": "/images/items/eishauch.png",
+          "beschreibung": "Schneesturm und Frost treffen alle Gegner. Angriffskraft: 3",
+          "preis": 6
+        },
+        {
+          "name": "Verwirrpulver",
+          "bild": "/images/items/verwirrpulver.png",
+          "beschreibung": "Verwirrt Marios Gegner: Ihre Angriffe gehen eher daneben.",
+          "preis": 15
+        },
+        {
+          "name": "Stoppuhr",
+          "bild": "/images/items/stoppuhr.png",
+          "beschreibung": "Paralysiert alle Gegner. ...Wenn es funktioniert.",
+          "preis": 12
+        },
+        {
+          "name": "Ahorn-Sirup",
+          "bild": "/images/items/ahorn-sirup.png",
+          "beschreibung": "Köstlicher Sirup. Stellt 10 BP wieder her.",
+          "preis": 20
+        },
+        {
+          "name": "Super-Pilz",
+          "bild": "/images/items/super-pilz.png",
+          "beschreibung": "Ein wahrer Super-Pilz. Stellt 10 KP wieder her.",
+          "preis": 15
+        }
+      ]
+    }
+  ]

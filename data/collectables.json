@@ -1,0 +1,752 @@
+[
+    {
+        "chapter": 1,
+        "items": [
+            {
+                "typ": "sternsplitter",
+                "ort": "Rohlingen",
+                "beschreibung": "Im Zentrum vor der Kiste, die sich vor dem rechten Zaun befindet."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Rohlingen",
+                "beschreibung": "Im Zentrum auf dem Dach von Racle T."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Rohlingen",
+                "beschreibung": "Im Zentrum in der Hintergasse im Haus des Banditen."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Rohlingen",
+                "beschreibung": "Im Ostend auf der Kiste hinter der Mauer bei Merlin."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Katakomben",
+                "beschreibung": "Hinter der Säule bei Funkelbart."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Katakomben",
+                "beschreibung": "Hinter dem großen gelben Block."
+            }
+        ]
+    },
+    {
+        "chapter": 2,
+        "items": [
+            {
+                "typ": "sternsplitter",
+                "ort": "Feuertal",
+                "beschreibung": "Im linken Baum hinter der Röhre."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Feuertal",
+                "beschreibung": "Im Hintergrund bei der Brücke."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Pfad zur Geröllburg",
+                "beschreibung": "Im ersten Abschnitt im oberen Busch."
+            },
+            {
+                "typ": "insignie",
+                "ort": "Lohgards Burg",
+                "beschreibung": "Im dritten Raum an der hinteren Wand."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Lohgards Burg",
+                "beschreibung": "Bei den beweglichen Blöcken den violetten hochfahren."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Lohgards Burg",
+                "beschreibung": "Bei den beweglichen Blöcken den gelben hochfahren."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Lohgards Burg",
+                "beschreibung": "Durch das Fenster springen und nach rechts gehen."
+            },
+            {
+                "typ": "insignie",
+                "ort": "Lohgards Burg",
+                "beschreibung": "Im Raum wo man Nagerine trifft."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Lohgards Burg",
+                "beschreibung": "Im Raum mit der Flugplattform hochfahren und hinten durch das Gitter gehen."
+            },
+            {
+                "typ": "insignie",
+                "ort": "Katakomben",
+                "beschreibung": "Am Äonentor oben auf der Plattform."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Katakomben",
+                "beschreibung": "Hinter der Treppe, beim Eingang zum Duellkerker."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Rohlingen",
+                "beschreibung": "Im Ostend hinter dem Fass hinter der Ritze zwischen Job-Agentur und Bart-ombs Haus."
+            },
+            {
+                "typ": "insignie",
+                "ort": "Lohgards Burg",
+                "beschreibung": "Im Treppenhaus ganz oben an der hinteren Wand."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Rohlingen",
+                "beschreibung": "Im Westend hinter der Mauer ganz rechts beim Eingang zum Zentrum."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Rohlingen",
+                "beschreibung": "Im Westend hinter der großen Röhre."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Rohlingen",
+                "beschreibung": "Im Westend beim Item-Laden hinter der Mülltonne."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Katakomben",
+                "beschreibung": "In der Verlorenen Stadt im Westen hinter der Säule."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Katakomben",
+                "beschreibung": "In der Verlorenen Stadt hinter der zerbrochenen Säule unten rechts."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Katakomben",
+                "beschreibung": "Durch den Gully hinter der rechten Wand."
+            }
+        ]
+    },
+    {
+        "chapter": 3,
+        "items": [
+            {
+                "typ": "sternsplitter",
+                "ort": "Wunderwald",
+                "beschreibung": "Im Raum mit der großen Röhre hinten bei den Bäumen ganz links."
+            },
+            {
+                "typ": "insignie",
+                "ort": "Wunderwald",
+                "beschreibung": "Im Raum mit der großen Röhre von der Fliegerrampe aus mit Koopio erreichbar."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Wunderwald",
+                "beschreibung": "Im Raum vor Aeronas Haus im 3. Baum."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Wunderwald",
+                "beschreibung": "Vor Aeronas Haus hinter dem linken Ende des Gartenzauns."
+            },
+            {
+                "typ": "insignie",
+                "ort": "Großer Baum",
+                "beschreibung": "Im Raum mit den Seifenblasen unten."
+            },
+            {
+                "typ": "insignie",
+                "ort": "Großer Baum",
+                "beschreibung": "Im Raum unter dem Raum mit den Seifenblasen das Ding mit Aerona wegpusten."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Großer Baum",
+                "beschreibung": "Im Raum neben dem Laden im großen Gras."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Großer Baum",
+                "beschreibung": "Links neben dem Raum, wo die Bubus erneut gefangen genommen werden, hinter der Röhre."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Großer Baum",
+                "beschreibung": "Im Raum mit dem Passwort hinter der Röhre."
+            },
+            {
+                "typ": "insignie",
+                "ort": "Großer Baum",
+                "beschreibung": "Im Raum unter dem Raum mit den Symbolen auf dem Podest."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Großer Baum",
+                "beschreibung": "Im Raum mit dem ersten Bubu 10er Podest nach rechts und eine Stampfattacke einsetzen."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Großer Baum",
+                "beschreibung": "Im Raum mit dem blauen Käfig ist eine Stampfplatte."
+            },
+            {
+                "typ": "insignie",
+                "ort": "Großer Baum",
+                "beschreibung": "Im Raum in dem man das Wasser abgelassen hat."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Großer Baum",
+                "beschreibung": "Im Raum nach dem Grund des Baumes im Busch unten links."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Aeronas Haus",
+                "beschreibung": "Im Nebenzimmer ist eine Stampfplatte."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Katakomben",
+                "beschreibung": "Vor der Röhre zum Wunderwald ist eine Stampfplatte."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Katakomben",
+                "beschreibung": "Im Raum der ersten schwarzen Truhe ist eine Stampfplatte."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Katakomben",
+                "beschreibung": "Vor dem Schrein des Äonentors weiter unten ist eine Stampfplatte."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Rohlingen",
+                "beschreibung": "Im Ostend vor Professor Gumbarths Haus ist eine Stampfplatte."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Katakomben",
+                "beschreibung": "Dort, wo man zum ersten Mal gegen Gumbas gekämpft hat, ist eine Stampfplatte."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Rohlingen",
+                "beschreibung": "Im Zentrum in der Hintergasse hinter Racle T.s Haus ist eine Stampfplatte."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Rohlingen",
+                "beschreibung": "Im Zentrum vor dem Galgen ist eine Stampfplatte."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Rohlingen",
+                "beschreibung": "Am Hafen neben der Treppe vor der Mauer ist eine Stampfplatte."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Rohlingen",
+                "beschreibung": "Im Westend vor dem Casino ist eine Stampfplatte."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Katakomben",
+                "beschreibung": "In der Verlorenen Stadt in der Bar ist eine Stampfplatte."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Rohlingen",
+                "beschreibung": "Am Bahnhof ganz am Ende links ist eine Stampfplatte."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Rohlingen",
+                "beschreibung": "Am Bahnhof bei der Röhre ist eine Stampfplatte."
+            }
+        ]
+    },
+    {
+        "chapter": 4,
+        "items": [
+            {
+                "typ": "sternsplitter",
+                "ort": "Falkenheim",
+                "beschreibung": "In der Stadt vor dem Landeplatz ist eine Stampfplatte."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Falkenheim",
+                "beschreibung": "In der Stadt hinter der Telefonzelle."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Falkenheim",
+                "beschreibung": "In der Stadt hinter dem Tresen der Bar."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Falkenheim",
+                "beschreibung": "In der Stadt hinter der Sprungfeder auf dem Dach."
+            },
+            {
+                "typ": "insignie",
+                "ort": "Falkenheim",
+                "beschreibung": "In der Stadt rechts vom Eingang zur Arena."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Falkenheim",
+                "beschreibung": "In der Stadt hinter dem rechten Busch vor der Arena."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Falkenheim",
+                "beschreibung": "In der Arena im Empfangssaal neben der linken Treppe ist eine Stampfplatte."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Falkenheim",
+                "beschreibung": "Im Büro hinter der linken Pflanze."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Falkenheim",
+                "beschreibung": "Im 1. Lagerraum vor der Tür ist eine Stampfplatte."
+            },
+            {
+                "typ": "insignie",
+                "ort": "Falkenheim",
+                "beschreibung": "Im Lager auf der oberen Etage."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Falkenheim",
+                "beschreibung": "Im Lagerraum oben im Raum rechts hinter der kleinen Kiste."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Falkenheim",
+                "beschreibung": "Im Büro in der rechten Schublade."
+            },
+            {
+                "typ": "insignie",
+                "ort": "Katakomben",
+                "beschreibung": "Im raum unter dem Gully links mit Yoshi erreichbar."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Katakomben",
+                "beschreibung": "Im Raum unter dem Gully im Hintergrund."
+            },
+            {
+                "typ": "insignie",
+                "ort": "Katakomben",
+                "beschreibung": "Im ersten Röhren-Raum."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Blütenweiler",
+                "beschreibung": "Östlich vor dem Tor ist eine Stampfplatte."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Blütenweiler",
+                "beschreibung": "Auf der Insel mit dem Knospi ist eine Stampfplatte."
+            }
+        ]
+    },
+    {
+        "chapter": 5,
+        "items": [
+            {
+                "typ": "sternsplitter",
+                "ort": "Düsterdorf",
+                "beschreibung": "Im Westen der Stadt hinter dem ersten Haus von links."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Düsterdorf",
+                "beschreibung": "Im Westen der Stadt im Busch unten links beim Baum."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Düsterdorf",
+                "beschreibung": "Im Osten der Stadt hinter dem Fass am Baum, der am Zaun wächst."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Düsterweg",
+                "beschreibung": "Hinter dem Baum."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Düsterweg",
+                "beschreibung": "Hinter der Röhre."
+            },
+            {
+                "typ": "insignie",
+                "ort": "Düsterweg",
+                "beschreibung": "Im dritten Raum ganz rechts hinter dem Baum."
+            },
+            {
+                "typ": "insignie",
+                "ort": "Spukabtei",
+                "beschreibung": "Im Brunnen im ersten Raum."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Spukabtei",
+                "beschreibung": "Hinter der Mauer nebem dem Gitter vor der Spukabtei."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Spukabtei",
+                "beschreibung": "Hinter dem rose Stühlchen im Abstellraum."
+            },
+            {
+                "typ": "insignie",
+                "ort": "Spukabtei",
+                "beschreibung": "Im Abstellraum."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Spukabtei",
+                "beschreibung": "Bei der Treppe ist eine Stampfplatte."
+            },
+            {
+                "typ": "insignie",
+                "ort": "Spukabtei",
+                "beschreibung": "Nachdem man den Brunnen durchquert hat.s"
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Spukabtei",
+                "beschreibung": "Hinter den Fenstern ganz rechts im unterirdischen Gang."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Spukabtei",
+                "beschreibung": "Im Raum mit dem Papagei unten rechts ist eine Stampfplatte."
+            },
+            {
+                "typ": "insignie",
+                "ort": "Rohlingen",
+                "beschreibung": "Im Westend im Haus des Dichters durch das Loch rollen."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Rohlingen",
+                "beschreibung": "Im Ostend mit Yoshi über das Wasser beim Haus von Loranzo segeln. Auf dem Dach ist eine Stampfplatte."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Rohlingen",
+                "beschreibung": "Im Ostend mit Yoshi über das Wasser beim Haus von Loranzo segeln. Auf dem Dach hinter dem Schornstein."
+            },
+            {
+                "typ": "insignie",
+                "ort": "Rohlingen",
+                "beschreibung": "Im Ostend mit Yoshi über das Wasser beim Haus von Loranzo segeln. Auf dem Dach im Hintergrund."
+            },
+            {
+                "typ": "insignie",
+                "ort": "Rohlingen",
+                "beschreibung": "Im Ostend in Bart-Ombs Haus im Hinterzimmer."
+            },
+            {
+                "typ": "insignie",
+                "ort": "Rohlingen",
+                "beschreibung": "Im Ostend auf einem kleinen Abschnitt jenseits des Flusses."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Lohgards Burg",
+                "beschreibung": "Im 2ten Raum nach der Brückenüberquerung hinter den Käfigstäben ganz links ist eine Stampfplatte."
+            }
+        ]
+    },
+    {
+        "chapter": 6,
+        "items": [
+            {
+                "typ": "sternsplitter",
+                "ort": "Isla Corsaria",
+                "beschreibung": "An der Küste oberhalb des Weges zum Dorf ist eine Stampfplatte."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Isla Corsaria",
+                "beschreibung": "In der unteren Ecke vom Wasser, das vor dem Dorf fließt."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Isla Corsaria",
+                "beschreibung": "Gamz am Ende des Dorfes hinter dem Felsen."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Isla Corsaria",
+                "beschreibung": "Im ersten Busch im Urwald."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Isla Corsaria",
+                "beschreibung": "Hinter dem unteren Geäst im Dschungel bei den Piranha Pflanzen."
+            },
+            {
+                "typ": "insignie",
+                "ort": "Isla Corsaria",
+                "beschreibung": "Im Raum mit den Piranha Pflanzen auf der obersten Anhöhe."
+            },
+            {
+                "typ": "insignie",
+                "ort": "Isla Corsaria",
+                "beschreibung": "Im Raum mit der Brücke rechts hinter den Bäumen."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Isla Corsaria",
+                "beschreibung": "Ganz rechts hinter dem kleinen Felsen im tiefen Dschungel."
+            },
+            {
+                "typ": "insignie",
+                "ort": "Piratenhöhle",
+                "beschreibung": "Im zweiten Raum nach Betreten der Höhle auf dem halb versunkenen Schiff."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Piratenhöhle",
+                "beschreibung": "Auf der Insel im zweiten Raum."
+            },
+            {
+                "typ": "insignie",
+                "ort": "Piratenhöhle",
+                "beschreibung": "Im fünften Raum links auf den oberen Stufen."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Piratenhöhle",
+                "beschreibung": "Beim oberen rechten Eingang im Raum mit dem großen Wasserfall ist eine Stampfplatte."
+            },
+            {
+                "typ": "insignie",
+                "ort": "Piratenhöhle",
+                "beschreibung": "Im Lagerraum oben."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Piratenhöhle",
+                "beschreibung": "Im Lagerraum oben."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Piratenhöhle",
+                "beschreibung": "Im leeren Raum in der Mitte ist eine Stampfplatte."
+            },
+            {
+                "typ": "insignie",
+                "ort": "Piratenhöhle",
+                "beschreibung": "Im Raum mit den Wellen gleich am Anfang mit Koopio erreichbar."
+            },
+            {
+                "typ": "insignie",
+                "ort": "Piratenhöhle",
+                "beschreibung": "Im Raum nach dem Raum mit den Wellen."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Rohlingen",
+                "beschreibung": "Am Hafen mit dem Papierschiff erreichbar."
+            },
+            {
+                "typ": "insignie",
+                "ort": "Katakomben",
+                "beschreibung": "Im Raum in dem man gegen den Blooper gekämpft hat, mit dem Papierschiff erreichbar."
+            },
+            {
+                "typ": "insignie",
+                "ort": "Rohlingen",
+                "beschreibung": "Im Westend neben dem Item-Laden die Mauer sprengen."
+            }
+        ]
+    },
+    {
+        "chapter": 7,
+        "items": [
+            {
+                "typ": "insignie",
+                "ort": "Glimmer-Liner",
+                "beschreibung": "Im eigenen Abteil hinter der kleinen Kommode."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Glimmer-Liner",
+                "beschreibung": "Im vierten Abteil links neben der Tür ist eine Stampfplatte."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Glimmer-Liner",
+                "beschreibung": "Im Schrank des achten Abteils."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Glimmer-Liner",
+                "beschreibung": "Dem Koch den Suppentopf wieder bringen."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Glimmer-Liner",
+                "beschreibung": "Im Führerhaus vor der Maschinerie ist eine Stampfplatte."
+            },
+            {
+                "typ": "insignie",
+                "ort": "Glimmer-Liner",
+                "beschreibung": "Nachdem man Bronzmuth sein Autogramm besorgt hat."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Glimmer-Liner",
+                "beschreibung": "Der Kellnerin ihre Ohrstecker wieder bringen."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Tulpenbach",
+                "beschreibung": "Im Uhrenturm des Bahnhofs oben, wo die ganze Maschinerie läuft, hinter dem Gerät ganz rechts."
+            },
+            {
+                "typ": "insignie",
+                "ort": "Tulpenbach",
+                "beschreibung": "Rechts außerhalb des Bahnhofs."
+            },
+            {
+                "typ": "insignie",
+                "ort": "Tulpenbach",
+                "beschreibung": "Im Raum nebem dem Raum in dem man die Ultra-Stiefel bekommt auf der Treppe."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Bad Glimmerich",
+                "beschreibung": "Beim Bahnhof ist auf dem kleinen Pflasterplatz eine Stampfplatte."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Bad Glimmerich",
+                "beschreibung": "Im Garten von Brillian T. in der Hecke."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Bad Glimmerich",
+                "beschreibung": "Hinter dem Liegestuhl im Garten der Bob-omb Familie."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Bad Glimmerich",
+                "beschreibung": "Hinter der Hecke des ersten Hauses im Zentrum."
+            },
+            {
+                "typ": "insignie",
+                "ort": "Bad Glimmerich",
+                "beschreibung": "Im Park vor dem Glimmer-Tempel."
+            },
+            {
+                "typ": "insignie",
+                "ort": "Glimmertempel",
+                "beschreibung": "Im geheimen Saal."
+            },
+            {
+                "typ": "insignie",
+                "ort": "Katakomben",
+                "beschreibung": "In der Verlorenen Stadt zwischen den beiden hinteren Häusern einen Ultra-Sprung machen."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Katakomben",
+                "beschreibung": "Beim Blooper mit Ultra-Sprung erreichbar."
+            },
+            {
+                "typ": "insignie",
+                "ort": "Katakomben",
+                "beschreibung": "Im Raum unter dem Raum unter dem Gully mit Aerona die Wand wegpusten und dann mit dem Papierschiff nach rechts fahren."
+            },
+            {
+                "typ": "insignie",
+                "ort": "Katakomben",
+                "beschreibung": "Im Raum unter dem Raum unter dem Gully mit Aerona die Wand wegpusten und dann mit dem Papierschiff nach rechts fahren."
+            },
+            {
+                "typ": "insignie",
+                "ort": "Katakomben",
+                "beschreibung": "Im Raum unter dem Raum unter dem Gully mit Aerona die Wand wegpusten und dann mit dem Papierschiff nach rechts fahren."
+            }
+        ]
+    },
+    {
+        "chapter": 8,
+        "items": [
+            {
+                "typ": "sternsplitter",
+                "ort": "Frostpfad",
+                "beschreibung": "Sofort links an der Röhre ist eine Stampfplatte."
+            },
+            {
+                "typ": "insignie",
+                "ort": "Frostpfad",
+                "beschreibung": "Hinter dem ersten Baum."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Frostpfad",
+                "beschreibung": "Hinter einem verwelkten Strauch."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Frostpfad",
+                "beschreibung": "Hinter der zerstörten Mauer weiter rechts."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Großfrostheim",
+                "beschreibung": "Hinter der Ziegelwand."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Großfrostheim",
+                "beschreibung": "Links neben dem Kanonendenkmahl ist eine Stampfplatte."
+            },
+            {
+                "typ": "insignie",
+                "ort": "Großfrostheim",
+                "beschreibung": "Ganz rechts im Schnee."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Großfrostheim",
+                "beschreibung": "Im letzten Haus hinter den Kisten links."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Mond",
+                "beschreibung": "Hinter dem Felsen im Bereich vor dem Hauptquartier."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Crucionen-HQ",
+                "beschreibung": "Im Lüftungsschacht ganz links unten."
+            },
+            {
+                "typ": "sternsplitter",
+                "ort": "Crucionen-HQ",
+                "beschreibung": "Im Kranraum."
+            }
+        ]
+    }
+]

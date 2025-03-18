@@ -1,0 +1,410 @@
+[
+    {
+        "id": 1,
+        "name": "Die Gumba-Brüder",
+        "rang": 19,
+        "information": "Starten mit Gegenangriff.",
+        "gegner": [
+            {
+                "name": "Gumba",
+                "kp": 2,
+                "angriff": 1,
+                "verteidigung": 0,
+                "bild": "/images/enemies/gumba.webp",
+                "anzahl": 5
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Die Panzer-Kämpfer",
+        "rang": 18,
+        "information": null,
+        "gegner": [
+            {
+                "name": "Panzerkoopa",
+                "kp": 4,
+                "angriff": 2,
+                "verteidigung": 1,
+                "bild": "/images/enemies/panzerkoopa.webp",
+                "anzahl": 2
+            },
+            {
+                "name": "Panzerpara",
+                "kp": 4,
+                "angriff": 2,
+                "verteidigung": 1,
+                "bild": "/images/enemies/panzerpara.webp",
+                "anzahl": 1
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Das Pokey-Trio",
+        "rang": 17,
+        "information": null,
+        "gegner": [
+          {
+            "name": "Pokey",
+            "kp": 4,
+            "angriff": 3,
+            "verteidigung": 0,
+            "bild": "images/enemies/pokey.webp",
+            "anzahl": 3
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Die Knochenwerfer",
+        "rang": 16,
+        "information": null,
+        "gegner": [
+          {
+            "name": "Knochen-Koopa",
+            "kp": 1,
+            "angriff": 2,
+            "verteidigung": 1,
+            "bild": "images/enemies/knochen-koopa.webp",
+            "anzahl": 3
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Stachi + Partner",
+        "rang": 15,
+        "information": "Der Hot-Dog Stand hat das Yoshi-Ei",
+        "gegner": [
+          {
+            "name": "Lakitu",
+            "kp": 5,
+            "angriff": 2,
+            "verteidigung": 0,
+            "bild": "images/enemies/lakitu.webp",
+            "anzahl": 1
+          },
+          {
+            "name": "Stachi",
+            "kp": 3,
+            "angriff": 3,
+            "verteidigung": 3,
+            "bild": "images/enemies/stachi.webp",
+            "anzahl": 2
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Die  Banditenbande",
+        "rang": 14,
+        "information": null,
+        "gegner": [
+          {
+            "name": "Bandit",
+            "kp": 5,
+            "angriff": 2,
+            "verteidigung": 0,
+            "bild": "images/enemies/bandit.webp",
+            "anzahl": 2
+          },
+          {
+            "name": "Großer Bandit",
+            "kp": 8,
+            "angriff": 3,
+            "verteidigung": 0,
+            "bild": "images/enemies/grosse_bandit.webp",
+            "anzahl": 2
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Piranhas & Co",
+        "rang": 13,
+        "information": null,
+        "gegner": [
+          {
+            "name": "Piranha-Pflanze",
+            "kp": 4,
+            "angriff": 2,
+            "verteidigung": 0,
+            "bild": "images/enemies/piranha-pflanze.webp",
+            "anzahl": 1
+          },
+          {
+            "name": "Fadula",
+            "kp": 5,
+            "angriff": 2,
+            "verteidigung": 0,
+            "bild": "images/enemies/fadula.webp",
+            "anzahl": 1
+          },
+          {
+            "name": "Stratox",
+            "kp": 3,
+            "angriff": 2,
+            "verteidigung": 0,
+            "bild": "images/enemies/stratox.webp",
+            "anzahl": 1
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Die Hyper-Steine",
+        "rang": 12,
+        "information": null,
+        "gegner": [
+          {
+            "name": "Hyper-Kahl",
+            "kp": 3,
+            "angriff": 2,
+            "verteidigung": 2,
+            "bild": "images/enemies/hyper-kahl.webp",
+            "anzahl": 3
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Die Bommb-er",
+        "rang": 11,
+        "information": null,
+        "gegner": [
+          {
+            "name": "Bob-omb",
+            "kp": 4,
+            "angriff": 2,
+            "verteidigung": 1,
+            "bild": "images/enemies/bob-omb.webp",
+            "anzahl": 4
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Die Stahl-Brüder",
+        "rang": 10,
+        "information": "Kann ohne Yoshi nicht gewonnen werden",
+        "gegner": [
+          {
+            "name": "Stahl-Kirk",
+            "kp": 6,
+            "angriff": 4,
+            "verteidigung": 1000,
+            "bild": "images/enemies/roter_stahl-kirk.webp",
+            "anzahl": 1
+          },
+          {
+            "name": "Stahl-Kirk",
+            "kp": 6,
+            "angriff": 4,
+            "verteidigung": 1000,
+            "bild": "images/enemies/gruener_stahl-kirk.webp",
+            "anzahl": 1
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "Die Pickelkäfer",
+        "rang": 9,
+        "information": null,
+        "gegner": [
+          {
+            "name": "Roter Pickelkäfer",
+            "kp": 5,
+            "angriff": 3,
+            "verteidigung": 4,
+            "bild": "images/enemies/roter_pickelkaefer.webp",
+            "anzahl": 2
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "name": "Die Stachel-Steine",
+        "rang": 8,
+        "information": "Super-Hammer ist verfügbar",
+        "gegner": [
+          {
+            "name": "Dornhart",
+            "kp": 2,
+            "angriff": 1,
+            "verteidigung": 4,
+            "bild": "images/enemies/dornhart.webp",
+            "anzahl": 2
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "name": "Die Schattengang",
+        "rang": 7,
+        "information": "Die Stahl-Brüder fordern einen Rückkampf",
+        "gegner": [
+          {
+            "name": "Schattenkoopa",
+            "kp": 8,
+            "angriff": 3,
+            "verteidigung": 1,
+            "bild": "images/enemies/schattenkoopa.webp",
+            "anzahl": 2
+          },
+          {
+            "name": "Schattenpara",
+            "kp": 8,
+            "angriff": 3,
+            "verteidigung": 1,
+            "bild": "images/enemies/schattenpara.webp",
+            "anzahl": 1
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "name": "Das Fuzzy-Trio",
+        "rang": 6,
+        "information": null,
+        "gegner": [
+          {
+            "name": "Fuzzy",
+            "kp": 3,
+            "angriff": 1,
+            "verteidigung": 0,
+            "bild": "images/enemies/fuzzy.webp",
+            "anzahl": 1
+          },
+          {
+            "name": "Wald-Fuzzy",
+            "kp": 5,
+            "angriff": 3,
+            "verteidigung": 0,
+            "bild": "images/enemies/wald-fuzzy.webp",
+            "anzahl": 1
+          },
+          {
+            "name": "Wiesen-Fuzzy",
+            "kp": 6,
+            "angriff": 3,
+            "verteidigung": 0,
+            "bild": "images/enemies/wiesen-fuzzy.webp",
+            "anzahl": 1
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Die Kamek-Dämonen",
+        "rang": 5,
+        "information": "Bowser Kampf",
+        "gegner": [
+          {
+            "name": "Roter Kamek",
+            "kp": 7,
+            "angriff": 4,
+            "verteidigung": 0,
+            "bild": "images/enemies/roter_kamek.webp",
+            "anzahl": 1
+          },
+          {
+            "name": "Weißer Kamek",
+            "kp": 7,
+            "angriff": 4,
+            "verteidigung": 0,
+            "bild": "images/enemies/weisser_kamek.webp",
+            "anzahl": 1
+          },
+          {
+            "name": "Grüner Kamek",
+            "kp": 7,
+            "angriff": 4,
+            "verteidigung": 0,
+            "bild": "images/enemies/gruener_kamek.webp",
+            "anzahl": 1
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "name": "Lanzissimo",
+        "rang": 4,
+        "information": "Telefonzelle + 1. Lagerraum",
+        "gegner": [
+          {
+            "name": "Lanzhäher",
+            "kp": 20,
+            "angriff": 6,
+            "verteidigung": 0,
+            "bild": "images/enemies/lanzhaeher.webp",
+            "anzahl": 1
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "name": "Das Brüder-Trio",
+        "rang": 3,
+        "information": null,
+        "gegner": [
+          {
+            "name": "Hammer-Bruder",
+            "kp": 7,
+            "angriff": 4,
+            "verteidigung": 1,
+            "bild": "images/enemies/hammer-bruder.webp",
+            "anzahl": 1
+          },
+          {
+            "name": "Bumerang-Bruder",
+            "kp": 7,
+            "angriff": 2,
+            "verteidigung": 1,
+            "bild": "images/enemies/bumerang-bruder.webp",
+            "anzahl": 1
+          },
+          {
+            "name": "Feuer-Bruder",
+            "kp": 7,
+            "angriff": 3,
+            "verteidigung": 1,
+            "bild": "images/enemies/feuer-bruder.webp",
+            "anzahl": 1
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "name": "Die Feuer-Chomps",
+        "rang": 2,
+        "information": null,
+        "gegner": [
+          {
+            "name": "Roter Chomp",
+            "kp": 6,
+            "angriff": 5,
+            "verteidigung": 3,
+            "bild": "images/enemies/roter_chomp.webp",
+            "anzahl": 2
+          }
+        ]
+      },
+      {
+        "id": 19,
+        "name": "Die Ass-Koopatrouille",
+        "rang": 1,
+        "information": "Poster + 2. Lagerraum",
+        "gegner": [
+          {
+            "name": "Ass-Koopatrouille",
+            "kp": 25,
+            "angriff": 5,
+            "verteidigung": 2,
+            "bild": "images/enemies/ass-koopatrouille.webp",
+            "anzahl": 1
+          }
+        ]
+      }
+]

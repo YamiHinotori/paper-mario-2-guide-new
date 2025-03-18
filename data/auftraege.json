@@ -1,0 +1,257 @@
+[
+    {
+        "chapter": 1,
+        "items": [
+            {
+                "titel": "Loranzo: Suche Schlüssel!",
+                "verfuegbar": "Prolog",
+                "ort": "Rohlingen",
+                "loesung": "Der Schlüssel liegt vor dem Orden Shop.",
+                "belohnung": "30 Münzen"
+            },
+            {
+                "titel": "Al Gumbone: Liefere Zeug!",
+                "verfuegbar": "Prolog",
+                "ort": "Rohlingen",
+                "loesung": "Hol ein Paket von Al Gumbone ab (hinter Racle T.s Haus) und bring es Gumbaniel (vor dem Haus von Prof. Gumbarth).",
+                "belohnung": "30 Münzen"
+            },
+            {
+                "titel": "Wuff: Marktforschung!",
+                "verfuegbar": "Prolog",
+                "ort": "Rohlingen",
+                "loesung": "10 Münzen, 8 Münzen, 3 Münzen",
+                "belohnung": "30 Münzen"
+            },
+            {
+                "titel": "Gumbo: Fang den Kerl!",
+                "verfuegbar": "Prolog",
+                "ort": "Rohlingen",
+                "loesung": "Gumbo ist links vom Galgen. Der Bandit ist neben Merlons Laden, am Hafen und vor dem Haus des Banditen.",
+                "belohnung": "30 Münzen"
+            },
+            {
+                "titel": "Marcello: Schlag mich!",
+                "verfuegbar": "Prolog",
+                "ort": "Rohlingen",
+                "loesung": "Schlag Marcello solange, bis er sich an die Informationen erinnert.",
+                "belohnung": "Die Informationen von Marcello"
+            },
+            {
+                "titel": "Bob-omsk: Hab Hunger!",
+                "verfuegbar": "Prolog",
+                "ort": "Rohlingen",
+                "loesung": "Bringe Bob-Omsk irgendetwas Essbares.",
+                "belohnung": "11 Münzen"
+            }
+        ]
+    },
+    {
+        "chapter": 2,
+        "items": [
+            {
+                "titel": "Koopiel: Such mich!",
+                "verfuegbar": "Kapitel 1",
+                "ort": "Lohgards Burg",
+                "loesung": "Koopiel versteckt sich auf einem Vorsprung in dem Raum, der vor dem Raum liegt, in dem man auf Nagerine trifft.",
+                "belohnung": "Spezial-Karte (Casino)"
+            },
+            {
+                "titel": "Bürgermeister: Zuhörer gesucht!",
+                "verfuegbar": "Kapitel 1",
+                "ort": "Blütenweiler",
+                "loesung": "Hör dem Bürgermeister von Blütenweiler bei seiner Geschichte zu.",
+                "belohnung": "Koopa-Blatt"
+            },
+            {
+                "titel": "Ren T.: Besorge Items!",
+                "verfuegbar": "Kapitel 1",
+                "ort": "Rohlingen",
+                "loesung": "Bringe dem Ladenbesitzer 5 Hartpanzer.",
+                "belohnung": "Ultra-Pilz"
+            }
+        ]
+    },
+    {
+        "chapter": 3,
+        "items": [
+            {
+                "titel": "Bubuma: Lebenspilz",
+                "verfuegbar": "Kapitel 2",
+                "ort": "Großer Baum",
+                "loesung": "Bring Bubuma einen Lebenspilz.",
+                "belohnung": "50 Münzen"
+            },
+            {
+                "titel": "Blinky: Besuch mich!",
+                "verfuegbar": "Kapitel 2",
+                "ort": "Rohlingen",
+                "loesung": "Rede mit Blinky im Palma-Casino.",
+                "belohnung": "10 Palma"
+            },
+            {
+                "titel": "T. Dibär",
+                "verfuegbar": "Kapitel 2",
+                "ort": "Duellkerker",
+                "loesung": "Befreie T. Dibärs Vater aus dem Duellkerker.",
+                "belohnung": "Silber-Karte (Casino)"
+            }
+        ]
+    },
+    {
+        "chapter": 4,
+        "items": [
+            {
+                "titel": "Toadskova: Jobangebot!",
+                "verfuegbar": "Kapitel 3",
+                "ort": "Falkenheim",
+                "loesung": "Nimm alle Catcher-Slips aus dem Lagerraum der Arena und bring sie Gumbaniel, der vor Merlons Haus steht.",
+                "belohnung": "30 Münzen"
+            },
+            {
+                "titel": "Merlee: Herztorte!",
+                "verfuegbar": "Kapitel 3",
+                "ort": "Katakomben",
+                "loesung": "Frage Mais T. aus dem letzten Haus in Blütenweiler nach dem Rezept für eine Herztorte und gehe danach wieder zu Merlee. Kaufe dann eine Backmischung aus dem Casino.",
+                "belohnung": "30 Münzen"
+            },
+            {
+                "titel": "Knospi: Gaumenschmaus!",
+                "verfuegbar": "Kapitel 3",
+                "ort": "Blütenweiler",
+                "loesung": "Knospi steht vor dem Item Laden auf der Insel und möchte 2 Hotdogs und eine Mustorte haben.",
+                "belohnung": "Trockenblume"
+            }
+        ]
+    },
+    {
+        "chapter": 5,
+        "items": [
+            {
+                "titel": "???: Orden!",
+                "verfuegbar": "Kapitel 4",
+                "ort": "Rohlingen",
+                "loesung": "Im Raum, in dem man gegen Lohgard gekämpft hat, findet man den versteckten Orden.",
+                "belohnung": "Nagerine als Teammitglied"
+            },
+            {
+                "titel": "Racle T.: Legendäres Buch!",
+                "verfuegbar": "Kapitel 4",
+                "ort": "Rohlingen",
+                "loesung": "Das Buch befindet sich in der Spukabtei, im von der Eingangshalle aus durch den Rollmodus erreichbaren Raum.",
+                "belohnung": "Honig-Pilz und Racle T. kann jetzt 2 Items gleichzeitig kochen"
+            }
+        ]
+    },
+    {
+        "chapter": 6,
+        "items": [
+            {
+                "titel": "Diana: Sag ihm doch...",
+                "verfuegbar": "Kapitel 5",
+                "ort": "Düsterdorf",
+                "loesung": "Rede mit Bien. Bien ist in seiner Bar in Rohlingen.",
+                "belohnung": "Sternendinner"
+            },
+            {
+                "titel": "Gumberto: Suche Freundin!",
+                "verfuegbar": "Kapitel 5",
+                "ort": "Piratenhöhle",
+                "loesung": "Sprich mit Gumberto mit Gumbrina als Partnerin.",
+                "belohnung": "Paarmahl"
+            }
+        ]
+    },
+    {
+        "chapter": 7,
+        "items": [
+            {
+                "titel": "Dorfvorsteher: Rundschreiben!",
+                "verfuegbar": "Kapitel 6",
+                "ort": "Düsterdorf",
+                "loesung": "Sprich mit dem Dorfvorsteher in Düsterdorf, Bubuma und dem Bürgermeister von Blütenweiler. Kehre dann nach Düsterdorf zurück.",
+                "belohnung": "30 Münzen"
+            },
+            {
+                "titel": "Romanzo: Suchauftrag!",
+                "verfuegbar": "Kapitel 6",
+                "ort": "Rohlingen",
+                "loesung": "Der Ring liegt im Ostend.",
+                "belohnung": "Gold-Karte (Casino)"
+            },
+            {
+                "titel": "Koch: Zutaten gesucht!",
+                "verfuegbar": "Kapitel 6",
+                "ort": "Glimmer-Liner",
+                "loesung": "Bring dem Koch eine Mango, ein Bubu-Ei und ein Goldblatt.",
+                "belohnung": "40 Münzen"
+            },
+            {
+                "titel": "Brillan T.: Buchsuche!",
+                "verfuegbar": "Kapitel 6",
+                "ort": "Bad Glimmerich",
+                "loesung": "Geh zu Toadskova und hol das Buch ab.",
+                "belohnung": "Platin-Karte (Casino)"
+            },
+            {
+                "titel": "Handelsvertreter: Zahlencode!",
+                "verfuegbar": "Kapitel 6",
+                "ort": "Falkenheim",
+                "loesung": "Der Zahlencode lautet: 2625",
+                "belohnung": "Feuersoße"
+            }
+        ]
+    },
+    {
+        "chapter": 8,
+        "items": [
+            {
+                "titel": "Goldfried: Lieferung!",
+                "verfuegbar": "Kapitel 7",
+                "ort": "Bad Glimmerich",
+                "loesung": "Sprich mit Goldfried, dann mit dem Bob-omb im letzten Haus von Großfrostheim, dann mit Bien aus Rohlingen, dann mit dem Wirt der Falkenheim Bar, dann wieder mit Goldfried und schließlich nochmal mit dem Bob-omb.",
+                "belohnung": "64 Münzen"
+            },
+            {
+                "titel": "Explosov: Stimme weg!",
+                "verfuegbar": "Kapitel 7",
+                "ort": "Großfrostheim",
+                "loesung": "Koche ein Honig-Bonbon aus einem Honig-Sirup und einer Backmischung und bring es Explosov.",
+                "belohnung": "20 Münzen"
+            },
+            {
+                "titel": "Fan T. Luigi treffen!",
+                "verfuegbar": "Kapitel 7",
+                "ort": "Bad Glimmerich",
+                "loesung": "Lege den Orden Dressmann L an und sprich mit Fan T.",
+                "belohnung": "Schokokuchen"
+            }
+        ]
+    },
+    {
+        "chapter": 9,
+        "items": [
+            {
+                "titel": "Komi T.: Suche Kämpfer!",
+                "verfuegbar": "Kapitel 8",
+                "ort": "Wunderwald",
+                "loesung": "Besiege alle Gegner, die auf dem Weg zum Großen Baum sind.",
+                "belohnung": "20 Münzen"
+            },
+            {
+                "titel": "Bronzmuth: Versöhnung!",
+                "verfuegbar": "Kapitel 8",
+                "ort": "Bad Glimmerich",
+                "loesung": "Sprich mit Bronzmuth und antworte auf die Frage 'Furcht-Tiegel'. Bring ihm anschließend einen.",
+                "belohnung": "3 Münzen"
+            },
+            {
+                "titel": "Bombov: Schmiererei!",
+                "verfuegbar": "Kapitel 8",
+                "ort": "Großfrostheim",
+                "loesung": "Schaffe es bis zur 50. Etage des Duellkerkers und sprenge mit Bart-omb die Schmiererei weg.",
+                "belohnung": "Eishase"
+            }
+        ]
+    }
+]
