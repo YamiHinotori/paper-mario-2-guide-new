@@ -4,7 +4,7 @@
       "name": "Power-Sprung",
       "op": 1,
       "beschreibung": "Mario lernt den Power-Sprung, der ihn 2 BP kostet. Mit diesem Sprung zeigt er Gegnern, was eine Harke ist. Mehrere Orden verbrauchen mehr BP, wirken aber stärker.",
-      "bild": "images/badges/power-sprung.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/power-sprung.png",
       "orte": [
         {
           "name": "Rohlingen",
@@ -17,7 +17,7 @@
       "name": "Multisprung",
       "op": 1,
       "beschreibung": "Mario lernt den Multisprung, der ihn 2 BP kostet. Mit dem richtigen Action-Kommando trifft er alle Gegner in Reihe. Mehrere Orden verbrauchen mehr BP, wirken aber stärker.",
-      "bild": "images/badges/multisprung.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/multisprung.png",
       "orte": [
         {
           "name": "Geröllburg",
@@ -30,7 +30,7 @@
       "name": "Schrumpfer",
       "op": 1,
       "beschreibung": "Mario lernt den Schrumpfer. Dieser kostet ihn 2 BP. Hierdurch schrumpfen Gegner: Sie werden schwächer. Mehrere Orden verbrauchen mehr BP, wirken aber stärker.",
-      "bild": "images/badges/schrumpfer.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/schrumpfer.png",
       "orte": [
         {
           "name": "Großer Baum",
@@ -43,7 +43,7 @@
       "name": "Schnarcher",
       "op": 1,
       "beschreibung": "Mario lernt den Schnarcher. Ein Hit für nur 2 BP. Hiermit schläfert er Gegner ein: Sie greifen nicht an. Mehrere Orden verbrauchen mehr BP, wirken aber stärker.",
-      "bild": "images/badges/schnarcher.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/schnarcher.png",
       "orte": [
         {
           "name": "Duellkerker",
@@ -56,7 +56,7 @@
       "name": "Erweicher",
       "op": 1,
       "beschreibung": "Mario lernt den Erweicher. Er verbraucht 2 BP. Hiermit erweicht er Gegner und senkt ihre Verteidigung. Mehrere Orden verbrauchen mehr BP, wirken aber stärker.",
-      "bild": "images/badges/erweicher.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/erweicher.png",
       "orte": [
         {
           "name": "Katakomben",
@@ -69,7 +69,7 @@
       "name": "Orkansprung",
       "op": 2,
       "beschreibung": "Mario lernt den Orkansprung, der ihn 3 BP kostet. Bei richtiger Anwendung trifft er auch seine Luftgegner. Mehrere Orden verbrauchen mehr BP, wirken aber stärker.",
-      "bild": "images/badges/orkansprung.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/orkansprung.png",
       "orte": [
         {
           "name": "Spukabtei",
@@ -82,7 +82,7 @@
       "name": "Power-Dauz",
       "op": 3,
       "beschreibung": "Mario lernt den Power-Dauz, der ihn 3 BP kostet. Er trifft Gegner, solange das Action-Kommando stimmt.",
-      "bild": "images/badges/power-dauz.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/power-dauz.png",
       "orte": [
         {
           "name": "Lohgards Burg",
@@ -95,7 +95,7 @@
       "name": "Power-Hauer",
       "op": 1,
       "beschreibung": "Mario lernt den Power-Schlag. Dieser verbraucht 2 BP. Mit diesem Schlag zeigt er Gegnern, was eine Harke ist. Mehrere Orden verbrauchen mehr BP, wirken aber stärker.",
-      "bild": "images/badges/power-hauer.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/power-hauer.png",
       "orte": [
         {
           "name": "Rohlingen",
@@ -108,7 +108,7 @@
       "name": "Anti-V-Hieb",
       "op": 1,
       "beschreibung": "Mario lernt den Anti-V-Hieb, der 2 BP verbraucht. Dieser Hieb umgeht die gegnerische Verteidigung.",
-      "bild": "images/badges/anti-v-hieb.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/anti-v-hieb.png",
       "orte": [
         {
           "name": "Rohlingen",
@@ -121,7 +121,7 @@
       "name": "Hammerwurf",
       "op": 1,
       "beschreibung": "Mario lernt den Hammerwurf, für den er 2 BP braucht. Marios Hammer wirkt gegen Gegner auf allen Positionen. Mehrere Orden verbrauchen mehr BP, wirken aber stärker.",
-      "bild": "images/badges/hammerwurf.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/hammerwurf.png",
       "orte": [
         {
           "name": "Düsterweg",
@@ -134,7 +134,7 @@
       "name": "Wirrschlag",
       "op": 1,
       "beschreibung": "Mario erlernt den Wirrschlag für nur 2 BP pro Hieb. Dieser verwirrt die Gegner und führt zu Kontrollverlust. Mehrere Orden verbrauchen mehr BP, wirken aber länger.",
-      "bild": "images/badges/wirrschlag.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/wirrschlag.png",
       "orte": [
         {
           "name": "Isla Corsaria",
@@ -147,7 +147,7 @@
       "name": "Eisschlag",
       "op": 1,
       "beschreibung": "Mario erlernt den Eisschlag. Dieser verbraucht 3 BP. Dieser Schlag verwandelt Gegner in eisige Skulpturen. Mehrere Orden verbrauchen mehr BP, wirken aber länger.",
-      "bild": "images/badges/eisschlag.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/eisschlag.png",
       "orte": [
         {
           "name": "Piratenhöhle",
@@ -160,7 +160,7 @@
       "name": "Erdbeben",
       "op": 2,
       "beschreibung": "Mario lernt Erdbeben. Diese Attacke kostet ihn 3 BP. Das Erdbeben schadet allen Boden und Deckengegnern. Mehrere Orden verbrauchen mehr BP, wirken aber stärker.",
-      "bild": "images/badges/erdbeben.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/erdbeben.png",
       "orte": [
         {
           "name": "Wunderwald",
@@ -173,7 +173,7 @@
       "name": "Feuerschlag",
       "op": 3,
       "beschreibung": "Für 5 BP führt Mario den mächtigen Feuerschlag aus. Er attackiert alle Bodengegner und setzt sie in Brand. Mehrere Orden verbrauchen mehr BP, wirken aber stärker.",
-      "bild": "images/badges/feuerschlag.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/feuerschlag.png",
       "orte": [
         {
           "name": "Duellkerker",
@@ -186,7 +186,7 @@
       "name": "Charge",
       "op": 1,
       "beschreibung": "Mario kann \"Charge\" im Menü \"Taktik\" auswählen. Der Einsatz kostet 1 BP. Der Einsatz von zwei Orden kostet mehr BP, gibt aber noch mehr Kraft.",
-      "bild": "images/badges/charge.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/charge.png",
       "orte": [
         {
           "name": "Großer Baum",
@@ -199,7 +199,7 @@
       "name": "Charge P",
       "op": 1,
       "beschreibung": "Dein Partner kann \"Charge\" im Menü \"Taktik\" auswählen. Der Einsatz kostet 1 BP. Der Einsatz von zwei Orden kostet mehr BP, gibt aber noch mehr Kraft.",
-      "bild": "images/badges/charge_p.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/charge_p.png",
       "orte": [
         {
           "name": "Falkenheim",
@@ -212,7 +212,7 @@
       "name": "Doppelgriff",
       "op": 3,
       "beschreibung": "Lässt Mario zwei Items pro Runde einsetzen. Der Einsatz kostet 4 BP. Der Einsatz von zwei Orden kostet mehr BP, ermöglicht aber den Einsatz von drei Items.",
-      "bild": "images/badges/doppelgriff.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/doppelgriff.png",
       "orte": [
         {
           "name": "Duellkerker",
@@ -225,7 +225,7 @@
       "name": "Doppelgriff P",
       "op": 3,
       "beschreibung": "Ist der Partner am Zug, kann er zwei Items einsetzen. Der Einsatz kostet 4 BP. Der Einsatz von zwei Orden kostet mehr BP, ermöglicht aber den Einsatz von drei Items.",
-      "bild": "images/badges/doppelgriff_p.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/doppelgriff_p.png",
       "orte": [
         {
           "name": "Duellkerker",
@@ -238,7 +238,7 @@
       "name": "KP-Plus",
       "op": 3,
       "beschreibung": "Erhöht Marios Gesamt-KP um 5.",
-      "bild": "images/badges/kp-plus.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/kp-plus.png",
       "orte": [
         {
           "name": "Lohgards Burg",
@@ -251,7 +251,7 @@
       "name": "KP-Plus P",
       "op": 6,
       "beschreibung": "Erhöht die Gesamt-KP deines Mitstreiters um 5.",
-      "bild": "images/badges/kp-plus_p.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/kp-plus_p.png",
       "orte": [
         {
           "name": "Falkenheim",
@@ -264,7 +264,7 @@
       "name": "BP-Plus",
       "op": 3,
       "beschreibung": "Erhöht die Gesamt-BP um 5.",
-      "bild": "images/badges/bp-plus.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/bp-plus.png",
       "orte": [
         {
           "name": "Katakomben",
@@ -281,7 +281,7 @@
       "name": "Kraft-Plus",
       "op": 6,
       "beschreibung": "Angriffswert für Sprung und Hammerattacken steigt um 1.",
-      "bild": "images/badges/kraft-plus.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/kraft-plus.png",
       "orte": [
         {
           "name": "Spukabtei",
@@ -298,7 +298,7 @@
       "name": "Kraft-Plus P",
       "op": 6,
       "beschreibung": "Angriffswert deines Mitstreiters steigt um 1.",
-      "bild": "images/badges/kraft-plus_p.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/kraft-plus_p.png",
       "orte": [
         {
           "name": "Katakomben",
@@ -315,7 +315,7 @@
       "name": "Alles oder...",
       "op": 4,
       "beschreibung": "Höherer Schaden bei erfolgreichem Action-Kommando. Bei einem Fehlschlag beträgt der Schaden 0.",
-      "bild": "images/badges/alles_oder.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/alles_oder.png",
       "orte": [
         {
           "name": "Äonenpalast",
@@ -328,7 +328,7 @@
       "name": "Meistersprung",
       "op": 2,
       "beschreibung": "Der Effekt von Sprüngen steigt um 1. Dafür kann Mario den Hammer nicht mehr verwenden.",
-      "bild": "images/badges/meistersprung.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/meistersprung.png",
       "orte": [
         {
           "name": "Rohlingen",
@@ -341,7 +341,7 @@
       "name": "Dampfhammer",
       "op": 2,
       "beschreibung": "Der Effekt von Marios Hammer steigt um 1. Dafür kann Mario keine Sprünge mehr verwenden.",
-      "bild": "images/badges/dampfhammer.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/dampfhammer.png",
       "orte": [
         {
           "name": "Rohlingen",
@@ -354,7 +354,7 @@
       "name": "A+ V-",
       "op": 2,
       "beschreibung": "Erhöht die Angriffskraft um 1. Senkt die Verteidigung um 1.",
-      "bild": "images/badges/p_plus_v_minus.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/p_plus_v_minus.png",
       "orte": [
         {
           "name": "Tulpenbach",
@@ -367,7 +367,7 @@
       "name": "A+ V- P",
       "op": 2,
       "beschreibung": "Erhöht die Angriffskraft deines Partners um 1 und senkt seine Verteidigung um 1.",
-      "bild": "images/badges/p_plus_v_minus_p.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/p_plus_v_minus_p.png",
       "orte": [
         {
           "name": "Äonenpalast",
@@ -380,7 +380,7 @@
       "name": "A- V+",
       "op": 2,
       "beschreibung": "Senkt die Angriffskraft um 1. Erhöht die Verteidigung um 1.",
-      "bild": "images/badges/p_minus_v_plus.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/p_minus_v_plus.png",
       "orte": [
         {
           "name": "Piratenhöhle",
@@ -393,7 +393,7 @@
       "name": "A- V+ P",
       "op": 2,
       "beschreibung": "Senkt die Angriffskraft deines Partners um 1 und erhöht seine Verteidigung um 1.",
-      "bild": "images/badges/p_minus_v_plus_p.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/p_minus_v_plus_p.png",
       "orte": [
         {
           "name": "Wunderwald",
@@ -406,7 +406,7 @@
       "name": "Ausweicher",
       "op": 2,
       "beschreibung": "Bei erfolgreichem Einsatz des Action-Kommandos für Marios Verteidigung sinkt erlittener Schaden um 1.",
-      "bild": "images/badges/ausweicher.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/ausweicher.png",
       "orte": [
         {
           "name": "Katakomben",
@@ -419,7 +419,7 @@
       "name": "Ausweicher P",
       "op": 2,
       "beschreibung": "Bei erfolgreichem Einsatz des Action-Kommandos für Partner-Verteidigung sinkt erlittener Schaden um 1.",
-      "bild": "images/badges/ausweicher_p.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/ausweicher_p.png",
       "orte": [
         {
           "name": "Großer Baum",
@@ -432,7 +432,7 @@
       "name": "Verteidiger",
       "op": 5,
       "beschreibung": "Marios Verteidigung steigt um 1.",
-      "bild": "images/badges/verteidiger.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/verteidiger.png",
       "orte": [
         {
           "name": "Düsterdorf",
@@ -449,7 +449,7 @@
       "name": "Verteidiger P",
       "op": 5,
       "beschreibung": "Die Verteidigung deines Partners steigt um 1.",
-      "bild": "images/badges/verteidiger_p.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/verteidiger_p.png",
       "orte": [
         {
           "name": "Piratenhöhle",
@@ -466,7 +466,7 @@
       "name": "Autsch!",
       "op": 0,
       "beschreibung": "Verdoppelt den Schaden, den Mario erleidet.",
-      "bild": "images/badges/autsch.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/autsch.png",
       "orte": [
         {
           "name": "Rohlingen",
@@ -479,7 +479,7 @@
       "name": "Kampfwut",
       "op": 1,
       "beschreibung": "Ist Vorsicht geboten, erhöht sich Marios Angriffskraft um 2.",
-      "bild": "images/badges/kampfwut.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/kampfwut.png",
       "orte": [
         {
           "name": "Rohlingen",
@@ -492,7 +492,7 @@
       "name": "Kampfwut P",
       "op": 1,
       "beschreibung": "Ist Vorsicht geboten, erhöht sich die Angriffskraft deines Partners um 2.",
-      "bild": "images/badges/kampfwut_p.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/kampfwut_p.png",
       "orte": [
         {
           "name": "Rohlingen",
@@ -505,7 +505,7 @@
       "name": "Fortuna",
       "op": 1,
       "beschreibung": "Wenn Vorsicht geboten ist, wird jeglicher Schaden, den Mario erleidet, halbiert.",
-      "bild": "images/badges/fortuna.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/fortuna.png",
       "orte": [
         {
           "name": "Falkenheim",
@@ -518,7 +518,7 @@
       "name": "Fortuna P",
       "op": 1,
       "beschreibung": "Wenn Vorsicht geboten ist, wird jeglicher Schaden, den dein Partner erleidet, halbiert.",
-      "bild": "images/badges/fortuna_p.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/fortuna_p.png",
       "orte": [
         {
           "name": "Lohgards Burg",
@@ -531,7 +531,7 @@
       "name": "Kampfrausch",
       "op": 1,
       "beschreibung": "Ist Mario in Gefahr, erhöht sich seine Angriffskraft um 5.",
-      "bild": "images/badges/kampfrausch.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/kampfrausch.png",
       "orte": [
         {
           "name": "Rohlingen",
@@ -544,7 +544,7 @@
       "name": "Kampfrausch P",
       "op": 1,
       "beschreibung": "Ist dein Partner in Gefahr, erhöht sich seine Angriffskraft um 5.",
-      "bild": "images/badges/kampfrausch_p.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/kampfrausch_p.png",
       "orte": [
         {
           "name": "Blütenweiler",
@@ -557,7 +557,7 @@
       "name": "Tu mir nichts",
       "op": 1,
       "beschreibung": "Wenn Vorsicht geboten ist, gehen gegnerische Angriffe gegen Mario eher daneben.",
-      "bild": "images/badges/tu_mir_nichts.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/tu_mir_nichts.png",
       "orte": [
         {
           "name": "Feuertal",
@@ -570,7 +570,7 @@
       "name": "Tu mir nichts P",
       "op": 1,
       "beschreibung": "Wenn Vorsicht geboten ist, gehen gegnerische Angriffe gegen deinen Partner eher daneben.",
-      "bild": "images/badges/tu_mir_nichts_p.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/tu_mir_nichts_p.png",
       "orte": [
         {
           "name": "Tulpenbach",
@@ -583,7 +583,7 @@
       "name": "Glück gehabt!",
       "op": 2,
       "beschreibung": "Gegnerische Angriffe auf Mario gehen manchmal daneben.",
-      "bild": "images/badges/glueck_gehabt.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/glueck_gehabt.png",
       "orte": [
         {
           "name": "Katakomben",
@@ -596,7 +596,7 @@
       "name": "Glück gehabt! P",
       "op": 2,
       "beschreibung": "Gegnerische Angriffe auf deinen Partner gehen manchmal daneben.",
-      "bild": "images/badges/glueck_gehabt_p.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/glueck_gehabt_p.png",
       "orte": [
         {
           "name": "Rohlingen",
@@ -609,7 +609,7 @@
       "name": "Glückstag",
       "op": 7,
       "beschreibung": "Gegnerische Angriffe auf Mario gehen öfter mal daneben.",
-      "bild": "images/badges/glueckstag.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/glueckstag.png",
       "orte": [
         {
           "name": "Duellkerker",
@@ -622,7 +622,7 @@
       "name": "Elektriker",
       "op": 4,
       "beschreibung": "Ein kleines Stück Glück zu Beginn eines Kampfes.",
-      "bild": "images/badges/elektriker.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/elektriker.png",
       "orte": [
         {
           "name": "Spukabtei",
@@ -635,7 +635,7 @@
       "name": "Herzilein",
       "op": 2,
       "beschreibung": "Marios KP regenerieren sich langsam während des Kampfes.",
-      "bild": "images/badges/herzilein.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/herzilein.png",
       "orte": [
         {
           "name": "Feuertal",
@@ -648,7 +648,7 @@
       "name": "Herzilein P",
       "op": 2,
       "beschreibung": "Die KP deines Partners regenerieren sich langsam während des Kampfes.",
-      "bild": "images/badges/herzilein_p.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/herzilein_p.png",
       "orte": [
         {
           "name": "Katakomben",
@@ -661,7 +661,7 @@
       "name": "Blumensegen",
       "op": 2,
       "beschreibung": "Die BP regenerieren sich langsam während des Kampfes.",
-      "bild": "images/badges/blumensegen.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/blumensegen.png",
       "orte": [
         {
           "name": "Katakomben",
@@ -674,7 +674,7 @@
       "name": "Sparblüte",
       "op": 4,
       "beschreibung": "Jede Attacke, die Mario BP kostet, wird um 1 günstiger.",
-      "bild": "images/badges/sparbluete.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/sparbluete.png",
       "orte": [
         {
           "name": "Spukabtei",
@@ -687,7 +687,7 @@
       "name": "Sparblüte P",
       "op": 4,
       "beschreibung": "Jede Attacke, die deinen Partner BP kostet, wird um 1 günstiger.",
-      "bild": "images/badges/sparbluete_p.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/sparbluete_p.png",
       "orte": [
         {
           "name": "Katakomben",
@@ -700,7 +700,7 @@
       "name": "Blütenplus",
       "op": 3,
       "beschreibung": "Erleidet Mario im Kampf Schaden, erholt er sich manchmal um 1 BP.",
-      "bild": "images/badges/bluetenplus.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/bluetenplus.png",
       "orte": [
         {
           "name": "Duellkerker",
@@ -713,7 +713,7 @@
       "name": "KP-Segen",
       "op": 1,
       "beschreibung": "Marios Angriffskraft sinkt um 1, aber bei jeder Attacke erholen sich seine KP um 1.",
-      "bild": "images/badges/kp-segen.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/kp-segen.png",
       "orte": [
         {
           "name": "Rohlingen",
@@ -726,7 +726,7 @@
       "name": "KP-Segen P",
       "op": 1,
       "beschreibung": "Die Angriffskraft deines Partners sinkt um 1, aber bei jeder Attacke erholen sich seine KP um 1.",
-      "bild": "images/badges/kp-segen_p.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/kp-segen_p.png",
       "orte": [
         {
           "name": "Bad Glimmerich",
@@ -739,7 +739,7 @@
       "name": "BP-Segen",
       "op": 1,
       "beschreibung": "Marios Angriffskraft sinkt um 1, aber bei jeder Attacke erholen sich seine BP um 1.",
-      "bild": "images/badges/bp-segen.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/bp-segen.png",
       "orte": [
         {
           "name": "Rohlingen",
@@ -752,7 +752,7 @@
       "name": "Herzfinder",
       "op": 3,
       "beschreibung": "Nach einem gewonnenen Kampf findest du mehr Herzen.",
-      "bild": "images/badges/herzfinder.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/herzfinder.png",
       "orte": [
         {
           "name": "Katakomben",
@@ -765,7 +765,7 @@
       "name": "Blumenregen",
       "op": 3,
       "beschreibung": "Nach einem gewonnenen Kampf findest du mehr Blüten.",
-      "bild": "images/badges/blumenregen.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/blumenregen.png",
       "orte": [
         {
           "name": "Katakomben",
@@ -778,7 +778,7 @@
       "name": "Sammlerglück",
       "op": 3,
       "beschreibung": "Nach einem gewonnenen Kampf findest du öfter Items.",
-      "bild": "images/badges/sammlerglueck.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/sammlerglueck.png",
       "orte": [
         {
           "name": "Katakomben",
@@ -791,7 +791,7 @@
       "name": "Eis-Power",
       "op": 1,
       "beschreibung": "Mario nimmt keinen Schaden beim Sprung auf brennende Gegner. Erhöht Angriffskraft gegen feurige Gegner um 1 und senkt den durch diese Gegner zugefügten Schaden um 1.",
-      "bild": "images/badges/eis-power.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/eis-power.png",
       "orte": [
         {
           "name": "Isla Corsaria",
@@ -804,7 +804,7 @@
       "name": "Stachelschild",
       "op": 3,
       "beschreibung": "Verhindert Schaden bei Sprung auf stachelige Gegner.",
-      "bild": "images/badges/stachelschild.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/stachelschild.png",
       "orte": [
         {
           "name": "Katakomben",
@@ -817,7 +817,7 @@
       "name": "Zapper",
       "op": 3,
       "beschreibung": "Während eines Kampfes nehmen alle Gegner, die Mario berühren, Schaden durch Stromschlag!",
-      "bild": "images/badges/zapper.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/zapper.png",
       "orte": [
         {
           "name": "Duellkerker",
@@ -830,7 +830,7 @@
       "name": "Konterschlag",
       "op": 7,
       "beschreibung": "Gegner, die Mario angreifen, erleiden ebenfalls Schaden.",
-      "bild": "images/badges/konterschlag.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/konterschlag.png",
       "orte": [
         {
           "name": "Duellkerker",
@@ -843,7 +843,7 @@
       "name": "Protektor",
       "op": 4,
       "beschreibung": "Schützt Mario vor Vergiftung und Schwindelanfällen.",
-      "bild": "images/badges/protektor.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/protektor.png",
       "orte": [
         {
           "name": "Crucionen-HQ",
@@ -856,7 +856,7 @@
       "name": "Protektor P",
       "op": 4,
       "beschreibung": "Schützt deinen Partner vor Vergiftung und Schwindel.",
-      "bild": "images/badges/protektor_p.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/protektor_p.png",
       "orte": [
         {
           "name": "Crucionen-HQ",
@@ -869,7 +869,7 @@
       "name": "Rabatt",
       "op": 1,
       "beschreibung": "Nach Item-Einsatz im Kampf wird ein Teil des Kaufpreises für dieses Item erstattet.",
-      "bild": "images/badges/rabatt.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/rabatt.png",
       "orte": [
         {
           "name": "Rohlingen",
@@ -882,7 +882,7 @@
       "name": "Geld! Geld!",
       "op": 5,
       "beschreibung": "Nach einem gewonnenen Kampf findest du mehr Münzen.",
-      "bild": "images/badges/geld_geld.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/geld_geld.png",
       "orte": [
         {
           "name": "Rohlingen",
@@ -895,7 +895,7 @@
       "name": "Superstar",
       "op": 1,
       "beschreibung": "Mehr Sternen-Energie nach Marios Showeinlage.",
-      "bild": "images/badges/superstar.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/superstar.png",
       "orte": [
         {
           "name": "Rohlingen",
@@ -908,7 +908,7 @@
       "name": "Superstar P",
       "op": 1,
       "beschreibung": "Mehr Sternen-Energie nach Showeinlage eines Partners.",
-      "bild": "images/badges/superstar_p.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/superstar_p.png",
       "orte": [
         {
           "name": "Aeronas Haus",
@@ -921,7 +921,7 @@
       "name": "Kuckuck!",
       "op": 2,
       "beschreibung": "Zeigt die KP deiner Gegner.",
-      "bild": "images/badges/kuckuck.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/kuckuck.png",
       "orte": [
         {
           "name": "Katakomben",
@@ -934,7 +934,7 @@
       "name": "Schnellwechsel",
       "op": 7,
       "beschreibung": "Im Kampf kannst du direkt im Anschluss an \"Auswahl\" eine Aktion ausführen.",
-      "bild": "images/badges/schnellwechsel.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/schnellwechsel.png",
       "orte": [
         {
           "name": "Katakomben",
@@ -947,7 +947,7 @@
       "name": "Cool bleiben!",
       "op": 1,
       "beschreibung": "Zeigt das Timing für das Trick-Kommando an.",
-      "bild": "images/badges/cool_bleiben.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/cool_bleiben.png",
       "orte": [
         {
           "name": "Rohlingen",
@@ -960,7 +960,7 @@
       "name": "Novizenmünze",
       "op": 1,
       "beschreibung": "Das Action-Kommando wird einfacher auszuführen. Dafür erhält Mario weniger Sternen-Energie.",
-      "bild": "images/badges/novizenmuenze.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/novizenmuenze.png",
       "orte": [
         {
           "name": "Rohlingen",
@@ -973,7 +973,7 @@
       "name": "Champbrosche",
       "op": 1,
       "beschreibung": "Das Action-Kommando wird schwerer auszuführen. Dafür erhält Mario mehr Sternen-Energie.",
-      "bild": "images/badges/champbrosche.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/champbrosche.png",
       "orte": [
         {
           "name": "Rohlingen",
@@ -986,7 +986,7 @@
       "name": "Daneben!",
       "op": 1,
       "beschreibung": "Verhindert gegnerischen Erstangriff.",
-      "bild": "images/badges/daneben.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/daneben.png",
       "orte": [
         {
           "name": "Katakomben",
@@ -999,7 +999,7 @@
       "name": "Erstangriff",
       "op": 1,
       "beschreibung": "Ein schwächerer Gegner wird durch Erstangriff besiegt.",
-      "bild": "images/badges/erstangriff.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/erstangriff.png",
       "orte": [
         {
           "name": "Rohlingen",
@@ -1012,7 +1012,7 @@
       "name": "Straßenfeger",
       "op": 5,
       "beschreibung": "Ein schwächerer Gegner wird bei Berührung besiegt.",
-      "bild": "images/badges/strassenfeger.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/strassenfeger.png",
       "orte": [
         {
           "name": "Duellkerker",
@@ -1025,7 +1025,7 @@
       "name": "Sound-FX A",
       "op": 0,
       "beschreibung": "Beim Angriff gibt Mario Froschlaute von sich.",
-      "bild": "images/badges/sound_fx_a.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/sound_fx_a.png",
       "orte": [
         {
           "name": "Lohgards Burg",
@@ -1038,7 +1038,7 @@
       "name": "Sound-FX B",
       "op": 0,
       "beschreibung": "Beim Angriff erzeugt Mario einen seltsamen Ton.",
-      "bild": "images/badges/sound_fx_b.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/sound_fx_b.png",
       "orte": [
         {
           "name": "Katakomben",
@@ -1051,7 +1051,7 @@
       "name": "Sound-FX C",
       "op": 0,
       "beschreibung": "Beim Angriff piepst Mario wie eine Maus.",
-      "bild": "images/badges/sound_fx_c.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/sound_fx_c.png",
       "orte": [
         {
           "name": "Rohlingen",
@@ -1064,7 +1064,7 @@
       "name": "Sound-FX D",
       "op": 0,
       "beschreibung": "Beim Angriff imitiert Mario Peachs Stimme.",
-      "bild": "images/badges/sound_fx_d.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/sound_fx_d.png",
       "orte": [
         {
           "name": "Rohlingen",
@@ -1077,7 +1077,7 @@
       "name": "Sound-FX E",
       "op": 0,
       "beschreibung": "Beim Angriff brüllt Mario wie Bowser.",
-      "bild": "images/badges/sound_fx_e.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/sound_fx_e.png",
       "orte": [
         {
           "name": "Rohlingen",
@@ -1090,7 +1090,7 @@
       "name": "Dressman L",
       "op": 0,
       "beschreibung": "Mario bekommt ein Outfit in Luigis Farben.",
-      "bild": "images/badges/dressman_l.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/dressman_l.png",
       "orte": [
         {
           "name": "Glimmer-Tempel",
@@ -1103,7 +1103,7 @@
       "name": "Dressman W",
       "op": 0,
       "beschreibung": "Mario bekommt ein Outfit in Warios Farben.",
-      "bild": "images/badges/dressman_w.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/dressman_w.png",
       "orte": [
         {
           "name": "Rohlingen",
@@ -1116,7 +1116,7 @@
       "name": "Kriechspur",
       "op": 0,
       "beschreibung": "Verhindert, dass Mario läuft. Seine Schritte werden sehr langsam.",
-      "bild": "images/badges/kriechspur.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/kriechspur.png",
       "orte": [
         {
           "name": "Rohlingen",
@@ -1129,7 +1129,7 @@
       "name": "Nostalgische Töne",
       "op": 0,
       "beschreibung": "Ändert die Hintergrundmusik auf die GameCube Version.",
-      "bild": "images/badges/nostalgische_toene.png",
+      "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/badges/nostalgische_toene.png",
       "orte": [
         {
           "name": "Rohlingen",

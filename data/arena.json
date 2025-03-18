@@ -50,7 +50,7 @@
             "kp": 4,
             "angriff": 3,
             "verteidigung": 0,
-            "bild": "images/enemies/pokey.webp",
+            "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/pokey.webp",
             "anzahl": 3
           }
         ]
@@ -66,7 +66,7 @@
             "kp": 1,
             "angriff": 2,
             "verteidigung": 1,
-            "bild": "images/enemies/knochen-koopa.webp",
+            "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/knochen-koopa.webp",
             "anzahl": 3
           }
         ]
@@ -82,7 +82,7 @@
             "kp": 5,
             "angriff": 2,
             "verteidigung": 0,
-            "bild": "images/enemies/lakitu.webp",
+            "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/lakitu.webp",
             "anzahl": 1
           },
           {
@@ -90,7 +90,7 @@
             "kp": 3,
             "angriff": 3,
             "verteidigung": 3,
-            "bild": "images/enemies/stachi.webp",
+            "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/stachi.webp",
             "anzahl": 2
           }
         ]
@@ -106,7 +106,7 @@
             "kp": 5,
             "angriff": 2,
             "verteidigung": 0,
-            "bild": "images/enemies/bandit.webp",
+            "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/bandit.webp",
             "anzahl": 2
           },
           {
@@ -114,7 +114,7 @@
             "kp": 8,
             "angriff": 3,
             "verteidigung": 0,
-            "bild": "images/enemies/grosse_bandit.webp",
+            "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/grosse_bandit.webp",
             "anzahl": 2
           }
         ]
@@ -130,7 +130,7 @@
             "kp": 4,
             "angriff": 2,
             "verteidigung": 0,
-            "bild": "images/enemies/piranha-pflanze.webp",
+            "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/piranha-pflanze.webp",
             "anzahl": 1
           },
           {
@@ -138,7 +138,7 @@
             "kp": 5,
             "angriff": 2,
             "verteidigung": 0,
-            "bild": "images/enemies/fadula.webp",
+            "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/fadula.webp",
             "anzahl": 1
           },
           {
@@ -146,7 +146,7 @@
             "kp": 3,
             "angriff": 2,
             "verteidigung": 0,
-            "bild": "images/enemies/stratox.webp",
+            "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/stratox.webp",
             "anzahl": 1
           }
         ]
@@ -162,7 +162,7 @@
             "kp": 3,
             "angriff": 2,
             "verteidigung": 2,
-            "bild": "images/enemies/hyper-kahl.webp",
+            "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/hyper-kahl.webp",
             "anzahl": 3
           }
         ]
@@ -178,7 +178,7 @@
             "kp": 4,
             "angriff": 2,
             "verteidigung": 1,
-            "bild": "images/enemies/bob-omb.webp",
+            "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/bob-omb.webp",
             "anzahl": 4
           }
         ]
@@ -194,7 +194,7 @@
             "kp": 6,
             "angriff": 4,
             "verteidigung": 1000,
-            "bild": "images/enemies/roter_stahl-kirk.webp",
+            "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/roter_stahl-kirk.webp",
             "anzahl": 1
           },
           {
@@ -202,7 +202,7 @@
             "kp": 6,
             "angriff": 4,
             "verteidigung": 1000,
-            "bild": "images/enemies/gruener_stahl-kirk.webp",
+            "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/gruener_stahl-kirk.webp",
             "anzahl": 1
           }
         ]
@@ -218,7 +218,7 @@
             "kp": 5,
             "angriff": 3,
             "verteidigung": 4,
-            "bild": "images/enemies/roter_pickelkaefer.webp",
+            "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/roter_pickelkaefer.webp",
             "anzahl": 2
           }
         ]
@@ -234,7 +234,7 @@
             "kp": 2,
             "angriff": 1,
             "verteidigung": 4,
-            "bild": "images/enemies/dornhart.webp",
+            "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/dornhart.webp",
             "anzahl": 2
           }
         ]
@@ -250,7 +250,7 @@
             "kp": 8,
             "angriff": 3,
             "verteidigung": 1,
-            "bild": "images/enemies/schattenkoopa.webp",
+            "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/schattenkoopa.webp",
             "anzahl": 2
           },
           {
@@ -258,7 +258,7 @@
             "kp": 8,
             "angriff": 3,
             "verteidigung": 1,
-            "bild": "images/enemies/schattenpara.webp",
+            "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/schattenpara.webp",
             "anzahl": 1
           }
         ]
@@ -274,7 +274,7 @@
             "kp": 3,
             "angriff": 1,
             "verteidigung": 0,
-            "bild": "images/enemies/fuzzy.webp",
+            "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/fuzzy.webp",
             "anzahl": 1
           },
           {
@@ -282,7 +282,7 @@
             "kp": 5,
             "angriff": 3,
             "verteidigung": 0,
-            "bild": "images/enemies/wald-fuzzy.webp",
+            "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/wald-fuzzy.webp",
             "anzahl": 1
           },
           {
@@ -290,7 +290,7 @@
             "kp": 6,
             "angriff": 3,
             "verteidigung": 0,
-            "bild": "images/enemies/wiesen-fuzzy.webp",
+            "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/wiesen-fuzzy.webp",
             "anzahl": 1
           }
         ]
@@ -306,7 +306,7 @@
             "kp": 7,
             "angriff": 4,
             "verteidigung": 0,
-            "bild": "images/enemies/roter_kamek.webp",
+            "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/roter_kamek.webp",
             "anzahl": 1
           },
           {
@@ -314,7 +314,7 @@
             "kp": 7,
             "angriff": 4,
             "verteidigung": 0,
-            "bild": "images/enemies/weisser_kamek.webp",
+            "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/weisser_kamek.webp",
             "anzahl": 1
           },
           {
@@ -322,7 +322,7 @@
             "kp": 7,
             "angriff": 4,
             "verteidigung": 0,
-            "bild": "images/enemies/gruener_kamek.webp",
+            "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/gruener_kamek.webp",
             "anzahl": 1
           }
         ]
@@ -338,7 +338,7 @@
             "kp": 20,
             "angriff": 6,
             "verteidigung": 0,
-            "bild": "images/enemies/lanzhaeher.webp",
+            "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/lanzhaeher.webp",
             "anzahl": 1
           }
         ]
@@ -354,7 +354,7 @@
             "kp": 7,
             "angriff": 4,
             "verteidigung": 1,
-            "bild": "images/enemies/hammer-bruder.webp",
+            "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/hammer-bruder.webp",
             "anzahl": 1
           },
           {
@@ -362,7 +362,7 @@
             "kp": 7,
             "angriff": 2,
             "verteidigung": 1,
-            "bild": "images/enemies/bumerang-bruder.webp",
+            "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/bumerang-bruder.webp",
             "anzahl": 1
           },
           {
@@ -370,7 +370,7 @@
             "kp": 7,
             "angriff": 3,
             "verteidigung": 1,
-            "bild": "images/enemies/feuer-bruder.webp",
+            "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/feuer-bruder.webp",
             "anzahl": 1
           }
         ]
@@ -386,7 +386,7 @@
             "kp": 6,
             "angriff": 5,
             "verteidigung": 3,
-            "bild": "images/enemies/roter_chomp.webp",
+            "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/roter_chomp.webp",
             "anzahl": 2
           }
         ]
@@ -402,7 +402,7 @@
             "kp": 25,
             "angriff": 5,
             "verteidigung": 2,
-            "bild": "images/enemies/ass-koopatrouille.webp",
+            "bild": "https://yamihinotori.github.io/paper-mario-2-guide-new/images/enemies/ass-koopatrouille.webp",
             "anzahl": 1
           }
         ]
