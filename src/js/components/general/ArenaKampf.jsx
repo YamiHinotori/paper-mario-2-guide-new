@@ -5,23 +5,34 @@ export const ArenaKampf = ({ kampf }) => {
     const { name, rang, information, gegner } = kampf;
 
     return (
-        <div className="arenaItem">
-            <h3 className="name">{name} (Rang {rang})</h3>
+        <div className="arenaKampfContainer">
+            <p className="name">Rang: {rang}: {name}</p>
             {information && <p className="information">{information}</p>}
-
             <div className="gegnerListe">
-                <h4>Gegner:</h4>
-                <ul>
-                    {gegner.map((gegnerItem, index) => (
-                        <li key={index} className="gegnerItem">
-                            <img src={gegnerItem.bild} alt={gegnerItem.name} className="gegner-bild" />
-                            <div>
-                                <strong>{gegnerItem.name}</strong> (x{gegnerItem.anzahl})<br />
-                                KP: {gegnerItem.kp} | Angriff: {gegnerItem.angriff} | Verteidigung: {gegnerItem.verteidigung}
+                { gegner.map((gegner, index) => (
+                    <div className="gegnerContainer" key={`gegner-${index}`}>
+                        <div className="gegner">
+                            <img src={gegner.bild} alt={gegner.name} className="image" />
+                            <div className="infoContainer">
+                                <p>{gegner.name} ({gegner.anzahl}x)</p>
+                                <div className="table">
+                                    <div>
+                                        <p className="head">KP</p>
+                                        <p className="info">{gegner.kp}</p>
+                                    </div>
+                                    <div>
+                                        <p className="head">A</p>
+                                        <p className="info">{gegner.angriff}</p>
+                                    </div>
+                                    <div>
+                                        <p className="head">V</p>
+                                        <p className="info">{gegner.verteidigung}</p>
+                                    </div>
+                                </div>
                             </div>
-                        </li>
-                    ))}
-                </ul>
+                        </div>
+                    </div>
+                ))}
             </div>
         </div>
     );

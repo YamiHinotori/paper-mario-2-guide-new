@@ -1,0 +1,22 @@
+.shopItemClassContainer {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 10px;
+
+    .ueberschriftContainer {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 10px;
+        text-align: center;
+        
+        .image {
+            width: 50px;
+        }
+        
+        p {
+            line-height: 40px;
+        }
+    }
+}

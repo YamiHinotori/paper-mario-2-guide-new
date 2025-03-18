@@ -20,13 +20,10 @@ export const Duellkerker = () => {
     };
 
     return (
-        <div className="turmListe">
-            <h2>Turm der Prüfungen</h2>
-            <div className="etagenContainer">
-                {etagen.map(etage => (
-                    <Stockwerk key={etage.id} etage={etage} />
-                ))}
-            </div>
+        <div className="duellkerker">
+            {etagen.map(etage => (
+                <Stockwerk key={etage.id} etage={etage} />
+            ))}
         </div>
     );
 };

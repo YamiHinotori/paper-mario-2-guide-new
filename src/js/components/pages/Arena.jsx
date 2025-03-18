@@ -20,13 +20,10 @@ export const Arena = () => {
     };
 
     return (
-        <div className="arenaListe">
-            <h2>Arena-Kämpfe</h2>
-            <div className="arenaItems">
-                {kaempfe.map(kampf => (
-                    <ArenaKampf key={kampf.id} kampf={kampf} />
-                ))}
-            </div>
+        <div className="arena">
+            {kaempfe.map(kampf => (
+                <ArenaKampf key={kampf.id} kampf={kampf} />
+            ))}
         </div>
     );
 };

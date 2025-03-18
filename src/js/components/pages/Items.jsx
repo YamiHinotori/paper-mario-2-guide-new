@@ -26,13 +26,13 @@ export const Items = () => {
 
     return (
         <div className="itemListe">
-            <h2>Items</h2>
             <div className="inputContainer">
                 <input
                     type="text"
                     placeholder="Nach Name suchen..."
                     value={searchTerm}
                     onChange={(e) => setSearchTerm(e.target.value)}
+                    className="search"
                 />
             </div>
 

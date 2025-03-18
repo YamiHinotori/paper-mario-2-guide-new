@@ -1,0 +1,70 @@
+.stockwerkContainer {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding: 15px;
+    border-radius: 10px;
+    border: 3px solid black;
+    background-color: rgba(255, 255, 255, .9);
+    box-shadow: 2px 2px 0px black;
+    gap: 10px;
+    width: calc(50% - 46px);
+    height: inherit;
+
+    .gegnerListe {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        gap: 15px;
+        width: 100%;
+
+        .gegnerContainer {
+            .gegner {
+                display: flex;
+                flex-direction: row;
+                flex-wrap: wrap;
+                gap: 25px;
+    
+                .image {
+                    width: 150px;
+                    height: max-content;
+                    align-self: center;
+                }
+    
+                .infoContainer {
+                    display: flex;
+                    flex-direction: column;
+                    gap: 10px;
+    
+                    .table {
+                        border-left: 1px solid lightgrey;
+                        display: flex;
+                        flex-direction: row;
+                        flex-wrap: wrap;
+                        text-align: center;
+    
+                        div {
+                            width: 60px;
+                            
+                            .head {
+                                border-right: 1px solid lightgrey;
+                                border-top: 1px solid lightgrey;
+                                border-bottom: 1px solid lightgrey;
+                            }
+    
+                            .info {
+                                border-right: 1px solid lightgrey;
+                                border-bottom: 1px solid lightgrey;
+                            }
+                        }
+                    }
+                }
+    
+            }
+        }
+    }
+
+    @media (max-width: 780px) {
+        width: 100%;
+    }
+}

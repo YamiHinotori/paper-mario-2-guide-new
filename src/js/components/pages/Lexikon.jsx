@@ -27,20 +27,21 @@ export const Lexikon = () => {
     );
 
     return (
-        <div className="gegnerListe">
-            <h2>Gegner</h2>
+        <div className="lexikon">
             <div className="inputContainer">
                 <input
                     type="text"
                     placeholder="Nach Name suchen..."
                     value={searchName}
                     onChange={(e) => setSearchName(e.target.value)}
+                    className="search"
                 />
                 <input
                     type="text"
                     placeholder="Nach Ort suchen..."
                     value={searchOrt}
                     onChange={(e) => setSearchOrt(e.target.value)}
+                    className="search"
                 />
             </div>
 

@@ -5,10 +5,12 @@ export const ShopItem = ({ item }) => {
     const { name, bild, beschreibung, preis } = item;
 
     return (
-        <div className="shopItem">
-            <img src={bild} alt={name} className="shopItem-bild" />
+        <div className="shopItemClassContainer">
+            <div className="ueberschriftContainer">
+                <img src={bild} alt={name} className="bild" />
+                <p>{name}</p>
+            </div>
             <div className="shopItem-info">
-                <h4>{name}</h4>
                 <p className="beschreibung">{beschreibung}</p>
                 <p className="preis">Preis: {preis} Münzen</p>
             </div>

@@ -1,0 +1,24 @@
+.shopClassContainer {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding: 15px;
+    border-radius: 10px;
+    border: 3px solid black;
+    background-color: rgba(255, 255, 255, .9);
+    box-shadow: 2px 2px 0px black;
+    gap: 20px;
+    width: calc(50% - 46px);
+    height: inherit;
+
+    .shopName {
+        font-size: 18px;
+    }
+
+    .shopItems {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+}

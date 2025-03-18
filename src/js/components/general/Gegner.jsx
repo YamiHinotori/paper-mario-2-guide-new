@@ -5,14 +5,34 @@ export const Gegner = ({ gegner }) => {
     const { name, kp, angriff, verteidigung, bild, beschreibung, orte } = gegner;
 
     return (
-        <div className="gegnerItem">
-            <img src={bild} alt={name} className="gegner-bild" />
-            <div className="gegner-info">
-                <h3>{name}</h3>
-                <p className="beschreibung">{beschreibung}</p>
-                <p><strong>KP:</strong> {kp} | <strong>Angriff:</strong> {angriff} | <strong>Verteidigung:</strong> {verteidigung}</p>
-                <p><strong>Fundorte:</strong> {orte.join(", ")}</p>
+        <div className="gegnerContainerClass">
+            <div className="innerContainer">
+                <div className="gegner">
+                    <img src={bild} alt={name} className="image" />
+                    <div className="infoContainer">
+                        <p>{name}</p>
+                        <div className="table">
+                            <div>
+                                <p className="head">KP</p>
+                                <p className="info">{kp}</p>
+                            </div>
+                            <div>
+                                <p className="head">A</p>
+                                <p className="info">{angriff}</p>
+                            </div>
+                            <div>
+                                <p className="head">V</p>
+                                <p className="info">{verteidigung}</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
-        </div>
+            <p className="beschreibung">{beschreibung}</p>
+            <div>
+                <p>Fundorte:</p> 
+                <p>{orte.join(", ")}</p>  
+            </div>   
+        </div>              
     );
 };

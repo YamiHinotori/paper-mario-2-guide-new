@@ -1,0 +1,34 @@
+.itemListe {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 20px;
+
+    .inputContainer {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 15px;
+
+        .search {
+            background-color: rgba(255, 255, 255, .9);
+            padding: 10px 20px;
+            align-items: center;
+            border-radius: 10px;
+            border: 3px solid black;
+            box-shadow: 2px 2px 0px black;
+            font: inherit;
+
+            &:focus, &:focus-visible {
+                outline: none;
+            }
+        }
+    }
+    
+    .itemContainer {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 15px;
+    }
+}
