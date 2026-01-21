@@ -166,13 +166,6 @@
         "chapter": 7,
         "items": [
             {
-                "titel": "Dorfvorsteher: Rundschreiben!",
-                "verfuegbar": "Kapitel 6",
-                "ort": "Düsterdorf",
-                "loesung": "Sprich mit dem Dorfvorsteher in Düsterdorf, Bubuma und dem Bürgermeister von Blütenweiler. Kehre dann nach Düsterdorf zurück.",
-                "belohnung": "30 Münzen"
-            },
-            {
                 "titel": "Romanzo: Suchauftrag!",
                 "verfuegbar": "Kapitel 6",
                 "ort": "Rohlingen",
@@ -205,6 +198,13 @@
     {
         "chapter": 8,
         "items": [
+            {
+                "titel": "Dorfvorsteher: Rundschreiben!",
+                "verfuegbar": "Kapitel 7",
+                "ort": "Düsterdorf",
+                "loesung": "Sprich mit dem Dorfvorsteher in Düsterdorf, Bubuma und dem Bürgermeister von Blütenweiler. Kehre dann nach Düsterdorf zurück.",
+                "belohnung": "30 Münzen"
+            },
             {
                 "titel": "Goldfried: Lieferung!",
                 "verfuegbar": "Kapitel 7",
