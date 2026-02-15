@@ -4,7 +4,7 @@ import "../../../sass/components/pages/missionen.scss";
 
 export const Missionen = () => {
     const [checkedItems, setCheckedItems] = useState({});
-    const [fertigeEinblenden, setFertigeEinblenden] = useState(true);
+    const [fertigeEinblenden, setFertigeEinblenden] = useState(false);
     const [currentChapter, setCurrentChapter] = useState(0);
     const [data, setData] = useState([]);
     
@@ -17,6 +17,16 @@ export const Missionen = () => {
 
         getData();
     }, []);
+
+    // Blende fertige Aufträge beim initialen Laden und bei Kapitelwechsel aus (nur wenn sie ausgeblendet sein sollen)
+    useEffect(() => {
+        if (data.length > 0 && !fertigeEinblenden) {
+            const checkedItems = document.getElementsByClassName("auftragContainer checked");
+            Array.prototype.forEach.call(checkedItems, function(element) {
+                element.style.display = "none";
+            });
+        }
+    }, [data, currentChapter]);
 
     const getData = async () => {
         await fetch(`${process.env.REACT_APP_PUBLIC_URL}/data/auftraege.json`).then(res => res.json()).then(data => setData(data));

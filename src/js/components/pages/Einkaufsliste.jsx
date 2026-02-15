@@ -5,7 +5,7 @@ import "../../../sass/components/pages/einkaufsliste.scss";
 export const Einkaufsliste = () => {
     const [items, setItems] = useState([]);
     const [searchTerm, setSearchTerm] = useState("");
-    const [hideCompleted, setHideCompleted] = useState(false);
+    const [hideCompleted, setHideCompleted] = useState(true);
 
     useEffect(() => {
         getData();
@@ -57,7 +57,7 @@ export const Einkaufsliste = () => {
             <div className="einkaufslistenItems">
                 {items
                     .filter(item => item.name.toLowerCase().includes(searchTerm.toLowerCase()))
-                    .filter(item => !(hideCompleted && item.count === item.anzahl)) 
+                    .filter(item => !hideCompleted || item.count !== item.anzahl) 
                     .map((item) => (
                         <EinkaufslistenItem 
                             key={item.id}

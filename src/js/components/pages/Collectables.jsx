@@ -4,7 +4,7 @@ import "../../../sass/components/pages/collectables.scss";
 
 export const Collectables = () => {
     const [checkedItems, setCheckedItems] = useState({});
-    const [gesammelteEinblenden, setGesammelteEinblenden] = useState(true);
+    const [gesammelteEinblenden, setGesammelteEinblenden] = useState(false);
     const [currentChapter, setCurrentChapter] = useState(0);
     const [data, setData] = useState([]);
     
@@ -16,7 +16,18 @@ export const Collectables = () => {
         setCurrentChapter(currentChapterState);
 
         getData();
+
     }, []);
+
+    // Blende gesammelte Items beim initialen Laden und bei Kapitelwechsel aus (nur wenn sie ausgeblendet sein sollen)
+    useEffect(() => {
+        if (data.length > 0 && !gesammelteEinblenden) {
+            const checkedItems = document.getElementsByClassName("collectableContainer checked");
+            Array.prototype.forEach.call(checkedItems, function(element) {
+                element.style.display = "none";
+            });
+        }
+    }, [data, currentChapter]);
 
     const getData = async () => {
         await fetch(`${process.env.REACT_APP_PUBLIC_URL}/data/collectables.json`).then(res => res.json()).then(data => setData(data));

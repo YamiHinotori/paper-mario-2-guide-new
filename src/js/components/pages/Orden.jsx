@@ -6,7 +6,7 @@ export const Orden = () => {
     const [orden, setOrden] = useState([]);
     const [searchTerm, setSearchTerm] = useState("");
     const [orteSearchTerm, setOrteSearchTerm] = useState("");
-    const [hideCollected, setHideCollected] = useState(false);
+    const [hideCollected, setHideCollected] = useState(true);
 
     useEffect(() => {
         fetchOrden();
@@ -70,7 +70,7 @@ export const Orden = () => {
                     .filter(ordenItem => 
                         ordenItem.orte.some(ort => ort.name.toLowerCase().includes(orteSearchTerm.toLowerCase()))
                     )
-                    .filter(ordenItem => !(hideCollected && ordenItem.isCollected)) // Filtere nur, wenn `hideCollected` aktiv ist
+                    .filter(ordenItem => !hideCollected || !ordenItem.isCollected) // Korrigierte Logik
                     .map(ordenItem => (
                         <OrdenItem
                             key={ordenItem.id}

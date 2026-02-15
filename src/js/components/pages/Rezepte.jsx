@@ -6,7 +6,7 @@ export const Rezepte = () => {
     const [rezepte, setRezepte] = useState([]);
     const [searchTerm, setSearchTerm] = useState("");
     const [zutatenSearchTerm, setZutatenSearchTerm] = useState("");
-    const [hideCollected, setHideCollected] = useState(false);
+    const [hideCollected, setHideCollected] = useState(true);
 
     useEffect(() => {
         fetchRezepte();
@@ -68,7 +68,7 @@ export const Rezepte = () => {
                 {rezepte
                     .filter(rezept => rezept.name.toLowerCase().includes(searchTerm.toLowerCase()))
                     .filter(rezept => rezept.zutaten.some(zutat => zutat.toLowerCase().includes(zutatenSearchTerm.toLowerCase())))
-                    .filter(rezept => !(hideCollected && rezept.isCollected)) // Filtere nur, wenn `hideCollected` aktiv ist
+                    .filter(rezept => !hideCollected || !rezept.isCollected) // Korrigierte Logik
                     .map(rezept => (
                         <RezeptItem
                             key={rezept.id}
